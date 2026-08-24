@@ -1,0 +1,3001 @@
+timestamp_min,temperature_C,humidity_percent,temperature_rate_C_per_min,condition,time_to_critical_min,estimated_time_to_failure_min,recommended_action
+0,5.0,60.0,0.0397,Normal,125.83,125.94,Continue monitoring
+1,5.04,59.97,0.0458,Normal,108.36,108.3,Continue monitoring
+2,5.09,60.35,0.0165,Normal,296.74,297.58,Continue monitoring
+3,5.07,60.29,0.0538,Normal,91.58,91.64,Continue monitoring
+4,5.2,60.48,0.0444,Normal,108.15,108.11,Continue monitoring
+5,5.16,60.62,-0.0373,Normal,,,Continue monitoring
+6,5.12,60.5,-0.0089,Normal,,,Continue monitoring
+7,5.14,60.02,-0.0593,Normal,,,Continue monitoring
+8,5.01,59.88,-0.1095,Normal,,,Continue monitoring
+9,4.92,59.96,-0.0768,Normal,,,Continue monitoring
+10,4.85,59.61,0.0223,Normal,230.79,230.94,Continue monitoring
+11,4.97,59.55,0.0613,Normal,82.03,82.06,Continue monitoring
+12,4.97,59.19,-0.0191,Normal,,,Continue monitoring
+13,4.93,59.22,-0.0678,Normal,,,Continue monitoring
+14,4.84,59.31,-0.0701,Normal,,,Continue monitoring
+15,4.79,59.24,-0.0481,Normal,,,Continue monitoring
+16,4.74,59.7,-0.0246,Normal,,,Continue monitoring
+17,4.74,59.44,0.0324,Normal,162.48,162.35,Continue monitoring
+18,4.81,59.13,0.0413,Normal,125.85,125.67,Continue monitoring
+19,4.82,58.64,-0.0448,Normal,,,Continue monitoring
+20,4.72,58.69,-0.0236,Normal,,,Continue monitoring
+21,4.78,58.74,0.0249,Normal,209.64,209.64,Continue monitoring
+22,4.77,58.66,-0.0638,Normal,,,Continue monitoring
+23,4.65,58.48,-0.0776,Normal,,,Continue monitoring
+24,4.61,58.75,-0.0047,Normal,,,Continue monitoring
+25,4.64,58.31,0.0267,Normal,200.67,200.75,Continue monitoring
+26,4.67,58.21,-0.0141,Normal,,,Continue monitoring
+27,4.61,58.36,0.0142,Normal,380.41,379.58,Continue monitoring
+28,4.69,58.59,0.0077,Normal,691.58,689.61,Continue monitoring
+29,4.63,58.52,-0.0203,Normal,,,Continue monitoring
+30,4.65,58.76,-0.0059,Normal,,,Continue monitoring
+31,4.62,58.71,-0.0634,Normal,,,Continue monitoring
+32,4.53,58.42,-0.0118,Normal,,,Continue monitoring
+33,4.59,58.75,0.0296,Normal,182.57,182.77,Continue monitoring
+34,4.59,59.01,0.0116,Normal,467.29,466.38,Continue monitoring
+35,4.62,58.84,0.0289,Normal,186.18,186.16,Continue monitoring
+36,4.64,59.23,0.013,Normal,411.26,412.31,Continue monitoring
+37,4.64,59.62,-0.1062,Normal,,,Continue monitoring
+38,4.43,59.83,-0.1013,Normal,,,Continue monitoring
+39,4.44,59.75,0.0072,Normal,777.54,772.22,Continue monitoring
+40,4.45,59.25,-0.0051,Normal,,,Continue monitoring
+41,4.43,59.34,0.0503,Normal,110.7,110.74,Continue monitoring
+42,4.55,59.21,0.0268,Normal,203.66,203.36,Continue monitoring
+43,4.48,59.09,0.0043,Normal,1290.33,1283.72,Continue monitoring
+44,4.56,59.17,0.0154,Normal,352.96,353.25,Continue monitoring
+45,4.51,59.3,-0.0173,Normal,,,Continue monitoring
+46,4.52,59.54,-0.0242,Normal,,,Continue monitoring
+47,4.46,59.46,-0.0438,Normal,,,Continue monitoring
+48,4.43,59.09,-0.0038,Normal,,,Continue monitoring
+49,4.46,59.16,0.012,Normal,460.03,461.67,Continue monitoring
+50,4.46,59.1,-0.0564,Normal,,,Continue monitoring
+51,4.34,58.99,-0.0703,Normal,,,Continue monitoring
+52,4.32,58.79,-0.0202,Normal,,,Continue monitoring
+53,4.3,58.9,0.069,Normal,82.56,82.61,Continue monitoring
+54,4.45,58.94,0.0857,Normal,64.67,64.76,Continue monitoring
+55,4.48,58.92,-0.0664,Normal,,,Continue monitoring
+56,4.32,58.91,-0.0743,Normal,,,Continue monitoring
+57,4.33,59.53,-0.0053,Normal,,,Continue monitoring
+58,4.31,59.6,-0.0091,Normal,,,Continue monitoring
+59,4.31,59.31,0.0443,Normal,128.41,128.44,Continue monitoring
+60,4.4,59.5,0.0774,Normal,72.4,72.35,Continue monitoring
+61,4.46,59.27,0.0878,Normal,63.1,63.1,Continue monitoring
+62,4.58,58.92,0.0796,Normal,68.16,68.09,Continue monitoring
+63,4.62,59.47,-0.0161,Normal,,,Continue monitoring
+64,4.54,59.33,-0.0356,Normal,,,Continue monitoring
+65,4.55,59.2,-0.058,Normal,,,Continue monitoring
+66,4.43,59.22,-0.1045,Normal,,,Continue monitoring
+67,4.34,59.34,-0.0793,Normal,,,Continue monitoring
+68,4.27,59.73,-0.0681,Normal,,,Continue monitoring
+69,4.21,59.65,0.0012,Normal,4786.43,4825.0,Continue monitoring
+70,4.27,59.34,0.0416,Normal,137.59,137.74,Continue monitoring
+71,4.29,59.66,-0.0552,Normal,,,Continue monitoring
+72,4.16,59.71,-0.0539,Normal,,,Continue monitoring
+73,4.18,59.91,-0.0391,Normal,,,Continue monitoring
+74,4.08,59.58,-0.0286,Normal,,,Continue monitoring
+75,4.12,59.65,0.0309,Normal,190.18,190.29,Continue monitoring
+76,4.14,59.74,-0.0172,Normal,,,Continue monitoring
+77,4.09,59.79,-0.0155,Normal,,,Continue monitoring
+78,4.11,59.62,0.0864,Normal,68.17,68.17,Continue monitoring
+79,4.26,59.73,0.027,Normal,212.67,212.59,Continue monitoring
+80,4.17,59.9,-0.0866,Normal,,,Continue monitoring
+81,4.09,60.1,0.0074,Normal,803.49,798.65,Continue monitoring
+82,4.18,59.89,0.0849,Normal,68.55,68.55,Continue monitoring
+83,4.26,59.99,0.0714,Normal,80.39,80.39,Continue monitoring
+84,4.32,60.47,0.0231,Normal,246.04,245.89,Continue monitoring
+85,4.3,60.28,-0.0454,Normal,,,Continue monitoring
+86,4.23,60.08,-0.0387,Normal,,,Continue monitoring
+87,4.23,60.16,0.008,Normal,723.03,721.25,Continue monitoring
+88,4.25,60.37,0.0116,Normal,496.23,495.69,Continue monitoring
+89,4.25,60.73,-0.0101,Normal,,,Continue monitoring
+90,4.23,61.41,0.0144,Normal,399.6,400.69,Continue monitoring
+91,4.28,61.2,-0.0178,Normal,,,Continue monitoring
+92,4.19,61.32,-0.0518,Normal,,,Continue monitoring
+93,4.18,61.5,0.01,Normal,582.91,582.0,Continue monitoring
+94,4.21,61.48,-0.0149,Normal,,,Continue monitoring
+95,4.15,61.1,-0.0517,Normal,,,Continue monitoring
+96,4.11,61.31,-0.0093,Normal,,,Continue monitoring
+97,4.13,61.0,0.0155,Normal,379.08,378.71,Continue monitoring
+98,4.14,61.1,-0.0284,Normal,,,Continue monitoring
+99,4.07,61.14,-0.033,Normal,,,Continue monitoring
+100,4.08,60.85,0.0166,Normal,356.04,356.63,Continue monitoring
+101,4.1,60.99,0.0576,Normal,102.3,102.43,Continue monitoring
+102,4.19,61.25,-0.0118,Normal,,,Continue monitoring
+103,4.08,61.02,-0.0345,Normal,,,Continue monitoring
+104,4.12,61.15,0.0412,Normal,142.66,142.72,Continue monitoring
+105,4.16,62.11,0.0434,Normal,134.38,134.56,Continue monitoring
+106,4.21,62.4,0.061,Normal,94.95,94.92,Continue monitoring
+107,4.28,62.56,0.0255,Normal,223.69,224.31,Continue monitoring
+108,4.26,62.75,-0.0435,Normal,,,Continue monitoring
+109,4.2,62.69,-0.0503,Normal,,,Continue monitoring
+110,4.16,62.71,0.0732,Normal,79.83,79.78,Continue monitoring
+111,4.34,62.24,0.12,Normal,47.12,47.17,Continue monitoring
+112,4.4,61.84,0.0086,Normal,653.3,651.16,Continue monitoring
+113,4.36,62.11,-0.0163,Normal,,,Continue monitoring
+114,4.37,61.84,-0.026,Normal,,,Continue monitoring
+115,4.31,62.01,-0.0578,Normal,,,Continue monitoring
+116,4.25,62.07,-0.0274,Normal,,,Continue monitoring
+117,4.25,61.9,0.0876,Normal,65.6,65.64,Continue monitoring
+118,4.43,62.06,0.0048,Normal,1172.96,1160.42,Continue monitoring
+119,4.26,62.11,-0.1075,Normal,,,Continue monitoring
+120,4.21,62.32,-0.0582,Normal,,,Continue monitoring
+121,4.15,62.29,-0.0115,Normal,,,Continue monitoring
+122,4.19,62.51,-0.0278,Normal,,,Continue monitoring
+123,4.09,62.43,-0.067,Normal,,,Continue monitoring
+124,4.05,62.26,0.0516,Normal,115.19,115.31,Continue monitoring
+125,4.2,62.36,0.0202,Normal,287.61,287.13,Continue monitoring
+126,4.09,62.59,0.0345,Normal,171.42,171.3,Continue monitoring
+127,4.26,62.85,0.0241,Normal,237.89,238.17,Continue monitoring
+128,4.14,62.73,-0.0101,Normal,,,Continue monitoring
+129,4.24,62.55,0.0684,Normal,84.12,84.21,Continue monitoring
+130,4.28,62.75,-0.0193,Normal,,,Continue monitoring
+131,4.21,62.73,-0.1667,Normal,,,Continue monitoring
+132,3.95,62.48,-0.1398,Normal,,,Continue monitoring
+133,3.93,62.16,0.0552,Normal,110.05,109.96,Continue monitoring
+134,4.06,61.81,0.0477,Normal,124.62,124.53,Continue monitoring
+135,4.02,61.84,0.04,Normal,149.29,149.5,Continue monitoring
+136,4.14,61.48,0.1042,Normal,56.28,56.24,Continue monitoring
+137,4.23,61.48,0.0073,Normal,794.14,790.41,Continue monitoring
+138,4.15,61.6,-0.0313,Normal,,,Continue monitoring
+139,4.17,61.45,0.0108,Normal,542.38,539.81,Continue monitoring
+140,4.17,61.35,0.0073,Normal,794.71,798.63,Continue monitoring
+141,4.18,61.52,0.068,Normal,85.59,85.59,Continue monitoring
+142,4.31,61.21,0.1488,Normal,38.26,38.24,Continue monitoring
+143,4.48,60.72,0.0792,Normal,69.66,69.7,Continue monitoring
+144,4.47,60.87,0.0052,Normal,1070.56,1063.46,Continue monitoring
+145,4.49,60.71,0.0029,Normal,1890.53,1900.0,Continue monitoring
+146,4.47,60.59,-0.0319,Normal,,,Continue monitoring
+147,4.43,60.8,-0.0093,Normal,,,Continue monitoring
+148,4.45,60.63,0.0503,Normal,110.33,110.34,Continue monitoring
+149,4.53,60.7,0.0685,Normal,79.91,79.85,Continue monitoring
+150,4.59,60.86,-0.0006,Normal,,,Continue monitoring
+151,4.52,60.72,-0.0033,Normal,,,Continue monitoring
+152,4.58,60.87,0.0291,Normal,186.38,186.25,Continue monitoring
+153,4.58,60.9,0.0503,Normal,107.76,107.75,Continue monitoring
+154,4.69,60.76,0.073,Normal,72.81,72.74,Continue monitoring
+155,4.73,60.7,0.0132,Normal,400.02,399.24,Continue monitoring
+156,4.71,60.98,0.0243,Normal,217.54,217.7,Continue monitoring
+157,4.78,61.18,0.0852,Normal,61.27,61.27,Continue monitoring
+158,4.88,61.19,0.0795,Normal,64.38,64.4,Continue monitoring
+159,4.94,61.11,0.0402,Normal,125.81,125.87,Continue monitoring
+160,4.96,61.08,0.0168,Normal,299.02,300.0,Continue monitoring
+161,4.97,61.23,-0.0288,Normal,,,Continue monitoring
+162,4.9,61.75,-0.073,Normal,,,Continue monitoring
+163,4.82,61.45,0.0061,Normal,850.72,849.18,Continue monitoring
+164,4.92,61.64,0.0713,Normal,71.3,71.25,Continue monitoring
+165,4.97,61.8,0.0245,Normal,205.64,205.31,Continue monitoring
+166,4.97,61.58,0.0025,Normal,1980.08,2012.0,Continue monitoring
+167,4.97,61.41,0.042,Normal,119.61,119.76,Continue monitoring
+168,5.05,61.37,0.006,Normal,827.07,825.0,Continue monitoring
+169,4.98,61.29,-0.0165,Normal,,,Continue monitoring
+170,5.02,61.15,-0.0164,Normal,,,Continue monitoring
+171,4.95,61.21,-0.0231,Normal,,,Continue monitoring
+172,4.97,61.08,-0.009,Normal,,,Continue monitoring
+173,4.93,61.14,-0.0768,Normal,,,Continue monitoring
+174,4.82,60.79,-0.0867,Normal,,,Continue monitoring
+175,4.76,60.74,-0.0163,Normal,,,Continue monitoring
+176,4.78,61.11,0.0467,Normal,111.57,111.78,Continue monitoring
+177,4.85,61.07,0.0335,Normal,153.42,153.73,Continue monitoring
+178,4.85,60.81,-0.0015,Normal,,,Continue monitoring
+179,4.85,60.74,0.0122,Normal,423.2,422.13,Continue monitoring
+180,4.88,60.54,0.0337,Normal,152.12,151.93,Continue monitoring
+181,4.92,60.92,0.0164,Normal,309.45,309.76,Continue monitoring
+182,4.91,61.02,0.0233,Normal,218.92,218.45,Continue monitoring
+183,4.96,60.92,0.0366,Normal,137.7,137.7,Continue monitoring
+184,4.98,60.92,0.0129,Normal,389.86,389.15,Continue monitoring
+185,4.99,60.73,0.0049,Normal,1025.08,1022.45,Continue monitoring
+186,4.99,60.85,0.059,Normal,84.84,84.92,Continue monitoring
+187,5.11,61.09,0.1442,Normal,33.93,33.91,Continue monitoring
+188,5.28,60.9,0.121,Normal,39.0,39.01,Continue monitoring
+189,5.35,60.95,0.1225,Normal,37.96,37.96,Continue monitoring
+190,5.53,60.75,0.054,Normal,82.86,82.78,Continue monitoring
+191,5.46,60.6,-0.1185,Normal,,,Continue monitoring
+192,5.29,60.46,-0.1153,Normal,,,Continue monitoring
+193,5.23,60.5,-0.0167,Normal,,,Continue monitoring
+194,5.25,60.97,0.0517,Normal,91.81,91.88,Continue monitoring
+195,5.33,60.83,0.0021,Normal,2244.4,2223.81,Continue monitoring
+196,5.26,60.95,-0.0887,Normal,,,Continue monitoring
+197,5.15,61.41,-0.0056,Normal,,,Continue monitoring
+198,5.25,61.29,-0.0213,Normal,,,Continue monitoring
+199,5.11,61.63,-0.0731,Normal,,,Continue monitoring
+200,5.1,61.94,-0.0684,Normal,,,Continue monitoring
+201,4.97,61.79,-0.0636,Normal,,,Continue monitoring
+202,4.97,61.8,-0.0178,Normal,,,Continue monitoring
+203,4.94,61.96,-0.0607,Normal,,,Continue monitoring
+204,4.85,61.92,-0.0379,Normal,,,Continue monitoring
+205,4.86,62.05,0.0333,Normal,154.39,154.35,Continue monitoring
+206,4.92,61.77,-0.0329,Normal,,,Continue monitoring
+207,4.8,62.09,-0.0481,Normal,,,Continue monitoring
+208,4.82,61.9,0.0753,Normal,68.71,68.79,Continue monitoring
+209,4.95,61.93,0.1092,Normal,46.26,46.25,Continue monitoring
+210,5.04,61.95,0.1296,Normal,38.26,38.27,Continue monitoring
+211,5.21,62.38,0.0725,Normal,66.14,66.07,Continue monitoring
+212,5.19,62.63,0.0159,Normal,303.55,302.52,Continue monitoring
+213,5.24,62.97,-0.0128,Normal,,,Continue monitoring
+214,5.16,63.14,0.0037,Normal,1293.8,1308.11,Continue monitoring
+215,5.25,62.7,-0.005,Normal,,,Continue monitoring
+216,5.15,62.19,-0.0581,Normal,,,Continue monitoring
+217,5.13,62.37,0.0493,Normal,98.75,98.78,Continue monitoring
+218,5.25,62.39,0.1252,Normal,37.93,37.94,Continue monitoring
+219,5.38,62.04,-0.003,Normal,,,Continue monitoring
+220,5.24,62.03,-0.0528,Normal,,,Continue monitoring
+221,5.27,62.02,-0.0673,Normal,,,Continue monitoring
+222,5.11,62.0,-0.1349,Normal,,,Continue monitoring
+223,5.0,62.17,-0.0375,Normal,,,Continue monitoring
+224,5.03,61.93,-0.0059,Normal,,,Continue monitoring
+225,4.99,61.67,-0.0231,Normal,,,Continue monitoring
+226,4.99,61.91,-0.0419,Normal,,,Continue monitoring
+227,4.91,62.03,-0.0606,Normal,,,Continue monitoring
+228,4.87,61.83,-0.0255,Normal,,,Continue monitoring
+229,4.86,61.58,-0.0264,Normal,,,Continue monitoring
+230,4.81,61.28,0.0564,Normal,91.88,92.02,Continue monitoring
+231,4.97,61.28,0.0506,Normal,99.39,99.41,Continue monitoring
+232,4.92,61.34,-0.0325,Normal,,,Continue monitoring
+233,4.91,61.28,0.0201,Normal,253.76,253.23,Continue monitoring
+234,4.96,61.47,0.0033,Normal,1507.43,1527.27,Continue monitoring
+235,4.91,61.33,-0.0322,Normal,,,Continue monitoring
+236,4.89,60.75,-0.0716,Normal,,,Continue monitoring
+237,4.77,61.09,0.0052,Normal,1007.59,1005.77,Continue monitoring
+238,4.9,61.03,0.0889,Normal,57.38,57.37,Continue monitoring
+239,4.95,61.11,0.1462,Normal,34.56,34.54,Continue monitoring
+240,5.19,61.39,0.118,Normal,40.72,40.76,Continue monitoring
+241,5.18,61.15,-0.0694,Normal,,,Continue monitoring
+242,5.05,61.2,-0.0945,Normal,,,Continue monitoring
+243,4.99,60.85,-0.0561,Normal,,,Continue monitoring
+244,4.94,60.58,0.0416,Normal,121.51,121.63,Continue monitoring
+245,5.08,60.8,0.0672,Normal,73.29,73.21,Continue monitoring
+246,5.08,61.17,0.0028,Normal,1773.55,1757.14,Continue monitoring
+247,5.08,60.95,0.064,Normal,76.8,76.88,Continue monitoring
+248,5.2,61.09,0.0194,Normal,246.72,247.42,Continue monitoring
+249,5.12,61.04,-0.0765,Normal,,,Continue monitoring
+250,5.05,60.69,0.002,Normal,2446.66,2475.0,Continue monitoring
+251,5.13,61.17,-0.0189,Normal,,,Continue monitoring
+252,5.01,61.31,-0.082,Normal,,,Continue monitoring
+253,4.96,61.19,-0.0497,Normal,,,Continue monitoring
+254,4.91,60.97,-0.0218,Normal,,,Continue monitoring
+255,4.92,60.77,0.0128,Normal,398.26,396.88,Continue monitoring
+256,4.94,60.75,0.0013,Normal,4014.57,3892.31,Continue monitoring
+257,4.92,60.53,-0.0326,Normal,,,Continue monitoring
+258,4.87,60.71,-0.003,Normal,,,Continue monitoring
+259,4.92,60.47,0.024,Normal,211.79,211.67,Continue monitoring
+260,4.92,60.66,-0.0628,Normal,,,Continue monitoring
+261,4.79,60.79,-0.0933,Normal,,,Continue monitoring
+262,4.74,60.94,-0.057,Normal,,,Continue monitoring
+263,4.68,60.49,-0.0956,Normal,,,Continue monitoring
+264,4.55,60.5,-0.0547,Normal,,,Continue monitoring
+265,4.57,60.27,0.0359,Normal,151.23,151.25,Continue monitoring
+266,4.62,59.86,0.0229,Normal,235.06,234.93,Continue monitoring
+267,4.61,59.55,-0.0287,Normal,,,Continue monitoring
+268,4.56,59.56,-0.0605,Normal,,,Continue monitoring
+269,4.49,59.47,0.0058,Normal,944.14,950.0,Continue monitoring
+270,4.57,59.32,0.0737,Normal,73.68,73.68,Continue monitoring
+271,4.64,59.04,0.0546,Normal,98.17,98.17,Continue monitoring
+272,4.68,59.4,-0.0777,Normal,,,Continue monitoring
+273,4.48,59.2,-0.0758,Normal,,,Continue monitoring
+274,4.53,59.15,0.0379,Normal,144.25,144.33,Continue monitoring
+275,4.56,59.0,0.0183,Normal,297.19,297.27,Continue monitoring
+276,4.57,58.96,0.0502,Normal,108.31,108.17,Continue monitoring
+277,4.66,59.03,0.0602,Normal,88.7,88.7,Continue monitoring
+278,4.69,58.92,-0.006,Normal,,,Continue monitoring
+279,4.65,58.81,-0.0037,Normal,,,Continue monitoring
+280,4.68,58.71,0.0274,Normal,194.43,194.16,Continue monitoring
+281,4.7,59.23,0.0464,Normal,114.1,114.22,Continue monitoring
+282,4.77,59.15,0.0829,Normal,63.08,63.09,Continue monitoring
+283,4.87,59.05,-0.0335,Normal,,,Continue monitoring
+284,4.7,58.79,-0.1564,Normal,,,Continue monitoring
+285,4.55,58.71,-0.0741,Normal,,,Continue monitoring
+286,4.56,59.12,0.0138,Normal,394.08,394.2,Continue monitoring
+287,4.58,59.07,0.0463,Normal,117.13,117.06,Continue monitoring
+288,4.65,58.52,0.0426,Normal,125.61,125.59,Continue monitoring
+289,4.67,58.71,-0.0497,Normal,,,Continue monitoring
+290,4.55,59.0,-0.0456,Normal,,,Continue monitoring
+291,4.58,58.89,0.0389,Normal,139.6,139.33,Continue monitoring
+292,4.63,59.46,0.0326,Normal,164.89,164.72,Continue monitoring
+293,4.64,59.52,-0.0111,Normal,,,Continue monitoring
+294,4.6,59.31,0.0148,Normal,363.58,364.86,Continue monitoring
+295,4.67,59.09,0.0361,Normal,147.71,147.65,Continue monitoring
+296,4.68,58.98,0.022,Normal,241.72,241.82,Continue monitoring
+297,4.72,59.06,0.0607,Normal,87.12,86.99,Continue monitoring
+298,4.8,58.93,0.0307,Normal,169.4,169.38,Continue monitoring
+299,4.78,58.69,-0.0286,Normal,,,Continue monitoring
+300,4.74,58.78,0.0125,Normal,420.44,420.8,Continue monitoring
+301,4.8,58.55,0.0651,Normal,79.89,79.88,Continue monitoring
+302,4.87,58.89,0.0513,Normal,99.93,100.0,Continue monitoring
+303,4.9,59.36,-0.0144,Normal,,,Continue monitoring
+304,4.84,59.05,-0.1021,Normal,,,Continue monitoring
+305,4.7,59.42,-0.045,Normal,,,Continue monitoring
+306,4.75,59.41,0.0374,Normal,140.41,140.37,Continue monitoring
+307,4.77,59.13,0.109,Normal,47.92,47.98,Continue monitoring
+308,4.97,59.16,0.1022,Normal,49.21,49.22,Continue monitoring
+309,4.98,59.34,0.0236,Normal,212.59,212.71,Continue monitoring
+310,5.02,59.4,-0.0124,Normal,,,Continue monitoring
+311,4.95,59.51,0.0437,Normal,115.56,115.56,Continue monitoring
+312,5.11,59.85,0.139,Normal,35.21,35.18,Continue monitoring
+313,5.23,59.72,0.0241,Normal,197.46,197.93,Continue monitoring
+314,5.15,59.69,-0.0374,Normal,,,Continue monitoring
+315,5.16,59.96,-0.0655,Normal,,,Continue monitoring
+316,5.02,60.35,-0.074,Normal,,,Continue monitoring
+317,5.01,60.24,-0.0468,Normal,,,Continue monitoring
+318,4.93,59.83,-0.0076,Normal,,,Continue monitoring
+319,4.99,59.84,-0.0187,Normal,,,Continue monitoring
+320,4.89,59.52,-0.065,Normal,,,Continue monitoring
+321,4.86,59.94,-0.0238,Normal,,,Continue monitoring
+322,4.84,59.56,-0.0202,Normal,,,Continue monitoring
+323,4.82,59.49,-0.1177,Normal,,,Continue monitoring
+324,4.61,59.48,-0.1171,Normal,,,Continue monitoring
+325,4.59,59.65,0.0647,Normal,83.59,83.62,Continue monitoring
+326,4.74,59.94,0.0632,Normal,83.26,83.23,Continue monitoring
+327,4.72,59.66,0.0922,Normal,57.32,57.27,Continue monitoring
+328,4.92,59.67,0.1035,Normal,49.06,49.08,Continue monitoring
+329,4.92,59.67,0.0085,Normal,598.61,597.65,Continue monitoring
+330,4.94,59.63,-0.015,Normal,,,Continue monitoring
+331,4.89,59.5,-0.0243,Normal,,,Continue monitoring
+332,4.89,59.36,-0.0298,Normal,,,Continue monitoring
+333,4.83,59.39,-0.0387,Normal,,,Continue monitoring
+334,4.81,59.76,-0.1162,Normal,,,Continue monitoring
+335,4.6,60.04,-0.0562,Normal,,,Continue monitoring
+336,4.7,59.52,0.0361,Normal,146.64,146.81,Continue monitoring
+337,4.67,59.42,-0.07,Normal,,,Continue monitoring
+338,4.56,59.23,-0.1007,Normal,,,Continue monitoring
+339,4.47,59.67,-0.007,Normal,,,Continue monitoring
+340,4.55,59.99,0.0663,Normal,82.26,82.2,Continue monitoring
+341,4.6,59.7,0.0079,Normal,684.16,683.54,Continue monitoring
+342,4.56,59.83,-0.0699,Normal,,,Continue monitoring
+343,4.46,60.0,-0.0585,Normal,,,Continue monitoring
+344,4.45,59.91,0.0188,Normal,295.04,295.21,Continue monitoring
+345,4.5,60.02,0.014,Normal,392.68,392.86,Continue monitoring
+346,4.47,60.31,-0.0577,Normal,,,Continue monitoring
+347,4.39,60.47,-0.0195,Normal,,,Continue monitoring
+348,4.43,60.39,0.0368,Normal,151.36,151.36,Continue monitoring
+349,4.46,60.07,0.05,Normal,110.77,110.8,Continue monitoring
+350,4.53,60.03,0.0161,Normal,340.47,339.75,Continue monitoring
+351,4.49,60.29,-0.0491,Normal,,,Continue monitoring
+352,4.44,59.94,-0.0904,Normal,,,Continue monitoring
+353,4.31,60.09,-0.1135,Normal,,,Continue monitoring
+354,4.21,60.53,-0.1345,Normal,,,Continue monitoring
+355,4.04,60.95,-0.0748,Normal,,,Continue monitoring
+356,4.06,60.93,-0.0134,Normal,,,Continue monitoring
+357,4.02,61.03,-0.0233,Normal,,,Continue monitoring
+358,4.01,61.3,0.0031,Normal,1954.08,1932.26,Continue monitoring
+359,4.02,61.34,-0.01,Normal,,,Continue monitoring
+360,3.99,61.33,-0.0022,Normal,,,Continue monitoring
+361,4.02,60.9,-0.0416,Normal,,,Continue monitoring
+362,3.91,61.09,-0.0471,Normal,,,Continue monitoring
+363,3.92,61.04,0.0076,Normal,802.47,800.0,Continue monitoring
+364,3.93,61.13,-0.0209,Normal,,,Continue monitoring
+365,3.88,60.93,-0.0138,Normal,,,Continue monitoring
+366,3.9,60.69,0.0242,Normal,252.54,252.07,Continue monitoring
+367,3.93,60.26,0.0575,Normal,105.57,105.57,Continue monitoring
+368,4.01,60.38,0.0514,Normal,116.47,116.54,Continue monitoring
+369,4.03,60.63,0.0769,Normal,77.63,77.63,Continue monitoring
+370,4.17,60.88,-0.007,Normal,,,Continue monitoring
+371,4.02,60.56,-0.0986,Normal,,,Continue monitoring
+372,3.97,60.57,-0.0043,Normal,,,Continue monitoring
+373,4.01,60.38,0.0282,Normal,212.56,212.41,Continue monitoring
+374,4.03,60.2,-0.017,Normal,,,Continue monitoring
+375,3.98,59.84,-0.0614,Normal,,,Continue monitoring
+376,3.9,59.51,-0.076,Normal,,,Continue monitoring
+377,3.82,59.77,-0.077,Normal,,,Continue monitoring
+378,3.75,60.43,-0.0182,Normal,,,Continue monitoring
+379,3.79,60.47,-0.0146,Normal,,,Continue monitoring
+380,3.72,60.65,-0.0574,Normal,,,Continue monitoring
+381,3.67,60.68,0.0794,Normal,79.7,79.72,Continue monitoring
+382,3.88,60.66,0.1484,Normal,41.26,41.24,Continue monitoring
+383,3.97,60.48,0.0446,Normal,135.28,135.2,Continue monitoring
+384,3.97,60.92,-0.0265,Normal,,,Continue monitoring
+385,3.92,61.38,0.0032,Normal,1882.39,1900.0,Continue monitoring
+386,3.97,61.24,0.0536,Normal,112.41,112.5,Continue monitoring
+387,4.02,61.48,0.0502,Normal,119.11,119.12,Continue monitoring
+388,4.07,61.09,-0.0042,Normal,,,Continue monitoring
+389,4.02,61.02,-0.0321,Normal,,,Continue monitoring
+390,4.01,61.18,0.0041,Normal,1450.09,1460.98,Continue monitoring
+391,4.02,60.85,0.0223,Normal,267.78,268.16,Continue monitoring
+392,4.05,61.0,0.0376,Normal,158.12,158.24,Continue monitoring
+393,4.1,61.27,0.0557,Normal,105.84,105.92,Continue monitoring
+394,4.17,61.38,0.0306,Normal,190.96,190.52,Continue monitoring
+395,4.16,60.97,0.0144,Normal,406.13,405.56,Continue monitoring
+396,4.19,61.02,0.028,Normal,206.97,207.5,Continue monitoring
+397,4.22,60.7,-0.0324,Normal,,,Continue monitoring
+398,4.13,60.96,-0.0448,Normal,,,Continue monitoring
+399,4.13,61.13,-0.0004,Normal,,,Continue monitoring
+400,4.13,61.14,0.0387,Normal,151.84,151.68,Continue monitoring
+401,4.2,61.01,0.0414,Normal,140.07,140.1,Continue monitoring
+402,4.21,60.9,-0.0135,Normal,,,Continue monitoring
+403,4.18,60.82,-0.0085,Normal,,,Continue monitoring
+404,4.2,60.7,0.0591,Normal,98.2,98.14,Continue monitoring
+405,4.3,60.48,0.0428,Normal,133.42,133.18,Continue monitoring
+406,4.28,60.37,0.0504,Normal,113.47,113.49,Continue monitoring
+407,4.4,60.42,0.0992,Normal,56.52,56.45,Continue monitoring
+408,4.48,60.04,0.052,Normal,106.27,106.15,Continue monitoring
+409,4.5,60.27,0.014,Normal,393.59,392.86,Continue monitoring
+410,4.51,60.53,-0.0174,Normal,,,Continue monitoring
+411,4.47,60.89,0.0713,Normal,77.66,77.56,Continue monitoring
+412,4.65,60.79,0.0741,Normal,72.17,72.2,Continue monitoring
+413,4.61,61.16,0.0454,Normal,118.74,118.72,Continue monitoring
+414,4.74,61.03,0.0464,Normal,113.42,113.36,Continue monitoring
+415,4.71,60.96,-0.0706,Normal,,,Continue monitoring
+416,4.6,60.73,-0.0939,Normal,,,Continue monitoring
+417,4.52,60.53,-0.0416,Normal,,,Continue monitoring
+418,4.52,60.59,0.0606,Normal,90.45,90.43,Continue monitoring
+419,4.64,60.34,0.1014,Normal,52.86,52.86,Continue monitoring
+420,4.72,60.29,0.0374,Normal,141.23,141.18,Continue monitoring
+421,4.71,60.46,-0.0469,Normal,,,Continue monitoring
+422,4.62,60.55,-0.0383,Normal,,,Continue monitoring
+423,4.64,60.68,0.0182,Normal,294.21,294.51,Continue monitoring
+424,4.66,61.29,-0.0139,Normal,,,Continue monitoring
+425,4.61,61.16,-0.0504,Normal,,,Continue monitoring
+426,4.56,61.02,-0.0504,Normal,,,Continue monitoring
+427,4.51,61.32,0.0313,Normal,175.28,175.4,Continue monitoring
+428,4.62,61.17,0.0235,Normal,228.55,228.94,Continue monitoring
+429,4.56,61.29,-0.0554,Normal,,,Continue monitoring
+430,4.51,61.45,-0.014,Normal,,,Continue monitoring
+431,4.53,61.07,0.07,Normal,78.14,78.14,Continue monitoring
+432,4.65,61.52,0.0374,Normal,143.03,143.05,Continue monitoring
+433,4.6,61.42,-0.0131,Normal,,,Continue monitoring
+434,4.63,61.51,0.0378,Normal,142.25,142.06,Continue monitoring
+435,4.68,62.01,0.0193,Normal,276.22,275.65,Continue monitoring
+436,4.66,61.81,-0.0623,Normal,,,Continue monitoring
+437,4.55,61.63,-0.0565,Normal,,,Continue monitoring
+438,4.55,62.08,-0.022,Normal,,,Continue monitoring
+439,4.51,62.13,-0.0214,Normal,,,Continue monitoring
+440,4.51,62.43,0.1004,Normal,54.68,54.68,Continue monitoring
+441,4.71,62.3,0.0815,Normal,64.89,64.91,Continue monitoring
+442,4.67,62.56,0.0077,Normal,692.12,692.21,Continue monitoring
+443,4.73,63.02,0.0506,Normal,104.15,104.15,Continue monitoring
+444,4.77,62.93,0.047,Normal,111.25,111.28,Continue monitoring
+445,4.82,63.21,0.0564,Normal,91.76,91.84,Continue monitoring
+446,4.89,63.33,0.0755,Normal,67.75,67.68,Continue monitoring
+447,4.97,63.63,0.098,Normal,51.34,51.33,Continue monitoring
+448,5.08,63.79,0.0486,Normal,101.19,101.23,Continue monitoring
+449,5.07,63.82,0.0416,Normal,118.61,118.51,Continue monitoring
+450,5.17,63.62,0.063,Normal,76.73,76.67,Continue monitoring
+451,5.19,63.52,0.0159,Normal,302.28,302.52,Continue monitoring
+452,5.2,63.84,0.0088,Normal,546.18,545.45,Continue monitoring
+453,5.21,63.85,-0.0468,Normal,,,Continue monitoring
+454,5.1,64.04,-0.0286,Normal,,,Continue monitoring
+455,5.16,64.58,0.0135,Normal,358.66,358.52,Continue monitoring
+456,5.13,64.64,-0.0023,Normal,,,Continue monitoring
+457,5.15,65.03,0.0062,Normal,786.81,782.26,Continue monitoring
+458,5.14,65.1,0.0205,Normal,236.89,237.07,Continue monitoring
+459,5.19,65.15,0.0065,Normal,744.53,740.0,Continue monitoring
+460,5.16,65.19,0.0251,Normal,193.09,192.83,Continue monitoring
+461,5.24,64.94,0.0483,Normal,98.59,98.55,Continue monitoring
+462,5.25,64.76,0.0531,Normal,89.38,89.45,Continue monitoring
+463,5.35,64.38,0.0254,Normal,182.83,183.07,Continue monitoring
+464,5.3,64.48,0.0403,Normal,116.65,116.63,Continue monitoring
+465,5.43,64.46,0.0404,Normal,113.12,113.12,Continue monitoring
+466,5.38,64.93,-0.0801,Normal,,,Continue monitoring
+467,5.27,64.38,-0.0403,Normal,,,Continue monitoring
+468,5.3,64.26,-0.0232,Normal,,,Continue monitoring
+469,5.22,64.43,-0.0311,Normal,,,Continue monitoring
+470,5.24,64.29,-0.0415,Normal,,,Continue monitoring
+471,5.14,64.51,-0.0252,Normal,,,Continue monitoring
+472,5.19,64.48,0.0999,Normal,48.15,48.15,Continue monitoring
+473,5.34,64.22,0.0128,Normal,362.92,364.06,Continue monitoring
+474,5.22,64.04,-0.0628,Normal,,,Continue monitoring
+475,5.21,64.1,-0.0115,Normal,,,Continue monitoring
+476,5.19,64.19,-0.0597,Normal,,,Continue monitoring
+477,5.09,64.55,-0.0533,Normal,,,Continue monitoring
+478,5.09,64.83,0.0104,Normal,471.38,472.12,Continue monitoring
+479,5.11,64.95,0.0365,Normal,133.86,133.97,Continue monitoring
+480,5.16,65.06,0.0485,Normal,99.8,99.79,Continue monitoring
+481,5.21,65.39,0.0336,Normal,142.65,142.56,Continue monitoring
+482,5.23,65.57,0.0043,Normal,1117.44,1109.3,Continue monitoring
+483,5.22,65.93,-0.0306,Normal,,,Continue monitoring
+484,5.17,66.38,-0.0287,Normal,,,Continue monitoring
+485,5.16,66.02,0.0035,Normal,1375.14,1382.86,Continue monitoring
+486,5.17,65.85,0.0387,Normal,124.58,124.81,Continue monitoring
+487,5.24,65.69,0.0158,Normal,301.68,301.27,Continue monitoring
+488,5.2,65.22,-0.0359,Normal,,,Continue monitoring
+489,5.17,64.61,-0.0814,Normal,,,Continue monitoring
+490,5.04,64.8,-0.0319,Normal,,,Continue monitoring
+491,5.1,64.91,-0.0072,Normal,,,Continue monitoring
+492,5.03,64.89,-0.0388,Normal,,,Continue monitoring
+493,5.03,64.6,0.06,Normal,82.9,82.83,Continue monitoring
+494,5.15,64.82,0.0513,Normal,94.61,94.54,Continue monitoring
+495,5.13,64.83,-0.0005,Normal,,,Continue monitoring
+496,5.15,64.32,-0.0016,Normal,,,Continue monitoring
+497,5.13,64.15,-0.05,Normal,,,Continue monitoring
+498,5.05,64.08,0.0318,Normal,155.58,155.66,Continue monitoring
+499,5.19,64.24,0.2458,Normal,19.57,19.57,Continue monitoring
+500,5.54,61.53,0.1406,Normal,31.75,31.72,Continue monitoring
+501,5.47,61.8,0.0036,Normal,1258.24,1258.33,Continue monitoring
+502,5.54,61.88,0.096,Normal,46.41,46.46,Continue monitoring
+503,5.66,62.48,0.0848,Normal,51.12,51.18,Continue monitoring
+504,5.71,61.57,0.1142,Normal,37.54,37.57,Continue monitoring
+505,5.89,61.92,0.0705,Normal,58.28,58.3,Continue monitoring
+506,5.86,62.48,0.0224,Normal,185.18,184.82,Continue monitoring
+507,5.94,62.79,0.0815,Normal,49.86,49.82,Continue monitoring
+508,6.02,62.06,0.1392,Normal,28.61,28.59,Continue monitoring
+509,6.21,62.53,0.0349,Normal,108.33,108.6,Continue monitoring
+510,6.09,62.89,-0.0172,Normal,,,Continue monitoring
+511,6.18,62.71,0.1656,Normal,23.07,23.07,Continue monitoring
+512,6.42,62.49,0.0373,Normal,95.97,95.98,Continue monitoring
+513,6.25,62.7,0.0032,Normal,1180.3,1171.88,Continue monitoring
+514,6.43,62.1,-0.0059,Normal,,,Continue monitoring
+515,6.24,62.52,-0.0482,Normal,,,Continue monitoring
+516,6.33,62.63,0.1587,Normal,23.13,23.13,Continue monitoring
+517,6.56,62.49,0.0683,Normal,50.38,50.37,Continue monitoring
+518,6.47,62.93,0.0744,Normal,47.5,47.45,Continue monitoring
+519,6.71,62.27,0.1499,Normal,21.96,21.95,Continue monitoring
+520,6.77,63.33,0.0637,Normal,50.81,50.71,Continue monitoring
+521,6.84,63.54,0.1153,Normal,27.45,27.41,Continue monitoring
+522,7.0,62.96,0.0262,Normal,114.57,114.5,Continue monitoring
+523,6.89,62.98,-0.028,Normal,,,Continue monitoring
+524,6.94,63.81,0.0018,Normal,1684.42,1700.0,Continue monitoring
+525,6.89,62.91,0.115,Normal,27.02,27.04,Continue monitoring
+526,7.17,63.71,0.0993,Normal,28.5,28.5,Continue monitoring
+527,7.09,63.69,0.0186,Normal,156.73,156.45,Continue monitoring
+528,7.21,64.0,0.0775,Normal,36.03,36.0,Continue monitoring
+529,7.25,63.86,0.152,Normal,18.11,18.09,Continue monitoring
+530,7.51,63.74,0.059,Normal,42.19,42.2,Continue monitoring
+531,7.36,63.84,-0.0603,Normal,,,Continue monitoring
+532,7.39,64.56,0.0652,Normal,40.0,40.03,Continue monitoring
+533,7.49,63.54,0.0412,Normal,60.84,60.92,Continue monitoring
+534,7.47,64.14,0.0875,Normal,28.88,28.91,Continue monitoring
+535,7.67,63.55,0.1165,Normal,20.01,20.0,Continue monitoring
+536,7.71,63.2,0.0327,Normal,70.13,70.03,Continue monitoring
+537,7.73,64.03,0.1052,Normal,21.53,21.58,Continue monitoring
+538,7.92,63.59,0.0015,Normal,1420.12,1386.67,Continue monitoring
+539,7.74,63.59,-0.0618,Normal,,,Continue monitoring
+540,7.79,64.53,0.1731,Normal,12.75,12.77,Continue monitoring
+541,8.08,64.18,0.1623,Warning,11.8,11.83,Check cooling system immediately
+542,8.12,64.15,-0.0058,Warning,,,Monitor temperature closely
+543,8.07,64.02,-0.0013,Warning,,,Monitor temperature closely
+544,8.12,63.58,0.0744,Warning,25.34,25.27,Check cooling system immediately
+545,8.22,64.23,0.1022,Warning,17.4,17.42,Check cooling system immediately
+546,8.32,64.34,0.0429,Warning,39.15,39.16,Monitor temperature closely
+547,8.31,64.0,0.0331,Warning,51.19,51.06,Monitor temperature closely
+548,8.39,64.7,0.0208,Warning,77.7,77.4,Monitor temperature closely
+549,8.35,64.48,0.0664,Warning,24.86,24.85,Check cooling system immediately
+550,8.52,64.21,0.0822,Warning,18.02,18.0,Check cooling system immediately
+551,8.51,64.64,0.0053,Warning,278.39,281.13,Monitor temperature closely
+552,8.53,64.74,0.0477,Warning,30.83,30.82,Monitor temperature closely
+553,8.61,65.08,0.1988,Warning,7.0,6.99,Check cooling system immediately
+554,8.93,64.36,0.1172,Warning,9.16,9.13,Check cooling system immediately
+555,8.84,64.46,0.0081,Warning,142.43,143.21,Monitor temperature closely
+556,8.94,64.29,0.0579,Warning,18.26,18.31,Check cooling system immediately
+557,8.96,64.5,0.0101,Warning,103.3,102.97,Monitor temperature closely
+558,8.96,64.49,0.0737,Warning,14.07,14.11,Check cooling system immediately
+559,9.11,64.62,0.0904,Warning,9.9,9.85,Check cooling system immediately
+560,9.14,64.86,0.0225,Warning,37.99,38.22,Monitor temperature closely
+561,9.15,65.11,0.0074,Warning,114.0,114.86,Monitor temperature closely
+562,9.16,65.18,0.1258,Warning,6.69,6.68,Check cooling system immediately
+563,9.4,64.84,0.1373,Warning,4.35,4.37,Check cooling system immediately
+564,9.43,65.8,-0.0339,Warning,,,Monitor temperature closely
+565,9.33,64.67,0.0252,Warning,26.39,26.59,Check cooling system immediately
+566,9.48,65.08,0.1674,Warning,3.08,3.11,Check cooling system immediately
+567,9.67,65.36,0.0158,Warning,20.87,20.89,Check cooling system immediately
+568,9.52,64.94,0.0289,Warning,16.78,16.61,Check cooling system immediately
+569,9.73,65.22,0.0938,Warning,2.91,2.88,Check cooling system immediately
+570,9.7,65.88,-0.003,Warning,,,Monitor temperature closely
+571,9.72,65.53,0.0576,Warning,4.84,4.86,Check cooling system immediately
+572,9.82,65.87,0.103,Warning,1.76,1.75,Check cooling system immediately
+573,9.93,65.56,0.0632,Warning,1.15,1.11,Check cooling system immediately
+574,9.95,65.55,-0.0227,Warning,,,Monitor temperature closely
+575,9.88,65.85,0.1331,Warning,0.89,0.9,Check cooling system immediately
+576,10.21,65.45,0.0882,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+577,10.06,65.5,0.0133,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+578,10.24,66.08,0.0846,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+579,10.23,65.58,0.0347,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+580,10.31,65.37,0.0721,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+581,10.37,66.4,0.0063,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+582,10.32,65.49,0.1174,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+583,10.61,65.91,0.1555,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+584,10.63,66.14,-0.0097,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+585,10.59,66.43,-0.0208,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+586,10.59,66.35,0.0512,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+587,10.69,65.82,0.1089,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+588,10.81,66.29,0.069,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+589,10.83,65.97,0.1102,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+590,11.03,66.85,0.1048,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+591,11.04,66.43,-0.0728,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+592,10.88,67.38,0.019,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+593,11.08,66.35,0.1458,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+594,11.17,67.17,0.0615,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+595,11.2,67.26,0.0866,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+596,11.35,66.37,0.034,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+597,11.27,67.23,-0.0918,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+598,11.16,66.84,0.0297,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+599,11.33,66.76,0.1566,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+600,11.48,66.86,0.0951,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+601,11.52,66.61,0.1636,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+602,11.8,67.85,0.0356,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+603,11.59,67.78,-0.0477,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+604,11.71,67.25,0.104,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+605,11.79,66.99,0.1153,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+606,11.94,67.35,0.0435,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+607,11.88,66.83,-0.0151,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+608,11.91,66.74,0.0796,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+609,12.04,66.97,0.0851,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+610,12.08,68.05,0.1075,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+611,12.26,67.54,0.0671,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+612,12.21,68.35,0.0329,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+613,12.32,67.52,0.0064,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+614,12.23,67.86,0.0723,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+615,12.47,67.5,0.1287,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+616,12.48,67.65,0.0195,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+617,12.51,66.85,0.0395,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+618,12.56,68.29,0.0421,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+619,12.59,67.97,-2.8011,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+620,6.96,67.19,-2.8299,Normal,,,Continue monitoring
+621,6.93,67.14,-0.0384,Normal,,,Continue monitoring
+622,6.88,66.88,-0.0492,Normal,,,Continue monitoring
+623,6.83,66.58,-0.0246,Normal,,,Continue monitoring
+624,6.83,66.38,0.0107,Normal,295.49,296.26,Continue monitoring
+625,6.85,65.99,0.0226,Normal,139.35,139.38,Continue monitoring
+626,6.88,66.2,-0.0665,Normal,,,Continue monitoring
+627,6.72,66.3,-0.0306,Normal,,,Continue monitoring
+628,6.82,65.99,0.116,Normal,27.43,27.41,Continue monitoring
+629,6.95,66.1,0.0387,Normal,78.77,78.81,Continue monitoring
+630,6.9,66.08,-0.0059,Normal,,,Continue monitoring
+631,6.94,66.1,0.0439,Normal,69.73,69.7,Continue monitoring
+632,6.98,65.87,0.0283,Normal,106.52,106.71,Continue monitoring
+633,7.0,65.52,0.0023,Normal,1291.61,1304.35,Continue monitoring
+634,6.99,65.29,-0.0339,Normal,,,Continue monitoring
+635,6.93,65.6,0.0142,Normal,215.81,216.2,Continue monitoring
+636,7.02,65.76,-0.0,Normal,,,Continue monitoring
+637,6.93,65.68,0.0048,Normal,635.7,639.58,Continue monitoring
+638,7.03,65.71,0.1413,Normal,21.05,21.02,Continue monitoring
+639,7.21,65.81,0.1005,Normal,27.76,27.76,Continue monitoring
+640,7.23,65.73,0.013,Normal,212.95,213.08,Continue monitoring
+641,7.24,65.69,0.0337,Normal,82.06,81.9,Continue monitoring
+642,7.29,65.93,-0.0031,Normal,,,Continue monitoring
+643,7.23,65.6,-0.1049,Normal,,,Continue monitoring
+644,7.08,65.73,-0.1176,Normal,,,Continue monitoring
+645,7.0,65.19,-0.0286,Normal,,,Continue monitoring
+646,7.03,65.81,0.0153,Normal,194.31,194.12,Continue monitoring
+647,7.03,66.02,0.003,Normal,981.23,990.0,Continue monitoring
+648,7.03,66.0,0.04,Normal,74.11,74.25,Continue monitoring
+649,7.11,65.93,0.0475,Normal,60.97,60.84,Continue monitoring
+650,7.13,66.01,-0.016,Normal,,,Continue monitoring
+651,7.07,66.25,-0.0337,Normal,,,Continue monitoring
+652,7.06,66.07,0.0145,Normal,203.25,202.76,Continue monitoring
+653,7.1,65.84,0.0226,Normal,128.23,128.32,Continue monitoring
+654,7.11,65.84,0.0446,Normal,64.95,64.8,Continue monitoring
+655,7.19,65.96,0.0424,Normal,66.16,66.27,Continue monitoring
+656,7.19,66.16,0.0546,Normal,51.45,51.47,Continue monitoring
+657,7.3,66.3,0.056,Normal,48.16,48.21,Continue monitoring
+658,7.3,65.97,-0.0422,Normal,,,Continue monitoring
+659,7.22,65.9,-0.067,Normal,,,Continue monitoring
+660,7.17,65.85,-0.0221,Normal,,,Continue monitoring
+661,7.17,65.98,-0.0006,Normal,,,Continue monitoring
+662,7.17,66.1,-0.0002,Normal,,,Continue monitoring
+663,7.17,65.61,-0.035,Normal,,,Continue monitoring
+664,7.1,65.57,-0.086,Normal,,,Continue monitoring
+665,7.0,65.72,0.0128,Normal,233.54,234.38,Continue monitoring
+666,7.12,66.03,0.0527,Normal,54.6,54.65,Continue monitoring
+667,7.11,66.4,-0.0026,Normal,,,Continue monitoring
+668,7.12,66.32,-0.0186,Normal,,,Continue monitoring
+669,7.07,66.24,-0.0401,Normal,,,Continue monitoring
+670,7.04,66.28,-0.0091,Normal,,,Continue monitoring
+671,7.05,66.28,0.0239,Normal,123.4,123.43,Continue monitoring
+672,7.09,66.58,0.0555,Normal,52.55,52.43,Continue monitoring
+673,7.16,66.21,-0.0642,Normal,,,Continue monitoring
+674,6.96,66.44,-0.1568,Normal,,,Continue monitoring
+675,6.85,66.39,-0.1015,Normal,,,Continue monitoring
+676,6.75,65.94,-0.0251,Normal,,,Continue monitoring
+677,6.8,66.13,-0.0014,Normal,,,Continue monitoring
+678,6.75,65.48,-0.0449,Normal,,,Continue monitoring
+679,6.71,65.58,-0.081,Normal,,,Continue monitoring
+680,6.59,65.62,-0.0598,Normal,,,Continue monitoring
+681,6.59,65.77,0.0042,Normal,817.97,811.9,Continue monitoring
+682,6.6,65.53,0.0526,Normal,64.62,64.64,Continue monitoring
+683,6.69,65.49,0.0468,Normal,70.69,70.73,Continue monitoring
+684,6.69,65.25,-0.0188,Normal,,,Continue monitoring
+685,6.66,65.03,-0.0246,Normal,,,Continue monitoring
+686,6.64,65.46,-0.0618,Normal,,,Continue monitoring
+687,6.53,65.06,0.004,Normal,873.27,867.5,Continue monitoring
+688,6.65,65.0,0.0321,Normal,104.41,104.36,Continue monitoring
+689,6.6,65.26,-0.051,Normal,,,Continue monitoring
+690,6.55,65.72,0.0029,Normal,1193.41,1189.66,Continue monitoring
+691,6.6,65.6,0.1134,Normal,29.96,29.98,Continue monitoring
+692,6.77,65.45,0.116,Normal,27.81,27.84,Continue monitoring
+693,6.83,65.52,0.0818,Normal,38.72,38.75,Continue monitoring
+694,6.94,65.91,0.0533,Normal,57.39,57.41,Continue monitoring
+695,6.94,65.72,0.0197,Normal,155.44,155.33,Continue monitoring
+696,6.98,65.55,0.0989,Normal,30.55,30.54,Continue monitoring
+697,7.14,65.59,0.0659,Normal,43.4,43.4,Continue monitoring
+698,7.11,65.63,-0.0685,Normal,,,Continue monitoring
+699,7.0,65.39,-0.0059,Normal,,,Continue monitoring
+700,7.1,65.23,0.0061,Normal,472.63,475.41,Continue monitoring
+701,7.01,65.36,0.0056,Normal,537.81,533.93,Continue monitoring
+702,7.11,65.54,0.0873,Normal,33.13,33.1,Continue monitoring
+703,7.19,65.35,-0.017,Normal,,,Continue monitoring
+704,7.08,65.73,-0.0698,Normal,,,Continue monitoring
+705,7.05,65.66,0.0402,Normal,73.37,73.38,Continue monitoring
+706,7.16,65.8,0.0714,Normal,39.86,39.78,Continue monitoring
+707,7.19,66.34,-0.0075,Normal,,,Continue monitoring
+708,7.14,66.58,-0.0235,Normal,,,Continue monitoring
+709,7.15,66.64,0.0634,Normal,45.02,44.95,Continue monitoring
+710,7.27,66.77,0.0827,Normal,33.06,33.01,Continue monitoring
+711,7.31,67.04,0.0069,Normal,387.91,389.86,Continue monitoring
+712,7.28,66.83,-0.0564,Normal,,,Continue monitoring
+713,7.2,66.34,0.0405,Normal,69.27,69.14,Continue monitoring
+714,7.36,66.06,0.0734,Normal,35.94,35.97,Continue monitoring
+715,7.34,65.99,0.0034,Normal,770.62,782.35,Continue monitoring
+716,7.37,66.2,0.0467,Normal,56.32,56.32,Continue monitoring
+717,7.44,66.05,0.0277,Normal,92.38,92.42,Continue monitoring
+718,7.42,66.12,-0.0166,Normal,,,Continue monitoring
+719,7.4,66.52,0.0097,Normal,267.81,268.04,Continue monitoring
+720,7.44,66.71,0.0462,Normal,55.38,55.41,Continue monitoring
+721,7.5,67.0,0.0338,Normal,74.15,73.96,Continue monitoring
+722,7.51,66.68,0.0232,Normal,107.14,107.33,Continue monitoring
+723,7.54,66.51,-0.0052,Normal,,,Continue monitoring
+724,7.5,66.66,0.0284,Normal,88.03,88.03,Continue monitoring
+725,7.6,66.67,0.0619,Normal,38.78,38.77,Continue monitoring
+726,7.62,67.09,0.022,Normal,108.05,108.18,Continue monitoring
+727,7.64,67.74,0.0323,Normal,73.05,73.07,Continue monitoring
+728,7.69,67.3,0.0528,Normal,43.8,43.75,Continue monitoring
+729,7.75,67.4,0.0817,Normal,27.54,27.54,Continue monitoring
+730,7.85,67.56,0.0461,Normal,46.63,46.64,Continue monitoring
+731,7.84,67.26,-0.0139,Normal,,,Continue monitoring
+732,7.82,67.05,-0.0316,Normal,,,Continue monitoring
+733,7.78,67.19,0.0436,Normal,50.98,50.92,Continue monitoring
+734,7.91,67.29,0.019,Normal,110.12,110.0,Continue monitoring
+735,7.82,67.4,0.0,Normal,72939.79,,Continue monitoring
+736,7.91,67.25,0.0425,Normal,49.12,49.18,Continue monitoring
+737,7.9,67.25,-0.0368,Normal,,,Continue monitoring
+738,7.84,67.42,-0.0362,Normal,,,Continue monitoring
+739,7.83,67.52,-0.0403,Normal,,,Continue monitoring
+740,7.76,67.41,-0.0066,Normal,,,Continue monitoring
+741,7.82,67.32,0.098,Normal,22.29,22.24,Continue monitoring
+742,7.95,67.22,0.0781,Normal,26.21,26.25,Continue monitoring
+743,7.97,67.45,-0.0477,Normal,,,Continue monitoring
+744,7.86,67.01,-0.1178,Normal,,,Continue monitoring
+745,7.74,67.33,-0.0831,Normal,,,Continue monitoring
+746,7.69,67.97,-0.0446,Normal,,,Continue monitoring
+747,7.65,68.01,0.0391,Normal,60.16,60.1,Continue monitoring
+748,7.77,68.51,0.1441,Normal,15.47,15.48,Continue monitoring
+749,7.94,68.82,0.1148,Normal,17.99,17.94,Continue monitoring
+750,8.0,68.96,0.0323,Normal,61.87,61.92,Continue monitoring
+751,8.0,68.83,-0.0327,Normal,,,Continue monitoring
+752,7.93,68.83,-0.0395,Normal,,,Continue monitoring
+753,7.92,68.71,0.021,Normal,98.78,99.05,Continue monitoring
+754,7.98,68.95,0.0314,Normal,64.46,64.33,Continue monitoring
+755,7.98,69.32,-0.0421,Normal,,,Continue monitoring
+756,7.89,69.27,-0.0743,Normal,,,Continue monitoring
+757,7.84,68.81,-0.032,Normal,,,Continue monitoring
+758,7.83,68.78,0.0572,Normal,37.94,37.94,Continue monitoring
+759,7.95,68.93,0.0196,Normal,104.78,104.59,Continue monitoring
+760,7.87,69.4,0.0079,Normal,270.82,269.62,Continue monitoring
+761,7.97,69.54,0.0398,Normal,51.15,51.01,Continue monitoring
+762,7.95,69.3,-0.0239,Normal,,,Continue monitoring
+763,7.92,69.57,0.0264,Normal,78.77,78.79,Continue monitoring
+764,8.0,69.96,0.0218,Normal,91.86,91.74,Continue monitoring
+765,7.96,69.68,-0.0139,Normal,,,Continue monitoring
+766,7.97,69.24,0.0186,Normal,109.25,109.14,Continue monitoring
+767,8.0,69.2,-0.0057,Normal,,,Continue monitoring
+768,7.96,68.8,0.001,Normal,2056.09,2040.0,Continue monitoring
+769,8.0,68.67,-0.0272,Normal,,,Continue monitoring
+770,7.91,67.95,-0.0479,Normal,,,Continue monitoring
+771,7.9,68.39,0.0468,Normal,44.79,44.87,Continue monitoring
+772,8.0,68.28,0.0238,Normal,84.0,84.03,Continue monitoring
+773,7.95,68.4,-0.064,Normal,,,Continue monitoring
+774,7.87,68.47,-0.0093,Normal,,,Continue monitoring
+775,7.93,68.78,0.0266,Normal,77.59,77.82,Continue monitoring
+776,7.93,68.73,-0.0391,Normal,,,Continue monitoring
+777,7.85,68.52,-0.0442,Normal,,,Continue monitoring
+778,7.84,68.61,0.0275,Normal,78.7,78.55,Continue monitoring
+779,7.91,68.41,0.0816,Normal,25.62,25.61,Continue monitoring
+780,8.0,68.35,0.0442,Normal,45.28,45.25,Continue monitoring
+781,8.0,68.16,-0.0978,Normal,,,Continue monitoring
+782,7.8,68.38,-0.0675,Normal,,,Continue monitoring
+783,7.86,68.31,0.0322,Normal,66.45,66.46,Continue monitoring
+784,7.87,68.44,-0.0598,Normal,,,Continue monitoring
+785,7.74,68.31,-0.0307,Normal,,,Continue monitoring
+786,7.81,67.99,0.0435,Normal,50.39,50.34,Continue monitoring
+787,7.83,67.65,0.0304,Normal,71.36,71.38,Continue monitoring
+788,7.87,67.64,-0.0459,Normal,,,Continue monitoring
+789,7.74,67.94,-0.094,Normal,,,Continue monitoring
+790,7.68,67.73,-0.0214,Normal,,,Continue monitoring
+791,7.7,68.02,-0.0326,Normal,,,Continue monitoring
+792,7.61,68.04,-0.0235,Normal,,,Continue monitoring
+793,7.65,68.21,0.0242,Normal,97.1,97.11,Continue monitoring
+794,7.66,68.12,-0.026,Normal,,,Continue monitoring
+795,7.6,68.14,-0.076,Normal,,,Continue monitoring
+796,7.51,67.41,-0.0254,Normal,,,Continue monitoring
+797,7.55,67.63,-0.0771,Normal,,,Continue monitoring
+798,7.36,67.38,-0.0698,Normal,,,Continue monitoring
+799,7.41,67.9,0.0256,Normal,101.31,101.17,Continue monitoring
+800,7.41,67.71,-0.0065,Normal,,,Continue monitoring
+801,7.39,68.06,-0.0332,Normal,,,Continue monitoring
+802,7.34,67.86,-0.0451,Normal,,,Continue monitoring
+803,7.3,67.62,-0.0144,Normal,,,Continue monitoring
+804,7.31,68.03,0.0178,Normal,150.69,151.12,Continue monitoring
+805,7.34,67.96,0.0013,Normal,2127.53,2046.15,Continue monitoring
+806,7.32,67.57,0.0237,Normal,113.49,113.08,Continue monitoring
+807,7.39,67.55,0.0281,Normal,92.99,92.88,Continue monitoring
+808,7.37,68.35,0.0047,Normal,555.51,559.57,Continue monitoring
+809,7.4,68.16,-0.0051,Normal,,,Continue monitoring
+810,7.36,68.45,-0.0125,Normal,,,Continue monitoring
+811,7.37,68.09,0.0413,Normal,63.66,63.68,Continue monitoring
+812,7.44,67.92,0.1117,Normal,22.88,22.92,Continue monitoring
+813,7.59,68.19,0.057,Normal,42.18,42.28,Continue monitoring
+814,7.56,68.51,-0.0152,Normal,,,Continue monitoring
+815,7.56,68.73,0.0221,Normal,110.22,110.41,Continue monitoring
+816,7.6,68.52,-0.0064,Normal,,,Continue monitoring
+817,7.55,68.77,-0.0391,Normal,,,Continue monitoring
+818,7.52,68.67,-0.0516,Normal,,,Continue monitoring
+819,7.45,68.78,0.0443,Normal,57.61,57.56,Continue monitoring
+820,7.61,68.51,0.0835,Normal,28.6,28.62,Continue monitoring
+821,7.61,68.86,-0.0022,Normal,,,Continue monitoring
+822,7.61,68.98,-0.0457,Normal,,,Continue monitoring
+823,7.52,69.08,-0.05,Normal,,,Continue monitoring
+824,7.51,69.33,0.04,Normal,62.27,62.25,Continue monitoring
+825,7.6,69.98,0.0707,Normal,33.91,33.95,Continue monitoring
+826,7.65,70.06,0.031,Normal,75.91,75.81,Continue monitoring
+827,7.67,69.97,0.0213,Normal,109.53,109.39,Continue monitoring
+828,7.69,69.9,0.0203,Normal,113.79,113.79,Continue monitoring
+829,7.71,70.23,-0.0335,Normal,,,Continue monitoring
+830,7.63,70.51,0.0124,Normal,191.14,191.13,Continue monitoring
+831,7.73,70.48,-0.0322,Normal,,,Continue monitoring
+832,7.56,70.33,-0.033,Normal,,,Continue monitoring
+833,7.66,70.32,0.0119,Normal,196.1,196.64,Continue monitoring
+834,7.58,70.2,-0.0063,Normal,,,Continue monitoring
+835,7.65,70.33,0.0241,Normal,97.55,97.51,Continue monitoring
+836,7.63,70.24,-0.0252,Normal,,,Continue monitoring
+837,7.6,70.01,0.0489,Normal,49.0,49.08,Continue monitoring
+838,7.73,69.93,0.1133,Normal,20.03,20.04,Continue monitoring
+839,7.83,70.31,0.0886,Normal,24.51,24.49,Continue monitoring
+840,7.91,70.2,0.0561,Normal,37.3,37.25,Continue monitoring
+841,7.94,70.2,-0.02,Normal,,,Continue monitoring
+842,7.87,70.28,-0.0833,Normal,,,Continue monitoring
+843,7.77,70.58,-0.0657,Normal,,,Continue monitoring
+844,7.74,70.63,-0.0073,Normal,,,Continue monitoring
+845,7.76,70.56,0.0348,Normal,64.39,64.37,Continue monitoring
+846,7.81,70.44,0.0583,Normal,37.62,37.56,Continue monitoring
+847,7.88,70.11,0.0399,Normal,53.22,53.13,Continue monitoring
+848,7.89,70.59,-0.035,Normal,,,Continue monitoring
+849,7.81,70.42,-0.0195,Normal,,,Continue monitoring
+850,7.85,70.47,0.0346,Normal,62.25,62.14,Continue monitoring
+851,7.88,70.59,0.0394,Normal,53.91,53.81,Continue monitoring
+852,7.93,70.87,0.0418,Normal,49.64,49.52,Continue monitoring
+853,7.96,70.81,0.037,Normal,55.17,55.14,Continue monitoring
+854,8.0,71.28,0.0153,Normal,130.73,130.72,Continue monitoring
+855,7.99,71.04,0.0,Normal,,,Continue monitoring
+856,8.0,71.01,-0.0816,Normal,,,Continue monitoring
+857,7.83,71.22,-0.1083,Normal,,,Continue monitoring
+858,7.78,71.2,-0.0081,Normal,,,Continue monitoring
+859,7.81,71.24,0.0417,Normal,52.57,52.52,Continue monitoring
+860,7.87,71.14,0.0489,Normal,43.62,43.56,Continue monitoring
+861,7.91,71.07,0.0501,Normal,41.78,41.72,Continue monitoring
+862,7.97,71.22,-0.0079,Normal,,,Continue monitoring
+863,7.89,71.5,-0.0589,Normal,,,Continue monitoring
+864,7.85,71.7,-0.0067,Normal,,,Continue monitoring
+865,7.88,72.16,0.0058,Normal,368.77,365.52,Continue monitoring
+866,7.86,72.07,-0.0097,Normal,,,Continue monitoring
+867,7.86,71.99,0.0312,Normal,68.57,68.59,Continue monitoring
+868,7.92,71.59,-0.0101,Normal,,,Continue monitoring
+869,7.84,71.32,-0.0041,Normal,,,Continue monitoring
+870,7.91,71.75,0.0338,Normal,61.63,61.83,Continue monitoring
+871,7.91,71.71,-0.0014,Normal,,,Continue monitoring
+872,7.91,72.0,-0.0343,Normal,,,Continue monitoring
+873,7.84,72.06,0.0019,Normal,1129.78,1136.84,Continue monitoring
+874,7.92,72.18,0.0466,Normal,44.73,44.64,Continue monitoring
+875,7.93,72.43,-0.1005,Normal,,,Continue monitoring
+876,7.71,72.6,-0.1343,Normal,,,Continue monitoring
+877,7.66,72.15,-0.0057,Normal,,,Continue monitoring
+878,7.7,72.49,0.015,Normal,153.62,153.33,Continue monitoring
+879,7.69,72.73,0.059,Normal,39.12,39.15,Continue monitoring
+880,7.82,73.06,0.1301,Normal,16.75,16.76,Continue monitoring
+881,7.95,73.24,0.0686,Normal,29.84,29.88,Continue monitoring
+882,7.96,72.84,-0.0068,Normal,,,Continue monitoring
+883,7.94,72.63,0.0207,Normal,99.49,99.52,Continue monitoring
+884,8.0,72.59,0.0306,Normal,65.45,65.36,Continue monitoring
+885,8.0,72.72,0.0,Normal,,,Continue monitoring
+886,8.0,73.15,-0.0249,Normal,,,Continue monitoring
+887,7.95,73.2,-0.0546,Normal,,,Continue monitoring
+888,7.89,72.87,-0.0542,Normal,,,Continue monitoring
+889,7.84,72.86,-0.0416,Normal,,,Continue monitoring
+890,7.81,72.68,-0.0734,Normal,,,Continue monitoring
+891,7.69,72.66,-0.1164,Normal,,,Continue monitoring
+892,7.57,72.85,-0.0569,Normal,,,Continue monitoring
+893,7.58,72.49,-0.0091,Normal,,,Continue monitoring
+894,7.56,72.3,0.0004,Normal,6129.99,6100.0,Continue monitoring
+895,7.58,72.64,-0.0622,Normal,,,Continue monitoring
+896,7.43,72.67,-0.0814,Normal,,,Continue monitoring
+897,7.42,72.83,0.0021,Normal,1215.9,1228.57,Continue monitoring
+898,7.44,72.65,-0.0042,Normal,,,Continue monitoring
+899,7.41,72.45,0.0303,Normal,85.52,85.48,Continue monitoring
+900,7.5,72.45,0.1191,Normal,21.02,20.99,Continue monitoring
+901,7.65,72.44,0.0477,Normal,49.28,49.27,Continue monitoring
+902,7.59,72.06,-0.1005,Normal,,,Continue monitoring
+903,7.45,71.66,-0.0614,Normal,,,Continue monitoring
+904,7.47,71.79,-0.0526,Normal,,,Continue monitoring
+905,7.34,72.01,-0.0826,Normal,,,Continue monitoring
+906,7.3,72.05,0.0452,Normal,59.69,59.73,Continue monitoring
+907,7.43,72.27,0.0537,Normal,47.76,47.86,Continue monitoring
+908,7.41,72.05,-0.0968,Normal,,,Continue monitoring
+909,7.24,71.87,-0.0945,Normal,,,Continue monitoring
+910,7.22,71.62,-0.0137,Normal,,,Continue monitoring
+911,7.21,71.64,-0.0142,Normal,,,Continue monitoring
+912,7.19,71.48,-0.0022,Normal,,,Continue monitoring
+913,7.21,71.59,-0.0369,Normal,,,Continue monitoring
+914,7.12,71.94,-0.0476,Normal,,,Continue monitoring
+915,7.11,71.95,0.0244,Normal,118.41,118.44,Continue monitoring
+916,7.17,72.01,0.0665,Normal,42.6,42.56,Continue monitoring
+917,7.25,72.08,0.0136,Normal,202.12,202.21,Continue monitoring
+918,7.2,72.17,-0.0702,Normal,,,Continue monitoring
+919,7.1,72.2,-0.0471,Normal,,,Continue monitoring
+920,7.1,72.14,-0.0065,Normal,,,Continue monitoring
+921,7.09,71.67,-0.0271,Normal,,,Continue monitoring
+922,7.05,71.7,-0.0156,Normal,,,Continue monitoring
+923,7.06,71.44,0.057,Normal,51.54,51.58,Continue monitoring
+924,7.16,71.22,0.0894,Normal,31.74,31.77,Continue monitoring
+925,7.24,71.33,0.0129,Normal,213.49,213.95,Continue monitoring
+926,7.19,71.77,-0.0736,Normal,,,Continue monitoring
+927,7.09,72.0,-0.0077,Normal,,,Continue monitoring
+928,7.17,71.84,0.0957,Normal,29.54,29.57,Continue monitoring
+929,7.28,71.77,0.0672,Normal,40.39,40.48,Continue monitoring
+930,7.31,71.84,0.0062,Normal,436.07,433.87,Continue monitoring
+931,7.3,72.04,0.0264,Normal,102.54,102.27,Continue monitoring
+932,7.36,71.6,0.0839,Normal,31.46,31.47,Continue monitoring
+933,7.46,71.19,0.0935,Normal,27.13,27.17,Continue monitoring
+934,7.55,71.47,-0.0023,Normal,,,Continue monitoring
+935,7.46,71.37,-0.0879,Normal,,,Continue monitoring
+936,7.37,71.31,-0.0565,Normal,,,Continue monitoring
+937,7.35,71.51,0.0401,Normal,66.19,66.08,Continue monitoring
+938,7.45,71.86,0.0299,Normal,85.17,85.28,Continue monitoring
+939,7.41,71.81,-0.0898,Normal,,,Continue monitoring
+940,7.27,71.6,-0.0287,Normal,,,Continue monitoring
+941,7.35,72.01,-0.0108,Normal,,,Continue monitoring
+942,7.25,71.86,-0.0504,Normal,,,Continue monitoring
+943,7.25,71.93,-0.0334,Normal,,,Continue monitoring
+944,7.18,72.04,-0.0513,Normal,,,Continue monitoring
+945,7.15,72.03,0.0029,Normal,985.16,982.76,Continue monitoring
+946,7.19,72.03,0.0044,Normal,639.47,638.64,Continue monitoring
+947,7.15,72.01,-0.021,Normal,,,Continue monitoring
+948,7.15,71.91,-0.0139,Normal,,,Continue monitoring
+949,7.13,72.31,0.0121,Normal,237.8,237.19,Continue monitoring
+950,7.17,72.24,0.0503,Normal,56.22,56.26,Continue monitoring
+951,7.23,72.16,0.0748,Normal,37.07,37.03,Continue monitoring
+952,7.32,72.25,0.0426,Normal,62.85,62.91,Continue monitoring
+953,7.31,72.36,-0.0671,Normal,,,Continue monitoring
+954,7.19,72.08,-0.1106,Normal,,,Continue monitoring
+955,7.09,72.12,0.0215,Normal,135.03,135.35,Continue monitoring
+956,7.23,72.67,0.0948,Normal,29.22,29.22,Continue monitoring
+957,7.28,72.8,-0.0465,Normal,,,Continue monitoring
+958,7.14,72.66,-0.1036,Normal,,,Continue monitoring
+959,7.07,72.51,-0.0382,Normal,,,Continue monitoring
+960,7.06,72.39,-0.0859,Normal,,,Continue monitoring
+961,6.9,72.58,-0.1221,Normal,,,Continue monitoring
+962,6.82,72.64,0.0401,Normal,79.5,79.3,Continue monitoring
+963,6.98,72.41,-0.0182,Normal,,,Continue monitoring
+964,6.78,72.33,-0.0572,Normal,,,Continue monitoring
+965,6.87,72.82,-0.0051,Normal,,,Continue monitoring
+966,6.77,72.95,-0.0678,Normal,,,Continue monitoring
+967,6.73,72.92,0.0872,Normal,37.5,37.5,Continue monitoring
+968,6.94,72.55,0.1159,Normal,26.37,26.4,Continue monitoring
+969,6.96,72.66,0.0536,Normal,56.67,56.72,Continue monitoring
+970,7.05,72.69,0.0558,Normal,52.9,52.87,Continue monitoring
+971,7.08,72.59,0.0231,Normal,126.68,126.41,Continue monitoring
+972,7.1,72.5,0.0356,Normal,81.49,81.46,Continue monitoring
+973,7.15,72.41,0.0399,Normal,71.43,71.43,Continue monitoring
+974,7.18,72.4,0.0601,Normal,46.96,46.92,Continue monitoring
+975,7.27,72.39,-0.0259,Normal,,,Continue monitoring
+976,7.12,72.71,-0.1072,Normal,,,Continue monitoring
+977,7.05,72.54,-0.0601,Normal,,,Continue monitoring
+978,7.0,72.89,-0.1093,Normal,,,Continue monitoring
+979,6.83,73.67,-0.0432,Normal,,,Continue monitoring
+980,6.92,73.73,0.04,Normal,76.95,77.0,Continue monitoring
+981,6.91,73.8,0.0186,Normal,165.48,166.13,Continue monitoring
+982,6.96,73.96,0.0431,Normal,70.68,70.53,Continue monitoring
+983,7.0,73.98,0.0143,Normal,209.33,209.79,Continue monitoring
+984,6.98,73.94,-0.0157,Normal,,,Continue monitoring
+985,6.97,74.23,0.0159,Normal,190.09,190.57,Continue monitoring
+986,7.02,73.49,0.05,Normal,59.7,59.6,Continue monitoring
+987,7.07,73.54,0.0255,Normal,115.01,114.9,Continue monitoring
+988,7.07,73.44,0.0442,Normal,66.33,66.29,Continue monitoring
+989,7.16,73.68,0.014,Normal,202.35,202.86,Continue monitoring
+990,7.1,73.78,-0.0698,Normal,,,Continue monitoring
+991,7.02,73.44,-0.0639,Normal,,,Continue monitoring
+992,6.97,73.65,0.0131,Normal,232.27,231.3,Continue monitoring
+993,7.04,73.78,0.0671,Normal,44.04,44.11,Continue monitoring
+994,7.1,73.91,0.0033,Normal,866.57,878.79,Continue monitoring
+995,7.05,74.02,0.0064,Normal,463.99,460.94,Continue monitoring
+996,7.11,74.21,0.0796,Normal,36.26,36.31,Continue monitoring
+997,7.21,74.38,0.0616,Normal,45.29,45.29,Continue monitoring
+998,7.24,74.65,0.013,Normal,212.54,212.31,Continue monitoring
+999,7.24,74.43,-0.0076,Normal,,,Continue monitoring
+1000,7.22,74.25,-0.0335,Normal,,,Continue monitoring
+1001,7.17,74.21,-0.0587,Normal,,,Continue monitoring
+1002,7.11,74.13,-0.1074,Normal,,,Continue monitoring
+1003,6.95,74.19,-0.0757,Normal,,,Continue monitoring
+1004,6.95,73.98,0.0264,Normal,115.31,115.53,Continue monitoring
+1005,7.01,74.22,-0.0379,Normal,,,Continue monitoring
+1006,6.88,74.03,-0.0951,Normal,,,Continue monitoring
+1007,6.82,73.79,0.0024,Normal,1319.24,1325.0,Continue monitoring
+1008,6.88,73.74,0.0226,Normal,137.95,138.05,Continue monitoring
+1009,6.86,73.24,0.0148,Normal,211.55,212.16,Continue monitoring
+1010,6.91,72.93,0.0278,Normal,111.01,111.15,Continue monitoring
+1011,6.92,73.0,0.0568,Normal,54.25,54.23,Continue monitoring
+1012,7.03,72.67,-0.0664,Normal,,,Continue monitoring
+1013,6.78,72.72,-0.0488,Normal,,,Continue monitoring
+1014,6.93,73.03,0.0804,Normal,38.2,38.18,Continue monitoring
+1015,6.95,72.91,0.0407,Normal,75.11,74.94,Continue monitoring
+1016,7.01,72.66,0.0513,Normal,58.24,58.28,Continue monitoring
+1017,7.05,72.79,0.0615,Normal,48.03,47.97,Continue monitoring
+1018,7.13,73.48,0.0581,Normal,49.35,49.4,Continue monitoring
+1019,7.16,73.35,0.0147,Normal,193.26,193.2,Continue monitoring
+1020,7.16,72.91,-0.0288,Normal,,,Continue monitoring
+1021,7.11,72.81,-0.0488,Normal,,,Continue monitoring
+1022,7.06,72.85,-0.0539,Normal,,,Continue monitoring
+1023,7.0,73.13,-0.0329,Normal,,,Continue monitoring
+1024,7.0,73.12,-0.0131,Normal,,,Continue monitoring
+1025,6.97,73.16,0.0199,Normal,152.22,152.26,Continue monitoring
+1026,7.04,72.94,0.0067,Normal,443.38,441.79,Continue monitoring
+1027,6.99,72.87,-0.0802,Normal,,,Continue monitoring
+1028,6.88,72.66,-0.0729,Normal,,,Continue monitoring
+1029,6.84,72.88,-0.0085,Normal,,,Continue monitoring
+1030,6.86,72.93,0.0445,Normal,70.48,70.56,Continue monitoring
+1031,6.93,72.9,0.0497,Normal,61.84,61.77,Continue monitoring
+1032,6.96,72.87,0.0262,Normal,115.87,116.03,Continue monitoring
+1033,6.98,72.73,-0.0869,Normal,,,Continue monitoring
+1034,6.79,72.69,-0.0406,Normal,,,Continue monitoring
+1035,6.9,72.92,0.0955,Normal,32.45,32.46,Continue monitoring
+1036,6.98,73.23,0.0422,Normal,71.68,71.56,Continue monitoring
+1037,6.98,73.28,-0.0212,Normal,,,Continue monitoring
+1038,6.94,73.2,-0.0001,Normal,,,Continue monitoring
+1039,6.98,73.5,0.0191,Normal,158.27,158.12,Continue monitoring
+1040,6.97,73.39,-0.0056,Normal,,,Continue monitoring
+1041,6.97,73.54,-0.0577,Normal,,,Continue monitoring
+1042,6.86,72.97,-0.0798,Normal,,,Continue monitoring
+1043,6.81,72.66,-0.0423,Normal,,,Continue monitoring
+1044,6.77,72.63,-0.0385,Normal,,,Continue monitoring
+1045,6.74,72.99,-0.0051,Normal,,,Continue monitoring
+1046,6.76,73.06,0.038,Normal,85.27,85.26,Continue monitoring
+1047,6.81,72.78,0.0665,Normal,47.96,47.97,Continue monitoring
+1048,6.9,72.76,0.0684,Normal,45.39,45.32,Continue monitoring
+1049,6.95,72.49,-0.0353,Normal,,,Continue monitoring
+1050,6.83,72.7,-0.0471,Normal,,,Continue monitoring
+1051,6.86,72.47,-0.0197,Normal,,,Continue monitoring
+1052,6.79,72.75,-0.0824,Normal,,,Continue monitoring
+1053,6.69,73.16,-0.0836,Normal,,,Continue monitoring
+1054,6.62,73.32,-0.0492,Normal,,,Continue monitoring
+1055,6.59,73.47,-0.0349,Normal,,,Continue monitoring
+1056,6.55,73.43,-0.0201,Normal,,,Continue monitoring
+1057,6.55,73.18,0.0313,Normal,110.26,110.22,Continue monitoring
+1058,6.61,73.05,0.0205,Normal,165.38,165.37,Continue monitoring
+1059,6.59,72.81,-0.1116,Normal,,,Continue monitoring
+1060,6.39,72.76,-0.006,Normal,,,Continue monitoring
+1061,6.58,72.95,0.0957,Normal,35.71,35.74,Continue monitoring
+1062,6.58,72.89,0.0001,Normal,26675.69,34200.0,Continue monitoring
+1063,6.58,73.02,-0.0463,Normal,,,Continue monitoring
+1064,6.49,73.3,-0.0186,Normal,,,Continue monitoring
+1065,6.54,73.48,0.0462,Normal,74.88,74.89,Continue monitoring
+1066,6.58,73.49,0.0445,Normal,76.95,76.85,Continue monitoring
+1067,6.63,73.64,0.0128,Normal,264.01,263.28,Continue monitoring
+1068,6.6,73.49,-0.0101,Normal,,,Continue monitoring
+1069,6.61,73.88,-0.0455,Normal,,,Continue monitoring
+1070,6.51,73.51,-0.043,Normal,,,Continue monitoring
+1071,6.53,73.53,0.0135,Normal,256.8,257.04,Continue monitoring
+1072,6.54,73.59,-0.002,Normal,,,Continue monitoring
+1073,6.52,73.96,-0.073,Normal,,,Continue monitoring
+1074,6.39,73.75,-0.0682,Normal,,,Continue monitoring
+1075,6.39,73.34,-0.0112,Normal,,,Continue monitoring
+1076,6.37,73.76,-0.0062,Normal,,,Continue monitoring
+1077,6.37,73.81,-0.0496,Normal,,,Continue monitoring
+1078,6.27,73.66,-0.0654,Normal,,,Continue monitoring
+1079,6.24,73.58,0.0363,Normal,103.61,103.58,Continue monitoring
+1080,6.35,73.72,0.0068,Normal,536.77,536.76,Continue monitoring
+1081,6.26,73.78,-0.0245,Normal,,,Continue monitoring
+1082,6.3,74.07,0.0832,Normal,44.53,44.47,Continue monitoring
+1083,6.42,73.81,0.0308,Normal,116.17,116.23,Continue monitoring
+1084,6.36,73.5,-0.0418,Normal,,,Continue monitoring
+1085,6.34,73.61,0.0301,Normal,121.47,121.59,Continue monitoring
+1086,6.42,73.6,0.0267,Normal,134.13,134.08,Continue monitoring
+1087,6.39,73.63,-0.0462,Normal,,,Continue monitoring
+1088,6.33,74.16,-0.0977,Normal,,,Continue monitoring
+1089,6.2,74.2,0.0166,Normal,228.53,228.92,Continue monitoring
+1090,6.36,74.2,0.0733,Normal,49.64,49.66,Continue monitoring
+1091,6.34,74.11,-0.0148,Normal,,,Continue monitoring
+1092,6.33,74.46,-0.0957,Normal,,,Continue monitoring
+1093,6.15,74.84,-0.1454,Normal,,,Continue monitoring
+1094,6.04,74.77,-0.0741,Normal,,,Continue monitoring
+1095,6.0,74.92,-0.0811,Normal,,,Continue monitoring
+1096,5.88,75.04,0.017,Normal,241.86,242.35,Continue monitoring
+1097,6.04,74.7,0.0886,Normal,44.73,44.7,Continue monitoring
+1098,6.05,74.53,0.0246,Normal,160.25,160.57,Continue monitoring
+1099,6.09,74.54,-0.0086,Normal,,,Continue monitoring
+1100,6.04,74.66,0.0465,Normal,85.2,85.16,Continue monitoring
+1101,6.18,74.61,0.101,Normal,37.82,37.82,Continue monitoring
+1102,6.24,74.29,-0.0095,Normal,,,Continue monitoring
+1103,6.16,74.4,0.0211,Normal,181.82,181.99,Continue monitoring
+1104,6.28,74.49,0.0468,Normal,79.4,79.49,Continue monitoring
+1105,6.26,74.49,-0.0625,Normal,,,Continue monitoring
+1106,6.16,74.64,-0.0147,Normal,,,Continue monitoring
+1107,6.23,74.53,0.0165,Normal,228.82,228.48,Continue monitoring
+1108,6.19,74.6,-0.0363,Normal,,,Continue monitoring
+1109,6.15,74.58,0.0665,Normal,57.82,57.89,Continue monitoring
+1110,6.32,74.52,0.0697,Normal,52.8,52.8,Continue monitoring
+1111,6.29,74.36,0.0154,Normal,240.17,240.91,Continue monitoring
+1112,6.35,74.31,0.0038,Normal,961.63,960.53,Continue monitoring
+1113,6.3,74.64,0.0308,Normal,120.07,120.13,Continue monitoring
+1114,6.41,74.49,-0.0179,Normal,,,Continue monitoring
+1115,6.27,74.74,-0.102,Normal,,,Continue monitoring
+1116,6.21,74.94,-0.1062,Normal,,,Continue monitoring
+1117,6.05,75.17,-0.1273,Normal,,,Continue monitoring
+1118,5.96,75.35,-0.0479,Normal,,,Continue monitoring
+1119,5.96,75.11,-0.0157,Normal,,,Continue monitoring
+1120,5.92,75.28,-0.012,Normal,,,Continue monitoring
+1121,5.93,75.43,0.0833,Normal,48.83,48.86,Continue monitoring
+1122,6.09,75.04,0.1437,Normal,27.19,27.21,Continue monitoring
+1123,6.22,75.06,0.0287,Normal,131.53,131.71,Continue monitoring
+1124,6.15,74.73,-0.0435,Normal,,,Continue monitoring
+1125,6.13,74.96,-0.0127,Normal,,,Continue monitoring
+1126,6.12,75.34,-0.0631,Normal,,,Continue monitoring
+1127,6.01,75.34,-0.1081,Normal,,,Continue monitoring
+1128,5.91,75.43,-0.0146,Normal,,,Continue monitoring
+1129,5.98,75.32,-0.0687,Normal,,,Continue monitoring
+1130,5.77,75.37,-0.0867,Normal,,,Continue monitoring
+1131,5.8,75.47,0.0669,Normal,62.71,62.78,Continue monitoring
+1132,5.9,75.2,0.0766,Normal,53.45,53.52,Continue monitoring
+1133,5.96,75.5,-0.0439,Normal,,,Continue monitoring
+1134,5.82,75.58,-0.0913,Normal,,,Continue monitoring
+1135,5.78,75.56,-0.0063,Normal,,,Continue monitoring
+1136,5.8,75.44,-0.0131,Normal,,,Continue monitoring
+1137,5.75,75.45,-0.0705,Normal,,,Continue monitoring
+1138,5.66,75.18,-0.0163,Normal,,,Continue monitoring
+1139,5.72,74.89,0.0538,Normal,79.59,79.55,Continue monitoring
+1140,5.77,75.01,-0.0424,Normal,,,Continue monitoring
+1141,5.63,74.84,-0.0213,Normal,,,Continue monitoring
+1142,5.73,74.59,0.0292,Normal,146.4,146.23,Continue monitoring
+1143,5.69,74.71,0.0128,Normal,337.81,336.72,Continue monitoring
+1144,5.75,74.64,0.0074,Normal,571.28,574.32,Continue monitoring
+1145,5.7,75.0,0.0457,Normal,94.08,94.09,Continue monitoring
+1146,5.84,75.24,0.073,Normal,56.96,56.99,Continue monitoring
+1147,5.85,75.04,-0.0298,Normal,,,Continue monitoring
+1148,5.78,75.17,-0.0165,Normal,,,Continue monitoring
+1149,5.82,75.52,0.0428,Normal,97.82,97.66,Continue monitoring
+1150,5.87,75.15,0.0681,Normal,60.66,60.65,Continue monitoring
+1151,5.95,74.9,0.0267,Normal,151.44,151.69,Continue monitoring
+1152,5.92,74.96,0.0645,Normal,63.24,63.26,Continue monitoring
+1153,6.08,75.74,0.1041,Normal,37.63,37.66,Continue monitoring
+1154,6.13,75.69,0.0456,Normal,84.75,84.87,Continue monitoring
+1155,6.17,75.91,0.0086,Normal,447.3,445.35,Continue monitoring
+1156,6.15,76.36,-0.0036,Normal,,,Continue monitoring
+1157,6.17,76.49,0.0358,Normal,106.95,106.98,Continue monitoring
+1158,6.22,76.59,0.0602,Normal,62.8,62.79,Continue monitoring
+1159,6.29,76.44,0.0112,Normal,330.75,331.25,Continue monitoring
+1160,6.24,76.16,-0.0048,Normal,,,Continue monitoring
+1161,6.28,76.36,0.0359,Normal,103.71,103.62,Continue monitoring
+1162,6.31,76.78,0.0181,Normal,203.78,203.87,Continue monitoring
+1163,6.31,76.94,-0.0439,Normal,,,Continue monitoring
+1164,6.23,76.85,-0.0158,Normal,,,Continue monitoring
+1165,6.28,77.06,0.0161,Normal,231.46,231.06,Continue monitoring
+1166,6.26,77.04,-0.0725,Normal,,,Continue monitoring
+1167,6.14,76.95,-0.0251,Normal,,,Continue monitoring
+1168,6.21,77.1,0.0556,Normal,68.14,68.17,Continue monitoring
+1169,6.25,77.11,0.0203,Normal,184.72,184.73,Continue monitoring
+1170,6.25,76.94,0.0282,Normal,132.84,132.98,Continue monitoring
+1171,6.3,77.05,0.0476,Normal,77.57,77.73,Continue monitoring
+1172,6.34,76.92,-0.0665,Normal,,,Continue monitoring
+1173,6.17,77.19,-0.1053,Normal,,,Continue monitoring
+1174,6.13,76.97,0.0086,Normal,450.32,450.0,Continue monitoring
+1175,6.19,76.88,0.0701,Normal,54.33,54.35,Continue monitoring
+1176,6.27,77.03,0.0697,Normal,53.43,53.52,Continue monitoring
+1177,6.33,76.69,0.0758,Normal,48.42,48.42,Continue monitoring
+1178,6.43,76.76,0.0337,Normal,106.04,105.93,Continue monitoring
+1179,6.4,76.79,-0.0858,Normal,,,Continue monitoring
+1180,6.25,76.89,-0.1122,Normal,,,Continue monitoring
+1181,6.17,76.55,-0.1021,Normal,,,Continue monitoring
+1182,6.05,76.83,-0.0861,Normal,,,Continue monitoring
+1183,6.0,77.22,-0.0466,Normal,,,Continue monitoring
+1184,5.96,76.79,-0.0661,Normal,,,Continue monitoring
+1185,5.87,77.1,-0.0509,Normal,,,Continue monitoring
+1186,5.85,76.96,0.0002,Normal,25152.15,20750.0,Continue monitoring
+1187,5.87,77.09,0.0511,Normal,80.87,80.82,Continue monitoring
+1188,5.96,77.45,0.0303,Normal,133.41,133.33,Continue monitoring
+1189,5.93,77.12,-0.0309,Normal,,,Continue monitoring
+1190,5.9,77.18,-0.0551,Normal,,,Continue monitoring
+1191,5.82,76.94,-0.0248,Normal,,,Continue monitoring
+1192,5.85,76.93,0.0151,Normal,275.79,274.83,Continue monitoring
+1193,5.85,76.74,-0.0079,Normal,,,Continue monitoring
+1194,5.83,76.51,0.0264,Normal,158.01,157.95,Continue monitoring
+1195,5.9,76.77,-0.0382,Normal,,,Continue monitoring
+1196,5.75,76.54,-0.1337,Normal,,,Continue monitoring
+1197,5.63,76.37,-0.0632,Normal,,,Continue monitoring
+1198,5.63,76.01,-0.0402,Normal,,,Continue monitoring
+1199,5.55,75.76,-0.0937,Normal,,,Continue monitoring
+1200,5.44,62.14,-0.0053,Normal,,,Continue monitoring
+1201,5.54,61.67,0.1435,Normal,31.05,31.08,Continue monitoring
+1202,5.73,62.47,0.0445,Normal,96.11,95.96,Continue monitoring
+1203,5.63,62.35,0.0282,Normal,154.94,154.96,Continue monitoring
+1204,5.78,62.46,0.0164,Normal,256.73,257.32,Continue monitoring
+1205,5.66,62.65,0.0157,Normal,275.88,276.43,Continue monitoring
+1206,5.81,62.16,0.2333,Normal,17.94,17.96,Continue monitoring
+1207,6.13,62.47,0.0673,Normal,57.46,57.5,Continue monitoring
+1208,5.95,61.52,0.0101,Normal,402.06,400.99,Continue monitoring
+1209,6.15,61.91,0.0353,Normal,108.98,109.07,Continue monitoring
+1210,6.02,62.37,0.0611,Normal,65.18,65.14,Continue monitoring
+1211,6.27,62.86,0.0938,Normal,39.72,39.77,Continue monitoring
+1212,6.21,62.72,-0.0207,Normal,,,Continue monitoring
+1213,6.23,62.71,0.0692,Normal,54.41,54.48,Continue monitoring
+1214,6.35,63.09,0.1227,Normal,29.78,29.75,Continue monitoring
+1215,6.48,62.95,0.0426,Normal,82.74,82.63,Continue monitoring
+1216,6.43,63.1,0.0176,Normal,202.39,202.84,Continue monitoring
+1217,6.51,62.42,0.0584,Normal,59.75,59.76,Continue monitoring
+1218,6.55,62.93,0.1001,Normal,34.49,34.47,Continue monitoring
+1219,6.71,62.88,0.0278,Normal,118.4,118.35,Continue monitoring
+1220,6.6,63.02,0.0281,Normal,120.75,121.0,Continue monitoring
+1221,6.77,63.12,0.1452,Normal,22.26,22.25,Continue monitoring
+1222,6.89,63.51,0.0317,Normal,98.01,98.11,Continue monitoring
+1223,6.83,62.9,-0.0184,Normal,,,Continue monitoring
+1224,6.86,63.48,0.1417,Normal,22.18,22.16,Continue monitoring
+1225,7.12,63.12,0.092,Normal,31.37,31.3,Continue monitoring
+1226,7.04,63.89,0.0223,Normal,132.89,132.74,Continue monitoring
+1227,7.16,63.52,0.022,Normal,128.95,129.09,Continue monitoring
+1228,7.08,63.67,0.0026,Normal,1116.01,1123.08,Continue monitoring
+1229,7.17,63.0,0.0938,Normal,30.23,30.17,Continue monitoring
+1230,7.27,63.27,0.0883,Normal,30.89,30.92,Continue monitoring
+1231,7.34,62.97,0.1122,Normal,23.68,23.71,Continue monitoring
+1232,7.5,64.05,-0.009,Normal,,,Continue monitoring
+1233,7.32,64.04,-0.0108,Normal,,,Continue monitoring
+1234,7.48,64.04,0.1352,Normal,18.68,18.64,Continue monitoring
+1235,7.59,63.76,0.085,Normal,28.29,28.35,Continue monitoring
+1236,7.65,64.28,0.0132,Normal,179.01,178.03,Continue monitoring
+1237,7.62,64.09,0.1115,Normal,21.35,21.35,Continue monitoring
+1238,7.87,64.19,0.2026,Normal,10.52,10.51,Continue monitoring
+1239,8.03,63.74,0.0542,Warning,36.39,36.35,Monitor temperature closely
+1240,7.98,63.96,0.0163,Normal,123.77,123.93,Continue monitoring
+1241,8.06,64.05,0.0062,Warning,313.48,312.9,Monitor temperature closely
+1242,7.99,64.62,-0.009,Normal,,,Continue monitoring
+1243,8.04,63.58,0.0548,Warning,35.73,35.77,Monitor temperature closely
+1244,8.1,64.45,0.1353,Warning,14.05,14.04,Check cooling system immediately
+1245,8.31,64.29,0.1334,Warning,12.66,12.67,Check cooling system immediately
+1246,8.37,63.76,-0.0134,Warning,,,Monitor temperature closely
+1247,8.28,64.23,0.0027,Warning,637.78,637.04,Monitor temperature closely
+1248,8.37,64.43,0.1054,Warning,15.46,15.46,Check cooling system immediately
+1249,8.5,64.27,0.0701,Warning,21.45,21.4,Check cooling system immediately
+1250,8.51,64.48,-0.0047,Warning,,,Monitor temperature closely
+1251,8.49,64.5,0.0487,Warning,31.09,31.01,Monitor temperature closely
+1252,8.61,64.53,0.0983,Warning,14.15,14.14,Check cooling system immediately
+1253,8.68,64.68,0.0485,Warning,27.19,27.22,Check cooling system immediately
+1254,8.71,65.21,0.012,Warning,108.33,107.5,Monitor temperature closely
+1255,8.71,64.46,0.1885,Warning,6.86,6.84,Check cooling system immediately
+1256,9.08,64.38,0.0526,Warning,17.44,17.49,Check cooling system immediately
+1257,8.81,65.14,-0.1343,Warning,,,Monitor temperature closely
+1258,8.81,64.81,0.2,Warning,5.93,5.95,Check cooling system immediately
+1259,9.21,64.33,0.0638,Warning,12.36,12.38,Check cooling system immediately
+1260,8.94,64.4,0.0101,Warning,104.79,104.95,Monitor temperature closely
+1261,9.23,65.5,0.1188,Warning,6.47,6.48,Check cooling system immediately
+1262,9.18,65.37,0.0797,Warning,10.3,10.29,Check cooling system immediately
+1263,9.39,65.86,0.0707,Warning,8.62,8.63,Check cooling system immediately
+1264,9.32,64.28,-0.0284,Warning,,,Monitor temperature closely
+1265,9.33,65.08,0.0595,Warning,11.19,11.26,Check cooling system immediately
+1266,9.44,65.22,0.1376,Warning,4.08,4.07,Check cooling system immediately
+1267,9.61,65.86,0.0635,Warning,6.15,6.14,Check cooling system immediately
+1268,9.57,65.84,0.0296,Warning,14.68,14.53,Check cooling system immediately
+1269,9.67,65.48,0.1031,Warning,3.21,3.2,Check cooling system immediately
+1270,9.77,65.53,0.128,Warning,1.78,1.8,Check cooling system immediately
+1271,9.92,64.97,0.0031,Warning,24.07,25.81,Check cooling system immediately
+1272,9.78,65.55,-0.0047,Warning,,,Monitor temperature closely
+1273,9.92,66.16,0.0796,Warning,1.07,1.01,Check cooling system immediately
+1274,9.94,65.13,0.0761,Warning,0.81,0.79,Check cooling system immediately
+1275,10.07,66.05,-0.0167,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1276,9.9,65.8,-0.0373,Warning,,,Monitor temperature closely
+1277,9.99,65.58,0.1016,Warning,0.07,0.1,Check cooling system immediately
+1278,10.11,66.22,0.1283,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1279,10.25,65.44,0.1313,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1280,10.37,65.43,0.0685,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1281,10.39,65.72,0.0102,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1282,10.39,66.3,0.0677,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1283,10.52,66.68,0.0713,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1284,10.53,66.32,0.0216,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1285,10.56,66.32,0.0809,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1286,10.7,66.26,0.0054,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1287,10.58,66.48,0.057,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1288,10.81,66.13,0.0808,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1289,10.74,67.04,0.0651,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1290,10.94,66.41,0.0659,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1291,10.87,66.22,0.0924,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1292,11.12,66.66,0.0835,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1293,11.04,66.85,-0.0247,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1294,11.07,67.3,0.1361,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1295,11.31,66.56,0.0674,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1296,11.21,65.75,-0.0534,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1297,11.2,66.31,0.0906,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1298,11.39,66.77,0.0654,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1299,11.33,66.84,0.0748,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1300,11.54,67.21,0.0378,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1301,11.41,67.0,-0.0155,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1302,11.51,67.46,0.1674,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1303,11.74,66.79,0.0847,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1304,11.68,67.02,-0.0615,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1305,11.62,67.38,0.0797,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1306,11.84,67.69,0.1062,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1307,11.83,67.1,0.0107,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1308,11.86,67.0,0.0567,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1309,11.95,67.85,0.0923,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1310,12.04,67.55,0.092,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1311,12.13,67.04,0.0812,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1312,12.21,67.84,0.0269,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1313,12.18,67.97,0.0327,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1314,12.27,67.51,0.1295,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1315,12.44,67.48,0.0955,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1316,12.46,67.67,0.0439,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1317,12.53,66.9,-0.0147,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1318,12.43,68.15,0.0963,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1319,12.72,67.59,-3.0327,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1320,6.37,77.92,-3.105,Normal,,,Continue monitoring
+1321,6.51,77.87,0.0385,Normal,90.65,90.65,Continue monitoring
+1322,6.45,77.7,-0.0775,Normal,,,Continue monitoring
+1323,6.36,77.51,-0.0584,Normal,,,Continue monitoring
+1324,6.33,77.16,-0.0142,Normal,,,Continue monitoring
+1325,6.33,77.38,-0.0357,Normal,,,Continue monitoring
+1326,6.26,77.76,-0.0159,Normal,,,Continue monitoring
+1327,6.3,78.02,-0.0059,Normal,,,Continue monitoring
+1328,6.25,78.23,-0.07,Normal,,,Continue monitoring
+1329,6.16,78.46,-0.0368,Normal,,,Continue monitoring
+1330,6.17,78.59,-0.0402,Normal,,,Continue monitoring
+1331,6.08,78.37,-0.0231,Normal,,,Continue monitoring
+1332,6.13,78.13,0.0424,Normal,91.34,91.27,Continue monitoring
+1333,6.16,77.79,0.0525,Normal,73.16,73.14,Continue monitoring
+1334,6.23,77.48,0.056,Normal,67.29,67.32,Continue monitoring
+1335,6.27,77.64,-0.0058,Normal,,,Continue monitoring
+1336,6.22,77.79,-0.0175,Normal,,,Continue monitoring
+1337,6.24,77.65,-0.0299,Normal,,,Continue monitoring
+1338,6.16,77.16,-0.0264,Normal,,,Continue monitoring
+1339,6.19,76.77,0.0178,Normal,214.22,214.04,Continue monitoring
+1340,6.19,76.7,0.031,Normal,122.84,122.9,Continue monitoring
+1341,6.25,76.63,0.014,Normal,268.17,267.86,Continue monitoring
+1342,6.22,76.81,0.0002,Normal,16833.09,18900.0,Continue monitoring
+1343,6.25,76.89,0.0322,Normal,116.58,116.46,Continue monitoring
+1344,6.29,76.51,0.049,Normal,75.71,75.71,Continue monitoring
+1345,6.35,76.66,-0.0104,Normal,,,Continue monitoring
+1346,6.27,76.6,-0.0422,Normal,,,Continue monitoring
+1347,6.26,76.56,0.0118,Normal,317.18,316.95,Continue monitoring
+1348,6.29,76.92,0.0566,Normal,65.53,65.55,Continue monitoring
+1349,6.38,76.59,0.0682,Normal,53.17,53.08,Continue monitoring
+1350,6.43,76.93,0.0404,Normal,88.57,88.37,Continue monitoring
+1351,6.46,77.2,0.096,Normal,36.92,36.88,Continue monitoring
+1352,6.62,77.45,0.0905,Normal,37.39,37.35,Continue monitoring
+1353,6.64,77.72,0.0158,Normal,213.23,212.66,Continue monitoring
+1354,6.65,77.72,-0.0083,Normal,,,Continue monitoring
+1355,6.62,78.11,-0.0468,Normal,,,Continue monitoring
+1356,6.56,78.5,-0.0127,Normal,,,Continue monitoring
+1357,6.6,78.15,0.0347,Normal,98.1,97.98,Continue monitoring
+1358,6.63,77.62,0.0397,Normal,84.95,84.89,Continue monitoring
+1359,6.68,77.84,0.0013,Normal,2507.21,2553.85,Continue monitoring
+1360,6.63,77.87,0.0545,Normal,61.91,61.83,Continue monitoring
+1361,6.78,77.75,0.0358,Normal,89.8,89.94,Continue monitoring
+1362,6.7,78.12,0.0361,Normal,91.31,91.41,Continue monitoring
+1363,6.86,78.12,0.119,Normal,26.42,26.39,Continue monitoring
+1364,6.94,78.45,0.0108,Normal,284.65,283.33,Continue monitoring
+1365,6.88,78.33,0.0195,Normal,159.81,160.0,Continue monitoring
+1366,6.98,78.75,0.0718,Normal,42.14,42.06,Continue monitoring
+1367,7.02,78.53,0.102,Normal,29.2,29.22,Continue monitoring
+1368,7.18,78.4,0.0661,Normal,42.67,42.66,Continue monitoring
+1369,7.15,78.49,0.0488,Normal,58.37,58.4,Continue monitoring
+1370,7.28,78.7,0.0788,Normal,34.56,34.52,Continue monitoring
+1371,7.31,78.82,0.0183,Normal,146.65,146.99,Continue monitoring
+1372,7.31,78.96,-0.0994,Normal,,,Continue monitoring
+1373,7.11,78.88,-0.0915,Normal,,,Continue monitoring
+1374,7.13,78.59,0.0251,Normal,114.25,114.34,Continue monitoring
+1375,7.16,78.54,0.0857,Normal,33.12,33.14,Continue monitoring
+1376,7.3,78.94,0.0516,Normal,52.28,52.33,Continue monitoring
+1377,7.27,78.9,-0.0216,Normal,,,Continue monitoring
+1378,7.26,78.78,0.0048,Normal,565.81,570.83,Continue monitoring
+1379,7.28,78.6,-0.0374,Normal,,,Continue monitoring
+1380,7.18,78.75,-0.02,Normal,,,Continue monitoring
+1381,7.24,78.55,0.061,Normal,45.33,45.25,Continue monitoring
+1382,7.31,78.39,0.0459,Normal,58.62,58.61,Continue monitoring
+1383,7.33,78.6,0.0088,Normal,304.35,303.41,Continue monitoring
+1384,7.32,78.71,-0.022,Normal,,,Continue monitoring
+1385,7.28,78.66,-0.0289,Normal,,,Continue monitoring
+1386,7.27,78.48,-0.0153,Normal,,,Continue monitoring
+1387,7.25,78.09,-0.0267,Normal,,,Continue monitoring
+1388,7.21,78.02,-0.0299,Normal,,,Continue monitoring
+1389,7.19,77.96,-0.0127,Normal,,,Continue monitoring
+1390,7.19,78.08,0.0325,Normal,86.5,86.46,Continue monitoring
+1391,7.26,77.91,-0.0131,Normal,,,Continue monitoring
+1392,7.16,77.65,-0.0676,Normal,,,Continue monitoring
+1393,7.12,77.57,-0.0503,Normal,,,Continue monitoring
+1394,7.06,77.24,-0.049,Normal,,,Continue monitoring
+1395,7.02,77.29,0.0056,Normal,535.52,532.14,Continue monitoring
+1396,7.07,77.15,0.0073,Normal,402.12,401.37,Continue monitoring
+1397,7.04,76.92,-0.0178,Normal,,,Continue monitoring
+1398,7.04,76.7,0.0217,Normal,136.77,136.41,Continue monitoring
+1399,7.08,76.26,0.0085,Normal,341.65,343.53,Continue monitoring
+1400,7.05,76.33,-0.007,Normal,,,Continue monitoring
+1401,7.07,77.01,0.0213,Normal,137.35,137.56,Continue monitoring
+1402,7.1,76.75,0.0102,Normal,285.42,284.31,Continue monitoring
+1403,7.09,76.31,-0.007,Normal,,,Continue monitoring
+1404,7.08,76.1,0.0334,Normal,87.38,87.43,Continue monitoring
+1405,7.16,75.96,0.0319,Normal,89.05,89.03,Continue monitoring
+1406,7.15,75.81,0.0649,Normal,43.99,43.91,Continue monitoring
+1407,7.29,75.73,0.1429,Normal,19.0,18.96,Continue monitoring
+1408,7.43,75.93,0.0926,Normal,27.74,27.75,Continue monitoring
+1409,7.47,76.02,0.035,Normal,72.2,72.29,Continue monitoring
+1410,7.5,75.54,0.0046,Normal,543.48,543.48,Continue monitoring
+1411,7.48,75.75,-0.0131,Normal,,,Continue monitoring
+1412,7.48,75.4,-0.0041,Normal,,,Continue monitoring
+1413,7.47,75.83,0.0478,Normal,52.92,52.93,Continue monitoring
+1414,7.57,75.81,0.0879,Normal,27.62,27.65,Continue monitoring
+1415,7.65,75.72,-0.0301,Normal,,,Continue monitoring
+1416,7.51,75.49,-0.0056,Normal,,,Continue monitoring
+1417,7.64,75.42,0.0528,Normal,44.79,44.7,Continue monitoring
+1418,7.62,75.34,0.0664,Normal,35.88,35.84,Continue monitoring
+1419,7.77,75.75,0.1649,Normal,13.53,13.52,Continue monitoring
+1420,7.95,75.71,0.1006,Normal,20.42,20.38,Continue monitoring
+1421,7.97,75.33,0.0268,Normal,75.73,75.75,Continue monitoring
+1422,8.0,75.04,0.015,Normal,133.5,133.33,Continue monitoring
+1423,8.0,74.77,-0.0236,Normal,,,Continue monitoring
+1424,7.95,74.56,-0.0479,Normal,,,Continue monitoring
+1425,7.9,74.42,-0.0462,Normal,,,Continue monitoring
+1426,7.86,74.63,-0.0661,Normal,,,Continue monitoring
+1427,7.77,74.68,0.0045,Normal,492.5,495.56,Continue monitoring
+1428,7.87,74.56,0.02,Normal,106.52,106.5,Continue monitoring
+1429,7.81,74.5,0.0185,Normal,118.45,118.38,Continue monitoring
+1430,7.91,74.55,0.0259,Normal,80.71,80.69,Continue monitoring
+1431,7.86,74.67,-0.0653,Normal,,,Continue monitoring
+1432,7.78,74.84,-0.0277,Normal,,,Continue monitoring
+1433,7.81,74.76,-0.0172,Normal,,,Continue monitoring
+1434,7.74,74.54,-0.0122,Normal,,,Continue monitoring
+1435,7.78,74.85,-0.0041,Normal,,,Continue monitoring
+1436,7.73,74.96,-0.109,Normal,,,Continue monitoring
+1437,7.57,74.82,-0.0847,Normal,,,Continue monitoring
+1438,7.56,74.59,-0.0387,Normal,,,Continue monitoring
+1439,7.49,74.42,-0.0258,Normal,,,Continue monitoring
+1440,7.51,74.37,-0.0778,Normal,,,Continue monitoring
+1441,7.33,73.84,-0.1138,Normal,,,Continue monitoring
+1442,7.28,73.96,-0.1342,Normal,,,Continue monitoring
+1443,7.06,73.83,-0.131,Normal,,,Continue monitoring
+1444,7.02,74.18,-0.0365,Normal,,,Continue monitoring
+1445,6.99,74.28,-0.0098,Normal,,,Continue monitoring
+1446,7.0,73.74,0.0364,Normal,82.38,82.42,Continue monitoring
+1447,7.06,73.8,0.0511,Normal,57.49,57.53,Continue monitoring
+1448,7.11,74.78,-0.063,Normal,,,Continue monitoring
+1449,6.94,75.21,-0.0949,Normal,,,Continue monitoring
+1450,6.92,75.28,-0.0133,Normal,,,Continue monitoring
+1451,6.91,75.18,-0.0246,Normal,,,Continue monitoring
+1452,6.87,75.26,-0.0835,Normal,,,Continue monitoring
+1453,6.74,75.45,-0.0773,Normal,,,Continue monitoring
+1454,6.71,75.16,-0.0346,Normal,,,Continue monitoring
+1455,6.68,75.48,-0.0394,Normal,,,Continue monitoring
+1456,6.63,75.57,-0.0507,Normal,,,Continue monitoring
+1457,6.57,75.76,-0.0018,Normal,,,Continue monitoring
+1458,6.63,76.22,0.0204,Normal,165.26,165.2,Continue monitoring
+1459,6.62,76.39,-0.0031,Normal,,,Continue monitoring
+1460,6.62,76.71,-0.0248,Normal,,,Continue monitoring
+1461,6.57,76.9,-0.0365,Normal,,,Continue monitoring
+1462,6.55,76.88,-0.0041,Normal,,,Continue monitoring
+1463,6.56,76.94,-0.001,Normal,,,Continue monitoring
+1464,6.55,77.0,0.0585,Normal,59.03,58.97,Continue monitoring
+1465,6.67,77.24,0.0979,Normal,33.98,34.01,Continue monitoring
+1466,6.74,77.13,-0.0008,Normal,,,Continue monitoring
+1467,6.67,77.37,-0.0005,Normal,,,Continue monitoring
+1468,6.74,77.74,0.0109,Normal,299.32,299.08,Continue monitoring
+1469,6.69,77.68,-0.0897,Normal,,,Continue monitoring
+1470,6.56,77.58,-0.0257,Normal,,,Continue monitoring
+1471,6.64,77.46,0.0655,Normal,51.27,51.3,Continue monitoring
+1472,6.69,77.42,0.0386,Normal,85.69,85.75,Continue monitoring
+1473,6.72,77.13,0.0164,Normal,200.36,200.0,Continue monitoring
+1474,6.73,76.38,-0.0041,Normal,,,Continue monitoring
+1475,6.71,75.97,0.0408,Normal,80.66,80.64,Continue monitoring
+1476,6.81,76.17,0.0669,Normal,47.7,47.68,Continue monitoring
+1477,6.85,76.55,-0.0193,Normal,,,Continue monitoring
+1478,6.77,76.99,-0.0007,Normal,,,Continue monitoring
+1479,6.84,76.93,0.0827,Normal,38.15,38.21,Continue monitoring
+1480,6.94,76.65,0.0124,Normal,246.28,246.77,Continue monitoring
+1481,6.87,76.5,-0.0541,Normal,,,Continue monitoring
+1482,6.83,76.23,0.0278,Normal,114.29,114.03,Continue monitoring
+1483,6.92,76.17,0.063,Normal,48.79,48.89,Continue monitoring
+1484,6.95,76.03,-0.0587,Normal,,,Continue monitoring
+1485,6.81,76.09,-0.1493,Normal,,,Continue monitoring
+1486,6.65,76.08,-0.1312,Normal,,,Continue monitoring
+1487,6.54,76.57,-0.0183,Normal,,,Continue monitoring
+1488,6.62,76.6,0.087,Normal,38.87,38.85,Continue monitoring
+1489,6.72,76.39,0.0723,Normal,45.39,45.37,Continue monitoring
+1490,6.76,76.44,0.0323,Normal,100.24,100.31,Continue monitoring
+1491,6.78,76.76,0.0399,Normal,80.69,80.7,Continue monitoring
+1492,6.84,76.83,-0.0369,Normal,,,Continue monitoring
+1493,6.71,76.59,-0.0711,Normal,,,Continue monitoring
+1494,6.7,76.61,-0.0501,Normal,,,Continue monitoring
+1495,6.61,77.22,0.0154,Normal,219.48,220.13,Continue monitoring
+1496,6.73,77.37,0.0635,Normal,51.45,51.5,Continue monitoring
+1497,6.74,77.31,-0.0352,Normal,,,Continue monitoring
+1498,6.66,77.33,-0.0278,Normal,,,Continue monitoring
+1499,6.68,77.02,0.0237,Normal,140.18,140.08,Continue monitoring
+1500,6.71,76.98,-0.0629,Normal,,,Continue monitoring
+1501,6.56,76.77,-0.0929,Normal,,,Continue monitoring
+1502,6.52,77.24,0.0057,Normal,608.26,610.53,Continue monitoring
+1503,6.57,76.91,0.0417,Normal,82.33,82.25,Continue monitoring
+1504,6.61,76.52,0.0627,Normal,54.1,54.07,Continue monitoring
+1505,6.69,76.4,0.0396,Normal,83.61,83.59,Continue monitoring
+1506,6.68,76.73,-0.0552,Normal,,,Continue monitoring
+1507,6.58,76.38,-0.0748,Normal,,,Continue monitoring
+1508,6.53,76.64,-0.0841,Normal,,,Continue monitoring
+1509,6.41,75.93,-0.0788,Normal,,,Continue monitoring
+1510,6.38,76.07,0.03,Normal,120.9,120.67,Continue monitoring
+1511,6.47,75.96,0.0316,Normal,111.77,111.71,Continue monitoring
+1512,6.44,76.25,-0.0912,Normal,,,Continue monitoring
+1513,6.29,76.15,-0.0672,Normal,,,Continue monitoring
+1514,6.31,76.26,-0.0128,Normal,,,Continue monitoring
+1515,6.27,76.27,-0.1199,Normal,,,Continue monitoring
+1516,6.07,76.1,-0.0814,Normal,,,Continue monitoring
+1517,6.1,75.86,0.0205,Normal,190.13,190.24,Continue monitoring
+1518,6.11,75.97,-0.0113,Normal,,,Continue monitoring
+1519,6.08,76.01,-0.0522,Normal,,,Continue monitoring
+1520,6.0,75.96,-0.0141,Normal,,,Continue monitoring
+1521,6.05,76.0,0.0009,Normal,4167.65,4388.89,Continue monitoring
+1522,6.0,76.06,0.0051,Normal,779.86,784.31,Continue monitoring
+1523,6.06,75.54,0.0749,Normal,52.55,52.6,Continue monitoring
+1524,6.15,75.46,0.0634,Normal,60.67,60.73,Continue monitoring
+1525,6.19,75.76,-0.0378,Normal,,,Continue monitoring
+1526,6.08,75.58,-0.0664,Normal,,,Continue monitoring
+1527,6.06,75.39,0.0579,Normal,68.17,68.05,Continue monitoring
+1528,6.19,75.17,0.0472,Normal,80.67,80.72,Continue monitoring
+1529,6.15,75.22,-0.0703,Normal,,,Continue monitoring
+1530,6.05,75.12,-0.0354,Normal,,,Continue monitoring
+1531,6.08,75.04,0.009,Normal,437.44,435.56,Continue monitoring
+1532,6.07,74.91,-0.0643,Normal,,,Continue monitoring
+1533,5.95,74.99,0.0096,Normal,420.99,421.88,Continue monitoring
+1534,6.09,74.99,0.0792,Normal,49.35,49.37,Continue monitoring
+1535,6.11,75.17,-0.0418,Normal,,,Continue monitoring
+1536,6.01,75.59,-0.0427,Normal,,,Continue monitoring
+1537,6.02,76.0,-0.0212,Normal,,,Continue monitoring
+1538,5.97,76.46,0.0017,Normal,2394.72,2370.59,Continue monitoring
+1539,6.03,76.59,0.0404,Normal,98.42,98.27,Continue monitoring
+1540,6.05,76.53,0.0574,Normal,68.91,68.82,Continue monitoring
+1541,6.14,76.57,-0.0307,Normal,,,Continue monitoring
+1542,5.98,76.29,-0.0861,Normal,,,Continue monitoring
+1543,5.97,76.36,-0.0097,Normal,,,Continue monitoring
+1544,5.97,76.67,-0.0803,Normal,,,Continue monitoring
+1545,5.81,76.71,-0.1508,Normal,,,Continue monitoring
+1546,5.66,76.9,-0.0765,Normal,,,Continue monitoring
+1547,5.66,77.0,-0.0383,Normal,,,Continue monitoring
+1548,5.59,77.32,0.0071,Normal,620.36,621.13,Continue monitoring
+1549,5.67,77.47,0.0365,Normal,118.66,118.63,Continue monitoring
+1550,5.66,77.61,-0.0335,Normal,,,Continue monitoring
+1551,5.6,77.82,0.0377,Normal,116.61,116.71,Continue monitoring
+1552,5.74,78.09,0.0368,Normal,115.9,115.76,Continue monitoring
+1553,5.68,78.18,-0.0809,Normal,,,Continue monitoring
+1554,5.57,78.33,-0.0337,Normal,,,Continue monitoring
+1555,5.61,77.86,-0.0284,Normal,,,Continue monitoring
+1556,5.52,77.79,-0.0585,Normal,,,Continue monitoring
+1557,5.49,77.49,0.0035,Normal,1278.79,1288.57,Continue monitoring
+1558,5.52,77.55,0.0078,Normal,574.74,574.36,Continue monitoring
+1559,5.51,77.36,0.0342,Normal,131.43,131.29,Continue monitoring
+1560,5.59,77.77,0.0226,Normal,194.99,195.13,Continue monitoring
+1561,5.55,77.62,0.0003,Normal,14538.79,14833.33,Continue monitoring
+1562,5.59,77.53,0.0141,Normal,313.19,312.77,Continue monitoring
+1563,5.58,77.72,-0.082,Normal,,,Continue monitoring
+1564,5.43,78.05,-0.0735,Normal,,,Continue monitoring
+1565,5.43,77.94,-0.0007,Normal,,,Continue monitoring
+1566,5.43,77.93,-0.0728,Normal,,,Continue monitoring
+1567,5.29,78.31,-0.0676,Normal,,,Continue monitoring
+1568,5.29,78.42,0.0397,Normal,118.54,118.64,Continue monitoring
+1569,5.37,78.16,0.057,Normal,81.26,81.23,Continue monitoring
+1570,5.41,78.1,0.0528,Normal,86.99,86.93,Continue monitoring
+1571,5.47,77.56,0.0299,Normal,151.34,151.51,Continue monitoring
+1572,5.47,77.41,0.0133,Normal,340.21,340.6,Continue monitoring
+1573,5.5,77.53,-0.011,Normal,,,Continue monitoring
+1574,5.44,77.35,-0.0327,Normal,,,Continue monitoring
+1575,5.44,77.13,0.0293,Normal,156.05,155.63,Continue monitoring
+1576,5.5,77.04,-0.0826,Normal,,,Continue monitoring
+1577,5.27,76.94,-0.1578,Normal,,,Continue monitoring
+1578,5.19,76.53,-0.091,Normal,,,Continue monitoring
+1579,5.09,76.56,0.0036,Normal,1346.31,1363.89,Continue monitoring
+1580,5.19,76.64,0.0289,Normal,166.37,166.44,Continue monitoring
+1581,5.15,76.75,-0.0426,Normal,,,Continue monitoring
+1582,5.11,76.58,-0.0645,Normal,,,Continue monitoring
+1583,5.02,76.14,-0.0618,Normal,,,Continue monitoring
+1584,4.99,76.18,-0.0195,Normal,,,Continue monitoring
+1585,4.98,76.08,-0.0417,Normal,,,Continue monitoring
+1586,4.9,76.23,-0.0905,Normal,,,Continue monitoring
+1587,4.8,76.42,-0.0928,Normal,,,Continue monitoring
+1588,4.72,76.24,-0.0988,Normal,,,Continue monitoring
+1589,4.6,76.11,-0.0197,Normal,,,Continue monitoring
+1590,4.68,76.24,0.0781,Normal,68.11,68.12,Continue monitoring
+1591,4.76,76.37,-0.005,Normal,,,Continue monitoring
+1592,4.67,76.29,-0.0754,Normal,,,Continue monitoring
+1593,4.6,76.62,-0.0791,Normal,,,Continue monitoring
+1594,4.51,76.84,-0.0122,Normal,,,Continue monitoring
+1595,4.58,77.3,0.0193,Normal,280.36,280.83,Continue monitoring
+1596,4.55,77.48,0.0749,Normal,72.82,72.76,Continue monitoring
+1597,4.73,77.32,0.0299,Normal,176.46,176.25,Continue monitoring
+1598,4.61,76.85,-0.0329,Normal,,,Continue monitoring
+1599,4.66,76.38,0.0136,Normal,391.87,392.65,Continue monitoring
+1600,4.63,76.49,-0.0075,Normal,,,Continue monitoring
+1601,4.65,76.6,0.0163,Normal,328.29,328.22,Continue monitoring
+1602,4.67,76.92,-0.0292,Normal,,,Continue monitoring
+1603,4.59,76.75,-0.069,Normal,,,Continue monitoring
+1604,4.53,76.96,0.0051,Normal,1070.7,1072.55,Continue monitoring
+1605,4.6,77.07,0.0834,Normal,64.77,64.75,Continue monitoring
+1606,4.7,76.78,0.114,Normal,46.52,46.49,Continue monitoring
+1607,4.83,77.16,0.0961,Normal,53.8,53.8,Continue monitoring
+1608,4.89,77.6,-0.0368,Normal,,,Continue monitoring
+1609,4.76,77.47,-0.0957,Normal,,,Continue monitoring
+1610,4.7,77.65,-0.0714,Normal,,,Continue monitoring
+1611,4.61,77.84,0.0128,Normal,420.36,421.09,Continue monitoring
+1612,4.72,78.01,0.0662,Normal,79.76,79.76,Continue monitoring
+1613,4.75,77.77,-0.0225,Normal,,,Continue monitoring
+1614,4.68,78.08,-0.0027,Normal,,,Continue monitoring
+1615,4.74,78.07,0.0145,Normal,363.84,362.76,Continue monitoring
+1616,4.71,77.56,-0.0596,Normal,,,Continue monitoring
+1617,4.62,78.04,-0.0941,Normal,,,Continue monitoring
+1618,4.52,78.09,-0.0109,Normal,,,Continue monitoring
+1619,4.6,77.77,0.0477,Normal,113.27,113.21,Continue monitoring
+1620,4.61,78.01,0.0079,Normal,682.84,682.28,Continue monitoring
+1621,4.61,78.73,-0.0662,Normal,,,Continue monitoring
+1622,4.48,78.99,-0.0737,Normal,,,Continue monitoring
+1623,4.47,79.18,0.0107,Normal,515.15,516.82,Continue monitoring
+1624,4.5,79.0,0.0268,Normal,205.04,205.22,Continue monitoring
+1625,4.52,78.54,0.0333,Normal,164.59,164.56,Continue monitoring
+1626,4.57,78.61,0.0497,Normal,109.33,109.26,Continue monitoring
+1627,4.62,78.88,0.0403,Normal,133.66,133.5,Continue monitoring
+1628,4.65,78.91,-0.0205,Normal,,,Continue monitoring
+1629,4.58,78.73,0.0122,Normal,443.37,444.26,Continue monitoring
+1630,4.67,79.09,0.0379,Normal,140.36,140.63,Continue monitoring
+1631,4.66,79.1,-0.0457,Normal,,,Continue monitoring
+1632,4.58,79.4,-0.0096,Normal,,,Continue monitoring
+1633,4.64,79.88,-0.0085,Normal,,,Continue monitoring
+1634,4.57,79.79,-0.0259,Normal,,,Continue monitoring
+1635,4.58,79.95,0.0006,Normal,8581.23,9033.33,Continue monitoring
+1636,4.57,79.73,0.0266,Normal,204.03,204.14,Continue monitoring
+1637,4.64,79.91,-0.0014,Normal,,,Continue monitoring
+1638,4.56,80.0,0.0102,Normal,535.19,533.33,Continue monitoring
+1639,4.66,80.0,0.05,Normal,106.86,106.8,Continue monitoring
+1640,4.66,80.0,-0.0313,Normal,,,Continue monitoring
+1641,4.6,80.0,-0.1206,Normal,,,Continue monitoring
+1642,4.42,80.0,-0.1486,Normal,,,Continue monitoring
+1643,4.3,80.0,-0.0757,Normal,,,Continue monitoring
+1644,4.27,79.95,-0.0383,Normal,,,Continue monitoring
+1645,4.22,79.88,0.0316,Normal,182.68,182.91,Continue monitoring
+1646,4.33,79.25,0.1078,Normal,52.54,52.6,Continue monitoring
+1647,4.44,79.34,0.0028,Normal,1988.37,1985.71,Continue monitoring
+1648,4.34,79.07,0.0188,Normal,301.44,301.06,Continue monitoring
+1649,4.47,78.83,0.0209,Normal,264.1,264.59,Continue monitoring
+1650,4.38,79.12,-0.0326,Normal,,,Continue monitoring
+1651,4.41,78.88,0.0222,Normal,251.75,251.8,Continue monitoring
+1652,4.43,78.63,0.0527,Normal,105.76,105.69,Continue monitoring
+1653,4.51,78.89,0.0653,Normal,83.98,84.07,Continue monitoring
+1654,4.56,78.98,0.0917,Normal,59.33,59.32,Continue monitoring
+1655,4.7,78.98,0.0232,Normal,228.79,228.45,Continue monitoring
+1656,4.6,79.09,0.0362,Normal,149.21,149.17,Continue monitoring
+1657,4.77,78.84,0.069,Normal,75.81,75.8,Continue monitoring
+1658,4.74,78.94,-0.0166,Normal,,,Continue monitoring
+1659,4.74,78.7,0.0427,Normal,123.19,123.19,Continue monitoring
+1660,4.83,79.28,0.0527,Normal,98.12,98.1,Continue monitoring
+1661,4.84,79.05,-0.0541,Normal,,,Continue monitoring
+1662,4.72,79.12,-0.0178,Normal,,,Continue monitoring
+1663,4.81,79.24,0.0441,Normal,117.86,117.69,Continue monitoring
+1664,4.81,79.09,-0.0438,Normal,,,Continue monitoring
+1665,4.72,79.3,-0.0071,Normal,,,Continue monitoring
+1666,4.79,78.91,0.1001,Normal,52.0,52.05,Continue monitoring
+1667,4.92,79.05,0.1196,Normal,42.48,42.47,Continue monitoring
+1668,5.03,78.72,0.0014,Normal,3677.86,3550.0,Continue monitoring
+1669,4.92,78.68,-0.0345,Normal,,,Continue monitoring
+1670,4.96,79.13,0.0484,Normal,104.17,104.13,Continue monitoring
+1671,5.02,79.07,-0.0128,Normal,,,Continue monitoring
+1672,4.94,79.38,-0.0796,Normal,,,Continue monitoring
+1673,4.86,79.78,-0.05,Normal,,,Continue monitoring
+1674,4.84,80.0,0.0158,Normal,327.13,326.58,Continue monitoring
+1675,4.89,79.97,0.0064,Normal,800.52,798.44,Continue monitoring
+1676,4.85,79.88,-0.0036,Normal,,,Continue monitoring
+1677,4.88,79.9,-0.0066,Normal,,,Continue monitoring
+1678,4.84,79.86,-0.0206,Normal,,,Continue monitoring
+1679,4.84,79.33,0.0215,Normal,240.19,240.0,Continue monitoring
+1680,4.88,79.08,-0.0278,Normal,,,Continue monitoring
+1681,4.79,78.66,-0.1179,Normal,,,Continue monitoring
+1682,4.64,78.32,-0.1001,Normal,,,Continue monitoring
+1683,4.59,78.81,-0.0494,Normal,,,Continue monitoring
+1684,4.55,78.85,-0.005,Normal,,,Continue monitoring
+1685,4.58,78.89,0.0129,Normal,419.67,420.16,Continue monitoring
+1686,4.57,78.59,0.0549,Normal,98.82,98.91,Continue monitoring
+1687,4.69,79.04,-0.0093,Normal,,,Continue monitoring
+1688,4.55,78.78,-0.0785,Normal,,,Continue monitoring
+1689,4.53,78.54,0.009,Normal,604.66,607.78,Continue monitoring
+1690,4.57,78.36,0.1068,Normal,50.82,50.84,Continue monitoring
+1691,4.74,78.66,0.0951,Normal,55.27,55.31,Continue monitoring
+1692,4.76,78.91,0.0527,Normal,99.34,99.43,Continue monitoring
+1693,4.85,78.77,0.0116,Normal,444.52,443.97,Continue monitoring
+1694,4.78,78.79,0.0018,Normal,2871.08,2900.0,Continue monitoring
+1695,4.85,78.83,-0.0286,Normal,,,Continue monitoring
+1696,4.73,78.63,-0.066,Normal,,,Continue monitoring
+1697,4.72,78.61,0.0759,Normal,69.52,69.57,Continue monitoring
+1698,4.88,78.26,0.0991,Normal,51.67,51.66,Continue monitoring
+1699,4.92,78.63,0.1111,Normal,45.74,45.72,Continue monitoring
+1700,5.1,78.53,0.1105,Normal,44.33,44.34,Continue monitoring
+1701,5.14,78.68,0.0275,Normal,176.88,176.73,Continue monitoring
+1702,5.16,78.65,0.0253,Normal,191.79,191.3,Continue monitoring
+1703,5.19,78.02,0.0447,Normal,107.54,107.61,Continue monitoring
+1704,5.25,78.05,0.0184,Normal,258.64,258.15,Continue monitoring
+1705,5.23,78.56,-0.0359,Normal,,,Continue monitoring
+1706,5.17,78.46,0.0527,Normal,91.65,91.65,Continue monitoring
+1707,5.33,78.25,0.0577,Normal,80.95,80.94,Continue monitoring
+1708,5.29,78.22,0.0116,Normal,405.28,406.03,Continue monitoring
+1709,5.36,78.27,-0.0181,Normal,,,Continue monitoring
+1710,5.25,78.13,-0.076,Normal,,,Continue monitoring
+1711,5.2,78.11,-0.0073,Normal,,,Continue monitoring
+1712,5.24,78.22,-0.054,Normal,,,Continue monitoring
+1713,5.1,78.49,-0.0609,Normal,,,Continue monitoring
+1714,5.12,78.83,0.0279,Normal,175.23,174.91,Continue monitoring
+1715,5.15,79.11,0.0364,Normal,133.09,133.24,Continue monitoring
+1716,5.19,79.44,0.0396,Normal,121.64,121.46,Continue monitoring
+1717,5.23,79.42,0.1118,Normal,42.66,42.67,Continue monitoring
+1718,5.41,79.64,0.1138,Normal,40.29,40.33,Continue monitoring
+1719,5.46,79.32,-0.0286,Normal,,,Continue monitoring
+1720,5.36,79.4,-0.0457,Normal,,,Continue monitoring
+1721,5.37,79.24,0.0115,Normal,404.27,402.61,Continue monitoring
+1722,5.38,79.64,0.0335,Normal,138.14,137.91,Continue monitoring
+1723,5.43,79.35,0.0234,Normal,195.5,195.3,Continue monitoring
+1724,5.43,79.15,-0.02,Normal,,,Continue monitoring
+1725,5.39,79.05,-0.0346,Normal,,,Continue monitoring
+1726,5.36,78.74,-0.0242,Normal,,,Continue monitoring
+1727,5.35,78.59,-0.1223,Normal,,,Continue monitoring
+1728,5.11,79.11,-0.0736,Normal,,,Continue monitoring
+1729,5.2,79.01,0.0443,Normal,108.38,108.35,Continue monitoring
+1730,5.2,78.72,0.0686,Normal,69.99,69.97,Continue monitoring
+1731,5.34,79.2,0.0741,Normal,62.95,62.89,Continue monitoring
+1732,5.35,79.45,0.0133,Normal,350.32,349.62,Continue monitoring
+1733,5.36,79.12,-0.0095,Normal,,,Continue monitoring
+1734,5.33,79.15,-0.0347,Normal,,,Continue monitoring
+1735,5.29,79.1,-0.0218,Normal,,,Continue monitoring
+1736,5.29,79.08,-0.0016,Normal,,,Continue monitoring
+1737,5.29,78.81,-0.0266,Normal,,,Continue monitoring
+1738,5.23,78.49,0.0104,Normal,457.03,458.65,Continue monitoring
+1739,5.31,77.96,0.0853,Normal,55.0,54.98,Continue monitoring
+1740,5.4,78.31,0.0341,Normal,134.99,134.9,Continue monitoring
+1741,5.38,77.66,-0.0265,Normal,,,Continue monitoring
+1742,5.35,77.64,-0.0549,Normal,,,Continue monitoring
+1743,5.27,77.51,0.0208,Normal,227.64,227.4,Continue monitoring
+1744,5.39,77.68,0.0242,Normal,190.24,190.5,Continue monitoring
+1745,5.32,77.28,-0.0501,Normal,,,Continue monitoring
+1746,5.29,77.23,0.0068,Normal,695.83,692.65,Continue monitoring
+1747,5.33,77.09,0.0403,Normal,115.84,115.88,Continue monitoring
+1748,5.37,77.58,0.0531,Normal,87.19,87.19,Continue monitoring
+1749,5.44,77.56,0.0253,Normal,180.4,180.24,Continue monitoring
+1750,5.42,77.48,0.0399,Normal,114.73,114.79,Continue monitoring
+1751,5.52,77.32,0.049,Normal,91.43,91.43,Continue monitoring
+1752,5.52,77.33,-0.0183,Normal,,,Continue monitoring
+1753,5.48,76.99,-0.0072,Normal,,,Continue monitoring
+1754,5.51,76.97,0.0329,Normal,136.47,136.47,Continue monitoring
+1755,5.55,76.84,0.0688,Normal,64.7,64.68,Continue monitoring
+1756,5.64,76.62,0.1173,Normal,37.13,37.17,Continue monitoring
+1757,5.78,76.18,0.0859,Normal,49.13,49.13,Continue monitoring
+1758,5.82,76.3,-0.0144,Normal,,,Continue monitoring
+1759,5.75,76.41,0.0194,Normal,219.44,219.07,Continue monitoring
+1760,5.85,75.85,0.0713,Normal,58.15,58.2,Continue monitoring
+1761,5.89,75.23,-0.0185,Normal,,,Continue monitoring
+1762,5.82,75.64,-0.0619,Normal,,,Continue monitoring
+1763,5.77,75.35,-0.0312,Normal,,,Continue monitoring
+1764,5.75,75.86,-0.0812,Normal,,,Continue monitoring
+1765,5.61,75.6,-0.0134,Normal,,,Continue monitoring
+1766,5.73,76.06,0.0558,Normal,76.61,76.52,Continue monitoring
+1767,5.72,75.75,0.0797,Normal,53.71,53.7,Continue monitoring
+1768,5.89,76.15,0.111,Normal,37.05,37.03,Continue monitoring
+1769,5.94,75.95,0.0252,Normal,161.06,161.11,Continue monitoring
+1770,5.94,75.91,0.0113,Normal,360.34,359.29,Continue monitoring
+1771,5.96,76.27,0.0484,Normal,83.36,83.47,Continue monitoring
+1772,6.03,76.0,0.0902,Normal,43.94,44.01,Continue monitoring
+1773,6.14,76.08,0.0825,Normal,46.71,46.79,Continue monitoring
+1774,6.2,76.45,-0.017,Normal,,,Continue monitoring
+1775,6.11,76.44,-0.0657,Normal,,,Continue monitoring
+1776,6.07,76.05,-0.0074,Normal,,,Continue monitoring
+1777,6.1,76.67,-0.0597,Normal,,,Continue monitoring
+1778,5.95,76.67,-0.048,Normal,,,Continue monitoring
+1779,6.0,76.7,0.0211,Normal,189.6,189.57,Continue monitoring
+1780,5.99,76.37,0.0048,Normal,837.57,835.42,Continue monitoring
+1781,6.01,76.18,-0.0783,Normal,,,Continue monitoring
+1782,5.83,76.48,-0.0493,Normal,,,Continue monitoring
+1783,5.91,76.49,0.0475,Normal,86.08,86.11,Continue monitoring
+1784,5.93,76.76,0.0181,Normal,224.44,224.86,Continue monitoring
+1785,5.95,76.99,-0.0029,Normal,,,Continue monitoring
+1786,5.92,77.32,0.0009,Normal,4373.1,4533.33,Continue monitoring
+1787,5.95,77.37,-0.038,Normal,,,Continue monitoring
+1788,5.85,77.44,-0.0841,Normal,,,Continue monitoring
+1789,5.78,77.28,-0.0659,Normal,,,Continue monitoring
+1790,5.72,77.01,0.0524,Normal,81.79,81.68,Continue monitoring
+1791,5.89,77.34,0.1618,Normal,25.43,25.4,Continue monitoring
+1792,6.04,77.04,0.0797,Normal,49.71,49.69,Continue monitoring
+1793,6.05,76.72,-0.025,Normal,,,Continue monitoring
+1794,5.99,76.49,0.0218,Normal,184.34,183.94,Continue monitoring
+1795,6.09,76.39,0.0923,Normal,42.37,42.36,Continue monitoring
+1796,6.17,76.54,0.1349,Normal,28.36,28.39,Continue monitoring
+1797,6.36,76.17,0.1425,Normal,25.55,25.54,Continue monitoring
+1798,6.46,76.45,0.0114,Normal,309.66,310.53,Continue monitoring
+1799,6.38,76.71,-0.0255,Normal,,,Continue monitoring
+1800,6.41,76.65,-0.0195,Normal,,,Continue monitoring
+1801,6.34,76.47,0.049,Normal,74.59,74.69,Continue monitoring
+1802,6.51,76.47,0.1133,Normal,30.84,30.8,Continue monitoring
+1803,6.57,76.27,0.0001,Normal,37670.24,34300.0,Continue monitoring
+1804,6.51,76.54,-0.0852,Normal,,,Continue monitoring
+1805,6.4,76.44,-0.0526,Normal,,,Continue monitoring
+1806,6.4,76.47,-0.0058,Normal,,,Continue monitoring
+1807,6.39,76.57,0.0206,Normal,175.81,175.24,Continue monitoring
+1808,6.44,76.75,-0.0117,Normal,,,Continue monitoring
+1809,6.36,76.68,0.0084,Normal,435.07,433.33,Continue monitoring
+1810,6.46,76.9,-0.0071,Normal,,,Continue monitoring
+1811,6.35,76.99,-0.134,Normal,,,Continue monitoring
+1812,6.19,77.0,-0.0032,Normal,,,Continue monitoring
+1813,6.34,76.76,0.0425,Normal,85.97,86.12,Continue monitoring
+1814,6.28,76.96,-0.0951,Normal,,,Continue monitoring
+1815,6.15,76.8,-0.0379,Normal,,,Continue monitoring
+1816,6.2,76.64,0.0144,Normal,263.52,263.89,Continue monitoring
+1817,6.18,76.82,0.0074,Normal,514.41,516.22,Continue monitoring
+1818,6.22,76.89,0.0033,Normal,1147.96,1145.45,Continue monitoring
+1819,6.19,76.98,-0.0185,Normal,,,Continue monitoring
+1820,6.18,77.1,-0.0248,Normal,,,Continue monitoring
+1821,6.14,77.05,-0.0595,Normal,,,Continue monitoring
+1822,6.06,77.04,-0.072,Normal,,,Continue monitoring
+1823,5.99,76.77,-0.0221,Normal,,,Continue monitoring
+1824,6.02,76.82,0.0417,Normal,95.65,95.44,Continue monitoring
+1825,6.08,76.71,0.0476,Normal,82.34,82.35,Continue monitoring
+1826,6.11,76.85,0.0341,Normal,114.02,114.08,Continue monitoring
+1827,6.15,76.64,0.0238,Normal,162.17,161.76,Continue monitoring
+1828,6.16,76.73,0.0063,Normal,613.6,609.52,Continue monitoring
+1829,6.16,76.21,0.0067,Normal,572.79,573.13,Continue monitoring
+1830,6.17,76.76,-0.008,Normal,,,Continue monitoring
+1831,6.14,76.58,0.0005,Normal,7245.93,7720.0,Continue monitoring
+1832,6.17,76.66,0.0626,Normal,61.1,61.18,Continue monitoring
+1833,6.27,76.35,0.077,Normal,48.49,48.44,Continue monitoring
+1834,6.33,76.49,0.0236,Normal,155.87,155.51,Continue monitoring
+1835,6.31,76.58,0.0355,Normal,103.83,103.94,Continue monitoring
+1836,6.4,76.8,-0.0045,Normal,,,Continue monitoring
+1837,6.31,77.0,-0.0483,Normal,,,Continue monitoring
+1838,6.3,77.02,0.0003,Normal,10869.76,12333.33,Continue monitoring
+1839,6.31,76.98,0.0506,Normal,73.0,72.92,Continue monitoring
+1840,6.4,76.96,0.0029,Normal,1246.57,1241.38,Continue monitoring
+1841,6.31,76.86,-0.0376,Normal,,,Continue monitoring
+1842,6.33,77.17,0.0313,Normal,117.47,117.25,Continue monitoring
+1843,6.37,76.96,0.1235,Normal,29.35,29.39,Continue monitoring
+1844,6.57,77.02,0.1504,Normal,22.78,22.81,Continue monitoring
+1845,6.68,76.99,0.0723,Normal,45.95,45.92,Continue monitoring
+1846,6.72,77.2,0.0701,Normal,46.84,46.79,Continue monitoring
+1847,6.82,77.46,0.0836,Normal,38.08,38.04,Continue monitoring
+1848,6.89,77.38,0.012,Normal,259.15,259.17,Continue monitoring
+1849,6.84,77.46,0.0145,Normal,218.62,217.93,Continue monitoring
+1850,6.91,77.41,0.0799,Normal,38.6,38.67,Continue monitoring
+1851,7.0,77.77,0.006,Normal,503.91,500.0,Continue monitoring
+1852,6.93,77.56,-0.0423,Normal,,,Continue monitoring
+1853,6.92,77.64,-0.0266,Normal,,,Continue monitoring
+1854,6.87,77.98,-0.004,Normal,,,Continue monitoring
+1855,6.91,77.99,-0.0405,Normal,,,Continue monitoring
+1856,6.79,77.66,-0.0462,Normal,,,Continue monitoring
+1857,6.81,77.13,0.0517,Normal,61.56,61.7,Continue monitoring
+1858,6.9,77.09,0.1702,Normal,18.24,18.21,Continue monitoring
+1859,7.16,77.66,0.1225,Normal,23.23,23.18,Continue monitoring
+1860,7.14,77.64,0.0326,Normal,87.8,87.73,Continue monitoring
+1861,7.22,78.06,-0.0257,Normal,,,Continue monitoring
+1862,7.09,77.62,-0.0904,Normal,,,Continue monitoring
+1863,7.04,77.76,-0.005,Normal,,,Continue monitoring
+1864,7.08,78.03,-0.0281,Normal,,,Continue monitoring
+1865,6.98,77.45,-0.0137,Normal,,,Continue monitoring
+1866,7.05,77.24,-0.0464,Normal,,,Continue monitoring
+1867,6.89,77.28,-0.049,Normal,,,Continue monitoring
+1868,6.95,77.25,0.0134,Normal,227.1,227.61,Continue monitoring
+1869,6.92,77.21,-0.0331,Normal,,,Continue monitoring
+1870,6.89,76.87,-0.0434,Normal,,,Continue monitoring
+1871,6.83,77.0,-0.0157,Normal,,,Continue monitoring
+1872,6.86,77.04,-0.0269,Normal,,,Continue monitoring
+1873,6.78,77.0,-0.1269,Normal,,,Continue monitoring
+1874,6.6,77.04,-0.0299,Normal,,,Continue monitoring
+1875,6.72,76.67,0.0337,Normal,97.38,97.33,Continue monitoring
+1876,6.67,76.76,0.0267,Normal,124.83,124.72,Continue monitoring
+1877,6.77,76.64,0.0224,Normal,144.04,144.2,Continue monitoring
+1878,6.71,76.15,-0.0236,Normal,,,Continue monitoring
+1879,6.72,76.66,0.0152,Normal,215.14,215.79,Continue monitoring
+1880,6.75,76.66,0.024,Normal,135.75,135.42,Continue monitoring
+1881,6.77,76.65,-0.0196,Normal,,,Continue monitoring
+1882,6.71,76.86,-0.0235,Normal,,,Continue monitoring
+1883,6.72,76.87,-0.03,Normal,,,Continue monitoring
+1884,6.65,77.19,-0.0124,Normal,,,Continue monitoring
+1885,6.7,77.05,0.0667,Normal,49.52,49.48,Continue monitoring
+1886,6.78,76.93,0.0088,Normal,366.3,365.91,Continue monitoring
+1887,6.72,76.74,-0.1021,Normal,,,Continue monitoring
+1888,6.57,76.86,-0.1441,Normal,,,Continue monitoring
+1889,6.43,76.55,-0.1563,Normal,,,Continue monitoring
+1890,6.26,76.53,-0.089,Normal,,,Continue monitoring
+1891,6.25,76.45,-0.0477,Normal,,,Continue monitoring
+1892,6.17,76.15,-0.0231,Normal,,,Continue monitoring
+1893,6.2,76.02,0.0312,Normal,121.55,121.79,Continue monitoring
+1894,6.23,75.79,0.0199,Normal,189.5,189.45,Continue monitoring
+1895,6.24,76.12,0.0307,Normal,122.39,122.48,Continue monitoring
+1896,6.29,76.02,0.0337,Normal,109.95,110.09,Continue monitoring
+1897,6.31,75.96,0.0106,Normal,347.88,348.11,Continue monitoring
+1898,6.31,75.88,-0.0063,Normal,,,Continue monitoring
+1899,6.3,75.93,-0.4158,Normal,,,Continue monitoring
+1900,5.48,62.12,-0.3417,Normal,,,Continue monitoring
+1901,5.62,61.24,0.0343,Normal,127.76,127.7,Continue monitoring
+1902,5.55,61.97,0.0604,Normal,73.69,73.68,Continue monitoring
+1903,5.74,63.15,0.0863,Normal,49.39,49.36,Continue monitoring
+1904,5.72,61.64,0.048,Normal,89.19,89.17,Continue monitoring
+1905,5.83,62.78,0.0734,Normal,56.75,56.81,Continue monitoring
+1906,5.87,61.94,0.0822,Normal,50.24,50.24,Continue monitoring
+1907,6.0,62.62,0.0146,Normal,273.52,273.97,Continue monitoring
+1908,5.9,62.55,0.0616,Normal,66.62,66.56,Continue monitoring
+1909,6.12,62.92,0.0984,Normal,39.44,39.43,Continue monitoring
+1910,6.09,62.36,0.0692,Normal,56.43,56.5,Continue monitoring
+1911,6.26,62.07,0.0802,Normal,46.66,46.63,Continue monitoring
+1912,6.26,62.05,0.0535,Normal,69.97,69.91,Continue monitoring
+1913,6.37,62.55,0.0932,Normal,39.0,38.95,Continue monitoring
+1914,6.44,62.9,-0.0315,Normal,,,Continue monitoring
+1915,6.3,63.32,0.0713,Normal,51.86,51.89,Continue monitoring
+1916,6.58,63.15,0.0785,Normal,43.53,43.57,Continue monitoring
+1917,6.46,62.73,0.0038,Normal,939.92,931.58,Continue monitoring
+1918,6.59,62.62,0.1582,Normal,21.55,21.55,Continue monitoring
+1919,6.78,63.01,-0.054,Normal,,,Continue monitoring
+1920,6.48,63.14,-0.0216,Normal,,,Continue monitoring
+1921,6.73,63.02,0.1534,Normal,21.3,21.32,Continue monitoring
+1922,6.79,63.42,0.1187,Normal,27.04,27.04,Continue monitoring
+1923,6.97,63.26,0.0612,Normal,49.54,49.51,Continue monitoring
+1924,6.91,63.18,0.016,Normal,192.99,193.12,Continue monitoring
+1925,7.0,62.93,0.0967,Normal,31.0,31.02,Continue monitoring
+1926,7.11,63.48,0.1208,Normal,23.95,23.92,Continue monitoring
+1927,7.24,63.85,0.0094,Normal,292.78,293.62,Continue monitoring
+1928,7.13,63.73,-0.0397,Normal,,,Continue monitoring
+1929,7.16,63.73,0.0668,Normal,42.48,42.51,Continue monitoring
+1930,7.26,63.09,0.1092,Normal,25.09,25.09,Continue monitoring
+1931,7.38,62.48,0.0106,Normal,246.35,247.17,Continue monitoring
+1932,7.28,63.53,0.0521,Normal,52.21,52.21,Continue monitoring
+1933,7.49,63.5,0.0669,Normal,37.59,37.52,Continue monitoring
+1934,7.41,63.37,0.0724,Normal,35.75,35.77,Continue monitoring
+1935,7.63,63.98,0.1225,Normal,19.33,19.35,Continue monitoring
+1936,7.66,64.26,0.0602,Normal,38.86,38.87,Continue monitoring
+1937,7.75,63.55,0.0494,Normal,45.48,45.55,Continue monitoring
+1938,7.76,63.34,0.0398,Normal,56.37,56.28,Continue monitoring
+1939,7.83,64.39,0.0986,Normal,21.99,22.01,Continue monitoring
+1940,7.95,64.56,0.0522,Normal,39.17,39.27,Continue monitoring
+1941,7.94,64.59,0.0249,Normal,83.05,82.73,Continue monitoring
+1942,8.0,64.69,0.0712,Warning,28.01,28.09,Check cooling system immediately
+1943,8.08,64.43,0.1267,Warning,15.16,15.15,Check cooling system immediately
+1944,8.26,64.12,0.0696,Warning,25.03,25.0,Check cooling system immediately
+1945,8.22,64.77,-0.0043,Warning,,,Monitor temperature closely
+1946,8.25,63.77,0.137,Warning,12.78,12.77,Check cooling system immediately
+1947,8.49,64.16,0.0717,Warning,21.05,21.06,Check cooling system immediately
+1948,8.39,64.86,-0.0501,Warning,,,Monitor temperature closely
+1949,8.39,64.05,0.0638,Warning,25.21,25.24,Check cooling system immediately
+1950,8.52,63.78,0.0728,Warning,20.32,20.33,Check cooling system immediately
+1951,8.54,64.65,0.0391,Warning,37.46,37.34,Monitor temperature closely
+1952,8.6,63.98,0.1353,Warning,10.36,10.35,Check cooling system immediately
+1953,8.81,64.69,0.128,Warning,9.31,9.3,Check cooling system immediately
+1954,8.85,64.6,-0.039,Warning,,,Monitor temperature closely
+1955,8.73,64.86,-0.0059,Warning,,,Monitor temperature closely
+1956,8.84,64.33,0.154,Warning,7.52,7.53,Check cooling system immediately
+1957,9.04,64.6,-0.005,Warning,,,Monitor temperature closely
+1958,8.83,65.43,-0.019,Warning,,,Monitor temperature closely
+1959,9.0,64.71,0.063,Warning,15.88,15.87,Check cooling system immediately
+1960,8.96,65.7,0.0286,Warning,36.42,36.36,Monitor temperature closely
+1961,9.06,65.07,0.1671,Warning,5.64,5.63,Check cooling system immediately
+1962,9.29,65.27,0.1092,Warning,6.47,6.5,Check cooling system immediately
+1963,9.28,64.47,-0.0089,Warning,,,Monitor temperature closely
+1964,9.28,65.28,0.0309,Warning,23.46,23.3,Check cooling system immediately
+1965,9.34,65.33,0.1197,Warning,5.54,5.51,Check cooling system immediately
+1966,9.51,65.69,0.0424,Warning,11.44,11.56,Check cooling system immediately
+1967,9.42,66.23,0.0634,Warning,9.11,9.15,Check cooling system immediately
+1968,9.64,65.4,0.1526,Warning,2.35,2.36,Check cooling system immediately
+1969,9.73,66.4,-0.0282,Warning,,,Monitor temperature closely
+1970,9.58,65.41,-0.0787,Warning,,,Monitor temperature closely
+1971,9.57,65.63,0.1322,Warning,3.26,3.25,Check cooling system immediately
+1972,9.85,65.58,0.129,Warning,1.17,1.16,Check cooling system immediately
+1973,9.83,64.83,0.0603,Warning,2.86,2.82,Check cooling system immediately
+1974,9.97,66.28,0.0625,Warning,0.48,0.48,Check cooling system immediately
+1975,9.95,65.93,-0.0177,Warning,,,Monitor temperature closely
+1976,9.93,65.98,0.0679,Warning,0.96,1.03,Check cooling system immediately
+1977,10.09,65.55,0.0923,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1978,10.12,65.74,0.091,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1979,10.27,65.43,0.0745,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1980,10.27,65.98,0.0007,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1981,10.27,66.77,0.0417,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1982,10.35,65.83,0.0648,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1983,10.4,66.87,0.1163,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1984,10.58,65.83,0.1434,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1985,10.69,66.33,0.0482,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1986,10.68,66.16,-0.0142,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1987,10.66,66.49,0.0279,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1988,10.74,67.13,0.0392,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1989,10.74,67.06,0.0774,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1990,10.89,66.62,0.1441,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1991,11.03,66.3,0.099,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1992,11.09,65.52,-0.0021,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1993,11.02,66.28,-0.0247,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1994,11.04,66.61,0.1042,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1995,11.23,67.03,0.1198,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1996,11.28,66.53,0.0593,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1997,11.35,66.9,0.0878,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1998,11.45,67.21,0.0465,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+1999,11.44,66.59,-0.0036,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2000,11.45,66.78,0.0462,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2001,11.53,67.16,0.1147,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2002,11.68,67.08,0.0733,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2003,11.68,67.21,0.0108,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2004,11.7,66.83,-0.0109,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2005,11.66,66.97,0.0996,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2006,11.9,67.02,0.1207,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2007,11.9,67.54,0.0619,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2008,12.02,66.97,0.1094,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2009,12.12,67.9,-0.006,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2010,12.01,67.17,0.0678,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2011,12.26,67.49,0.0164,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2012,12.04,67.04,0.0024,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2013,12.26,67.18,0.1323,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2014,12.31,67.71,0.1285,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2015,12.52,67.63,0.1194,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2016,12.55,68.37,0.0589,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2017,12.63,67.96,-0.0614,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2018,12.42,68.08,0.0446,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2019,12.72,67.92,-3.3894,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2020,5.64,71.33,-3.5316,Normal,,,Continue monitoring
+2021,5.66,71.52,-0.0564,Normal,,,Continue monitoring
+2022,5.53,71.6,-0.0273,Normal,,,Continue monitoring
+2023,5.61,71.49,0.0653,Normal,67.26,67.23,Continue monitoring
+2024,5.66,72.2,0.0239,Normal,181.85,181.59,Continue monitoring
+2025,5.65,72.29,-0.0337,Normal,,,Continue monitoring
+2026,5.59,72.34,-0.0111,Normal,,,Continue monitoring
+2027,5.63,72.39,-0.0224,Normal,,,Continue monitoring
+2028,5.55,72.44,0.0177,Normal,251.42,251.41,Continue monitoring
+2029,5.67,72.55,0.097,Normal,44.69,44.64,Continue monitoring
+2030,5.74,72.49,0.0685,Normal,62.16,62.19,Continue monitoring
+2031,5.8,72.56,-0.008,Normal,,,Continue monitoring
+2032,5.73,72.64,-0.0777,Normal,,,Continue monitoring
+2033,5.65,72.48,-0.0321,Normal,,,Continue monitoring
+2034,5.66,72.56,-0.04,Normal,,,Continue monitoring
+2035,5.57,72.82,-0.0247,Normal,,,Continue monitoring
+2036,5.61,72.65,-0.0386,Normal,,,Continue monitoring
+2037,5.49,72.61,-0.0793,Normal,,,Continue monitoring
+2038,5.46,72.64,-0.0324,Normal,,,Continue monitoring
+2039,5.43,72.14,-0.0301,Normal,,,Continue monitoring
+2040,5.4,72.06,0.0098,Normal,469.26,469.39,Continue monitoring
+2041,5.45,71.88,0.0925,Normal,49.24,49.19,Continue monitoring
+2042,5.58,71.41,0.1196,Normal,36.96,36.96,Continue monitoring
+2043,5.69,71.35,0.0868,Normal,49.69,49.65,Continue monitoring
+2044,5.75,71.37,0.08,Normal,53.1,53.12,Continue monitoring
+2045,5.85,71.27,0.0016,Normal,2537.47,2593.75,Continue monitoring
+2046,5.76,71.63,-0.0485,Normal,,,Continue monitoring
+2047,5.75,71.68,0.0449,Normal,94.8,94.65,Continue monitoring
+2048,5.85,71.43,0.0732,Normal,56.73,56.69,Continue monitoring
+2049,5.89,71.28,0.0185,Normal,221.52,222.16,Continue monitoring
+2050,5.88,71.3,-0.0653,Normal,,,Continue monitoring
+2051,5.76,71.1,-0.006,Normal,,,Continue monitoring
+2052,5.87,71.32,0.0515,Normal,80.1,80.19,Continue monitoring
+2053,5.87,71.38,-0.0143,Normal,,,Continue monitoring
+2054,5.84,71.72,-0.0198,Normal,,,Continue monitoring
+2055,5.83,71.78,0.0378,Normal,110.3,110.32,Continue monitoring
+2056,5.92,71.59,0.1082,Normal,37.72,37.71,Continue monitoring
+2057,6.04,71.2,0.1275,Normal,31.02,31.06,Continue monitoring
+2058,6.17,71.11,0.0555,Normal,68.96,69.01,Continue monitoring
+2059,6.15,70.64,-0.0279,Normal,,,Continue monitoring
+2060,6.12,70.38,-0.0425,Normal,,,Continue monitoring
+2061,6.07,70.34,0.014,Normal,280.61,280.71,Continue monitoring
+2062,6.15,70.4,0.0506,Normal,76.13,76.09,Continue monitoring
+2063,6.17,70.12,-0.0229,Normal,,,Continue monitoring
+2064,6.1,70.57,-0.0646,Normal,,,Continue monitoring
+2065,6.04,70.99,-0.0391,Normal,,,Continue monitoring
+2066,6.02,70.99,0.0331,Normal,120.2,120.24,Continue monitoring
+2067,6.11,71.3,0.0384,Normal,101.4,101.3,Continue monitoring
+2068,6.1,71.21,-0.0067,Normal,,,Continue monitoring
+2069,6.09,71.29,0.0334,Normal,116.87,117.07,Continue monitoring
+2070,6.17,71.29,0.0604,Normal,63.47,63.41,Continue monitoring
+2071,6.22,71.7,0.04,Normal,94.59,94.5,Continue monitoring
+2072,6.25,71.78,-0.0455,Normal,,,Continue monitoring
+2073,6.12,71.12,-0.0452,Normal,,,Continue monitoring
+2074,6.16,71.1,-0.0051,Normal,,,Continue monitoring
+2075,6.11,71.16,-0.023,Normal,,,Continue monitoring
+2076,6.11,71.44,0.001,Normal,3783.47,3890.0,Continue monitoring
+2077,6.12,71.26,0.0431,Normal,90.21,90.02,Continue monitoring
+2078,6.2,71.2,0.0607,Normal,62.71,62.6,Continue monitoring
+2079,6.24,71.08,-0.0049,Normal,,,Continue monitoring
+2080,6.19,71.1,-0.0255,Normal,,,Continue monitoring
+2081,6.19,71.22,-0.0102,Normal,,,Continue monitoring
+2082,6.17,70.76,-0.0281,Normal,,,Continue monitoring
+2083,6.13,70.96,-0.0292,Normal,,,Continue monitoring
+2084,6.11,70.9,0.0276,Normal,141.26,140.94,Continue monitoring
+2085,6.19,70.72,-0.0223,Normal,,,Continue monitoring
+2086,6.06,70.68,-0.0811,Normal,,,Continue monitoring
+2087,6.02,70.44,-0.0264,Normal,,,Continue monitoring
+2088,6.01,70.56,-0.0074,Normal,,,Continue monitoring
+2089,6.01,70.64,0.0722,Normal,55.31,55.26,Continue monitoring
+2090,6.15,70.55,0.0837,Normal,45.97,46.0,Continue monitoring
+2091,6.18,70.43,-0.0227,Normal,,,Continue monitoring
+2092,6.11,70.28,-0.053,Normal,,,Continue monitoring
+2093,6.07,70.37,0.0748,Normal,52.53,52.54,Continue monitoring
+2094,6.26,70.19,0.0773,Normal,48.41,48.38,Continue monitoring
+2095,6.22,70.18,-0.0008,Normal,,,Continue monitoring
+2096,6.26,70.24,0.0672,Normal,55.71,55.65,Continue monitoring
+2097,6.36,69.64,-0.0441,Normal,,,Continue monitoring
+2098,6.17,69.51,-0.0516,Normal,,,Continue monitoring
+2099,6.26,69.12,-0.0764,Normal,,,Continue monitoring
+2100,6.02,69.26,-0.1106,Normal,,,Continue monitoring
+2101,6.03,68.99,-0.0297,Normal,,,Continue monitoring
+2102,5.96,68.75,-0.035,Normal,,,Continue monitoring
+2103,5.96,68.59,0.0242,Normal,166.85,166.94,Continue monitoring
+2104,6.0,67.88,-0.0145,Normal,,,Continue monitoring
+2105,5.94,67.6,-0.0445,Normal,,,Continue monitoring
+2106,5.92,67.46,0.0217,Normal,188.58,188.02,Continue monitoring
+2107,5.98,67.0,0.0337,Normal,119.19,119.29,Continue monitoring
+2108,5.98,67.14,0.0761,Normal,52.8,52.83,Continue monitoring
+2109,6.13,67.02,0.0872,Normal,44.34,44.38,Continue monitoring
+2110,6.16,66.56,-0.0827,Normal,,,Continue monitoring
+2111,5.97,66.78,-0.0959,Normal,,,Continue monitoring
+2112,5.97,67.07,-0.0552,Normal,,,Continue monitoring
+2113,5.86,67.2,0.0198,Normal,209.14,209.09,Continue monitoring
+2114,6.01,67.31,0.0858,Normal,46.55,46.5,Continue monitoring
+2115,6.03,67.31,-0.0518,Normal,,,Continue monitoring
+2116,5.9,67.65,-0.0873,Normal,,,Continue monitoring
+2117,5.85,67.77,-0.087,Normal,,,Continue monitoring
+2118,5.73,67.48,-0.0051,Normal,,,Continue monitoring
+2119,5.84,67.39,0.1155,Normal,35.99,36.02,Continue monitoring
+2120,5.96,67.37,-0.0155,Normal,,,Continue monitoring
+2121,5.81,67.59,-0.0973,Normal,,,Continue monitoring
+2122,5.76,67.77,-0.0226,Normal,,,Continue monitoring
+2123,5.77,67.38,0.0076,Normal,558.53,556.58,Continue monitoring
+2124,5.78,67.93,0.0263,Normal,160.53,160.46,Continue monitoring
+2125,5.82,67.92,0.0627,Normal,66.65,66.67,Continue monitoring
+2126,5.9,67.97,0.0514,Normal,79.68,79.77,Continue monitoring
+2127,5.92,67.7,0.0177,Normal,229.96,230.51,Continue monitoring
+2128,5.94,67.96,-0.0241,Normal,,,Continue monitoring
+2129,5.87,68.31,-0.0371,Normal,,,Continue monitoring
+2130,5.87,68.09,0.0362,Normal,114.08,114.09,Continue monitoring
+2131,5.95,68.02,0.0703,Normal,57.68,57.61,Continue monitoring
+2132,6.01,67.95,0.028,Normal,142.68,142.5,Continue monitoring
+2133,6.0,68.07,0.0092,Normal,432.57,434.78,Continue monitoring
+2134,6.03,67.57,-0.0332,Normal,,,Continue monitoring
+2135,5.94,67.8,-0.0501,Normal,,,Continue monitoring
+2136,5.92,67.67,-0.0596,Normal,,,Continue monitoring
+2137,5.82,67.4,-0.1352,Normal,,,Continue monitoring
+2138,5.65,67.38,-0.1048,Normal,,,Continue monitoring
+2139,5.61,67.14,-0.0267,Normal,,,Continue monitoring
+2140,5.6,67.23,0.081,Normal,54.31,54.32,Continue monitoring
+2141,5.77,66.85,0.1301,Normal,32.52,32.51,Continue monitoring
+2142,5.86,67.09,0.0152,Normal,272.08,272.37,Continue monitoring
+2143,5.8,67.14,-0.0495,Normal,,,Continue monitoring
+2144,5.76,67.19,0.0421,Normal,100.75,100.71,Continue monitoring
+2145,5.88,67.34,0.0807,Normal,51.01,51.05,Continue monitoring
+2146,5.92,67.23,-0.039,Normal,,,Continue monitoring
+2147,5.81,67.18,-0.0111,Normal,,,Continue monitoring
+2148,5.9,66.8,0.0061,Normal,676.22,672.13,Continue monitoring
+2149,5.82,66.83,-0.0816,Normal,,,Continue monitoring
+2150,5.74,66.63,-0.0563,Normal,,,Continue monitoring
+2151,5.7,66.29,-0.0559,Normal,,,Continue monitoring
+2152,5.63,66.47,-0.0913,Normal,,,Continue monitoring
+2153,5.52,66.07,-0.0775,Normal,,,Continue monitoring
+2154,5.47,66.25,-0.0331,Normal,,,Continue monitoring
+2155,5.46,66.13,-0.0061,Normal,,,Continue monitoring
+2156,5.46,65.7,0.0216,Normal,210.58,210.19,Continue monitoring
+2157,5.5,65.79,0.0034,Normal,1317.67,1323.53,Continue monitoring
+2158,5.47,66.05,-0.0615,Normal,,,Continue monitoring
+2159,5.38,66.33,-0.0389,Normal,,,Continue monitoring
+2160,5.39,66.24,0.0054,Normal,856.41,853.7,Continue monitoring
+2161,5.39,66.22,0.048,Normal,96.08,96.04,Continue monitoring
+2162,5.48,65.95,0.0183,Normal,246.61,246.99,Continue monitoring
+2163,5.42,66.21,-0.0543,Normal,,,Continue monitoring
+2164,5.38,66.43,0.0442,Normal,104.72,104.52,Continue monitoring
+2165,5.51,66.33,0.0952,Normal,47.13,47.16,Continue monitoring
+2166,5.57,66.04,0.0574,Normal,77.18,77.18,Continue monitoring
+2167,5.63,66.09,0.0491,Normal,89.05,89.0,Continue monitoring
+2168,5.66,65.93,-0.0475,Normal,,,Continue monitoring
+2169,5.53,66.06,-0.149,Normal,,,Continue monitoring
+2170,5.37,65.98,-0.0449,Normal,,,Continue monitoring
+2171,5.44,66.03,0.1156,Normal,39.44,39.45,Continue monitoring
+2172,5.6,66.28,0.0518,Normal,85.02,84.94,Continue monitoring
+2173,5.55,66.29,-0.0281,Normal,,,Continue monitoring
+2174,5.54,65.89,-0.0395,Normal,,,Continue monitoring
+2175,5.47,65.75,-0.1191,Normal,,,Continue monitoring
+2176,5.3,65.76,-0.0914,Normal,,,Continue monitoring
+2177,5.28,65.35,0.0062,Normal,760.03,761.29,Continue monitoring
+2178,5.32,65.53,0.0252,Normal,185.51,185.71,Continue monitoring
+2179,5.33,65.44,0.0327,Normal,142.52,142.81,Continue monitoring
+2180,5.38,65.61,0.036,Normal,128.46,128.33,Continue monitoring
+2181,5.41,65.41,0.0234,Normal,196.66,196.15,Continue monitoring
+2182,5.43,65.71,-0.0128,Normal,,,Continue monitoring
+2183,5.38,66.23,-0.0449,Normal,,,Continue monitoring
+2184,5.34,66.24,-0.0479,Normal,,,Continue monitoring
+2185,5.28,66.3,-0.0966,Normal,,,Continue monitoring
+2186,5.15,66.16,-0.1134,Normal,,,Continue monitoring
+2187,5.06,66.19,-0.0039,Normal,,,Continue monitoring
+2188,5.14,66.35,-0.0551,Normal,,,Continue monitoring
+2189,4.95,66.86,-0.0831,Normal,,,Continue monitoring
+2190,4.97,66.67,0.0181,Normal,277.89,277.9,Continue monitoring
+2191,4.98,66.71,-0.0204,Normal,,,Continue monitoring
+2192,4.93,66.76,-0.051,Normal,,,Continue monitoring
+2193,4.88,66.66,-0.0518,Normal,,,Continue monitoring
+2194,4.83,66.3,-0.0216,Normal,,,Continue monitoring
+2195,4.84,66.45,0.0264,Normal,195.3,195.45,Continue monitoring
+2196,4.88,66.66,0.0336,Normal,152.53,152.38,Continue monitoring
+2197,4.91,66.52,0.0466,Normal,109.41,109.23,Continue monitoring
+2198,4.97,66.18,-0.0024,Normal,,,Continue monitoring
+2199,4.9,65.94,0.0072,Normal,710.65,708.33,Continue monitoring
+2200,4.99,66.18,0.0627,Normal,79.96,79.9,Continue monitoring
+2201,5.03,66.45,-0.0157,Normal,,,Continue monitoring
+2202,4.96,66.53,-0.0402,Normal,,,Continue monitoring
+2203,4.95,66.74,-0.0096,Normal,,,Continue monitoring
+2204,4.94,66.65,0.017,Normal,297.37,297.65,Continue monitoring
+2205,4.98,66.87,-0.0051,Normal,,,Continue monitoring
+2206,4.93,66.85,-0.0691,Normal,,,Continue monitoring
+2207,4.84,66.23,-0.0343,Normal,,,Continue monitoring
+2208,4.86,66.38,0.0185,Normal,277.94,277.84,Continue monitoring
+2209,4.88,65.89,-0.0036,Normal,,,Continue monitoring
+2210,4.85,65.34,0.0408,Normal,126.35,126.23,Continue monitoring
+2211,4.96,65.07,0.105,Normal,48.0,48.0,Continue monitoring
+2212,5.06,65.3,0.0142,Normal,348.02,347.89,Continue monitoring
+2213,4.99,65.02,-0.022,Normal,,,Continue monitoring
+2214,5.02,64.81,0.0181,Normal,275.11,275.14,Continue monitoring
+2215,5.02,64.69,-0.0671,Normal,,,Continue monitoring
+2216,4.88,64.13,-0.0622,Normal,,,Continue monitoring
+2217,4.9,63.99,-0.0131,Normal,,,Continue monitoring
+2218,4.86,64.16,0.0248,Normal,207.29,207.26,Continue monitoring
+2219,4.95,64.1,0.0333,Normal,151.58,151.65,Continue monitoring
+2220,4.92,64.22,-0.0679,Normal,,,Continue monitoring
+2221,4.81,64.28,-0.0322,Normal,,,Continue monitoring
+2222,4.86,64.45,-0.0554,Normal,,,Continue monitoring
+2223,4.7,64.26,-0.1126,Normal,,,Continue monitoring
+2224,4.63,64.28,-0.0159,Normal,,,Continue monitoring
+2225,4.67,64.66,-0.0006,Normal,,,Continue monitoring
+2226,4.63,64.53,0.0262,Normal,204.97,204.96,Continue monitoring
+2227,4.72,64.61,0.0967,Normal,54.56,54.6,Continue monitoring
+2228,4.83,64.68,0.0044,Normal,1170.32,1175.0,Continue monitoring
+2229,4.73,64.34,-0.1083,Normal,,,Continue monitoring
+2230,4.61,64.51,-0.0145,Normal,,,Continue monitoring
+2231,4.7,64.97,0.0813,Normal,65.17,65.19,Continue monitoring
+2232,4.77,65.26,0.0105,Normal,496.85,498.1,Continue monitoring
+2233,4.73,64.97,0.0108,Normal,488.31,487.96,Continue monitoring
+2234,4.79,65.08,0.0383,Normal,135.95,136.03,Continue monitoring
+2235,4.8,65.18,0.0172,Normal,301.79,302.33,Continue monitoring
+2236,4.83,65.5,0.0647,Normal,79.91,79.91,Continue monitoring
+2237,4.93,65.63,0.0856,Normal,59.19,59.23,Continue monitoring
+2238,5.0,65.76,0.0154,Normal,325.07,324.68,Continue monitoring
+2239,4.96,65.95,-0.0742,Normal,,,Continue monitoring
+2240,4.85,66.21,-0.1036,Normal,,,Continue monitoring
+2241,4.75,66.28,-0.0816,Normal,,,Continue monitoring
+2242,4.69,66.42,-0.0352,Normal,,,Continue monitoring
+2243,4.68,66.02,0.0155,Normal,343.59,343.23,Continue monitoring
+2244,4.72,65.88,0.0521,Normal,101.43,101.34,Continue monitoring
+2245,4.79,65.88,0.0511,Normal,102.06,101.96,Continue monitoring
+2246,4.82,65.64,-0.0078,Normal,,,Continue monitoring
+2247,4.77,65.53,0.0107,Normal,488.74,488.79,Continue monitoring
+2248,4.84,65.95,0.0021,Normal,2502.61,2457.14,Continue monitoring
+2249,4.78,66.21,-0.119,Normal,,,Continue monitoring
+2250,4.6,65.92,-0.1251,Normal,,,Continue monitoring
+2251,4.53,65.58,-0.1017,Normal,,,Continue monitoring
+2252,4.4,65.68,-0.0719,Normal,,,Continue monitoring
+2253,4.38,65.78,0.0191,Normal,294.76,294.24,Continue monitoring
+2254,4.44,65.84,0.0539,Normal,103.13,103.15,Continue monitoring
+2255,4.49,65.83,-0.0212,Normal,,,Continue monitoring
+2256,4.4,66.09,-0.071,Normal,,,Continue monitoring
+2257,4.35,65.86,-0.0307,Normal,,,Continue monitoring
+2258,4.33,65.63,-0.0238,Normal,,,Continue monitoring
+2259,4.3,65.71,-0.0028,Normal,,,Continue monitoring
+2260,4.33,65.49,-0.0056,Normal,,,Continue monitoring
+2261,4.29,65.76,0.0003,Normal,16417.84,19033.33,Continue monitoring
+2262,4.33,66.28,0.0671,Normal,84.55,84.5,Continue monitoring
+2263,4.42,66.56,-0.0083,Normal,,,Continue monitoring
+2264,4.31,66.75,-0.0576,Normal,,,Continue monitoring
+2265,4.31,66.62,0.0046,Normal,1238.18,1236.96,Continue monitoring
+2266,4.32,66.85,0.0268,Normal,212.22,211.94,Continue monitoring
+2267,4.36,66.63,0.0497,Normal,113.36,113.48,Continue monitoring
+2268,4.42,66.47,0.0384,Normal,145.4,145.31,Continue monitoring
+2269,4.44,66.4,-0.0001,Normal,,,Continue monitoring
+2270,4.42,66.59,-0.0504,Normal,,,Continue monitoring
+2271,4.34,67.08,-0.1145,Normal,,,Continue monitoring
+2272,4.19,66.93,-0.058,Normal,,,Continue monitoring
+2273,4.22,67.07,0.0108,Normal,535.49,535.19,Continue monitoring
+2274,4.21,67.06,0.0124,Normal,466.48,466.94,Continue monitoring
+2275,4.25,67.0,0.0721,Normal,79.74,79.75,Continue monitoring
+2276,4.36,67.21,0.0906,Normal,62.24,62.25,Continue monitoring
+2277,4.43,66.97,0.0317,Normal,175.55,175.71,Continue monitoring
+2278,4.42,66.89,-0.0434,Normal,,,Continue monitoring
+2279,4.34,66.98,-0.0617,Normal,,,Continue monitoring
+2280,4.3,67.15,-0.0643,Normal,,,Continue monitoring
+2281,4.21,67.58,-0.0787,Normal,,,Continue monitoring
+2282,4.14,67.63,-0.0042,Normal,,,Continue monitoring
+2283,4.2,67.49,0.0658,Normal,88.11,88.15,Continue monitoring
+2284,4.27,67.18,0.0922,Normal,62.13,62.15,Continue monitoring
+2285,4.39,67.18,0.0342,Normal,163.93,164.04,Continue monitoring
+2286,4.34,67.11,0.0085,Normal,665.71,665.88,Continue monitoring
+2287,4.41,66.96,0.0024,Normal,2347.99,2329.17,Continue monitoring
+2288,4.35,66.91,-0.0771,Normal,,,Continue monitoring
+2289,4.25,67.36,-0.0697,Normal,,,Continue monitoring
+2290,4.21,67.57,-0.0143,Normal,,,Continue monitoring
+2291,4.22,67.33,0.0081,Normal,709.61,713.58,Continue monitoring
+2292,4.22,67.52,-0.0078,Normal,,,Continue monitoring
+2293,4.21,67.82,0.0333,Normal,173.78,173.87,Continue monitoring
+2294,4.29,68.05,0.0225,Normal,254.09,253.78,Continue monitoring
+2295,4.25,67.78,-0.0429,Normal,,,Continue monitoring
+2296,4.2,67.83,-0.0027,Normal,,,Continue monitoring
+2297,4.25,67.29,0.0215,Normal,267.48,267.44,Continue monitoring
+2298,4.25,67.33,-0.0114,Normal,,,Continue monitoring
+2299,4.22,67.65,0.0058,Normal,1001.06,996.55,Continue monitoring
+2300,4.26,67.98,0.0082,Normal,697.43,700.0,Continue monitoring
+2301,4.24,68.21,0.0568,Normal,101.46,101.41,Continue monitoring
+2302,4.37,68.54,0.0217,Normal,259.16,259.45,Continue monitoring
+2303,4.28,68.47,-0.0575,Normal,,,Continue monitoring
+2304,4.26,68.6,0.0136,Normal,420.83,422.06,Continue monitoring
+2305,4.31,68.39,0.0302,Normal,188.56,188.41,Continue monitoring
+2306,4.32,67.88,0.0604,Normal,94.1,94.04,Continue monitoring
+2307,4.43,67.75,0.0599,Normal,92.93,92.99,Continue monitoring
+2308,4.44,67.68,0.0481,Normal,115.72,115.59,Continue monitoring
+2309,4.53,66.97,0.0452,Normal,121.11,121.02,Continue monitoring
+2310,4.53,66.94,-0.0188,Normal,,,Continue monitoring
+2311,4.49,67.37,-0.0536,Normal,,,Continue monitoring
+2312,4.42,67.57,-0.0212,Normal,,,Continue monitoring
+2313,4.45,67.88,-0.0124,Normal,,,Continue monitoring
+2314,4.4,67.7,0.0172,Normal,326.72,325.58,Continue monitoring
+2315,4.48,67.8,-0.018,Normal,,,Continue monitoring
+2316,4.36,67.67,-0.0463,Normal,,,Continue monitoring
+2317,4.39,67.88,-0.0117,Normal,,,Continue monitoring
+2318,4.34,67.15,-0.0062,Normal,,,Continue monitoring
+2319,4.38,66.84,-0.0598,Normal,,,Continue monitoring
+2320,4.22,66.14,-0.0481,Normal,,,Continue monitoring
+2321,4.28,66.17,0.0235,Normal,243.0,243.4,Continue monitoring
+2322,4.26,66.52,0.0165,Normal,348.38,347.88,Continue monitoring
+2323,4.31,66.92,-0.0302,Normal,,,Continue monitoring
+2324,4.2,66.91,-0.1204,Normal,,,Continue monitoring
+2325,4.07,66.85,-0.0746,Normal,,,Continue monitoring
+2326,4.05,67.01,-0.0081,Normal,,,Continue monitoring
+2327,4.06,67.17,0.03,Normal,198.35,198.0,Continue monitoring
+2328,4.11,67.71,0.0155,Normal,379.14,380.0,Continue monitoring
+2329,4.09,67.47,-0.0028,Normal,,,Continue monitoring
+2330,4.11,67.27,0.0691,Normal,85.24,85.24,Continue monitoring
+2331,4.23,67.2,0.0367,Normal,157.5,157.22,Continue monitoring
+2332,4.18,67.08,0.0061,Normal,951.75,954.1,Continue monitoring
+2333,4.24,67.04,0.0031,Normal,1876.59,1858.06,Continue monitoring
+2334,4.19,67.46,-0.0599,Normal,,,Continue monitoring
+2335,4.12,67.47,-0.0082,Normal,,,Continue monitoring
+2336,4.17,67.06,0.0453,Normal,128.66,128.7,Continue monitoring
+2337,4.21,66.8,0.0521,Normal,111.09,111.13,Continue monitoring
+2338,4.28,66.55,0.0606,Normal,94.43,94.39,Continue monitoring
+2339,4.33,66.83,0.0622,Normal,91.19,91.16,Continue monitoring
+2340,4.4,66.89,0.0252,Normal,222.18,222.22,Continue monitoring
+2341,4.38,66.75,0.0496,Normal,113.31,113.31,Continue monitoring
+2342,4.5,66.57,0.0174,Normal,316.9,316.09,Continue monitoring
+2343,4.42,66.74,-0.0733,Normal,,,Continue monitoring
+2344,4.35,66.5,-0.0896,Normal,,,Continue monitoring
+2345,4.24,66.38,-0.0611,Normal,,,Continue monitoring
+2346,4.23,66.44,0.0347,Normal,166.07,166.28,Continue monitoring
+2347,4.31,66.58,0.0304,Normal,187.19,187.17,Continue monitoring
+2348,4.29,66.53,0.0128,Normal,447.01,446.09,Continue monitoring
+2349,4.33,66.84,0.0255,Normal,222.64,222.35,Continue monitoring
+2350,4.34,66.73,-0.0347,Normal,,,Continue monitoring
+2351,4.26,66.37,-0.0131,Normal,,,Continue monitoring
+2352,4.32,66.51,0.0497,Normal,114.27,114.29,Continue monitoring
+2353,4.36,66.48,0.0794,Normal,71.03,71.03,Continue monitoring
+2354,4.47,66.36,0.0945,Normal,58.48,58.52,Continue monitoring
+2355,4.55,66.35,0.0139,Normal,392.67,392.09,Continue monitoring
+2356,4.5,66.49,-0.0079,Normal,,,Continue monitoring
+2357,4.54,66.58,0.0196,Normal,278.3,278.57,Continue monitoring
+2358,4.54,66.57,0.0988,Normal,55.25,55.26,Continue monitoring
+2359,4.73,66.87,0.1244,Normal,42.33,42.36,Continue monitoring
+2360,4.79,66.9,0.0692,Normal,75.28,75.29,Continue monitoring
+2361,4.87,67.03,0.0413,Normal,124.08,124.21,Continue monitoring
+2362,4.87,66.95,-0.0022,Normal,,,Continue monitoring
+2363,4.87,66.16,0.0052,Normal,989.59,986.54,Continue monitoring
+2364,4.88,66.04,0.0721,Normal,70.93,71.01,Continue monitoring
+2365,5.01,66.04,0.0161,Normal,308.95,309.94,Continue monitoring
+2366,4.92,66.03,-0.0894,Normal,,,Continue monitoring
+2367,4.83,66.15,-0.0302,Normal,,,Continue monitoring
+2368,4.86,66.39,-0.02,Normal,,,Continue monitoring
+2369,4.79,66.4,-0.0862,Normal,,,Continue monitoring
+2370,4.68,66.57,-0.0338,Normal,,,Continue monitoring
+2371,4.72,66.7,0.0208,Normal,253.39,253.85,Continue monitoring
+2372,4.72,66.8,0.0642,Normal,82.12,82.24,Continue monitoring
+2373,4.85,66.73,0.0697,Normal,73.83,73.89,Continue monitoring
+2374,4.86,66.46,-0.0292,Normal,,,Continue monitoring
+2375,4.79,66.48,0.0094,Normal,552.19,554.26,Continue monitoring
+2376,4.88,66.42,0.0347,Normal,147.38,147.55,Continue monitoring
+2377,4.86,66.32,-0.0308,Normal,,,Continue monitoring
+2378,4.82,66.39,-0.0813,Normal,,,Continue monitoring
+2379,4.7,66.71,-0.0865,Normal,,,Continue monitoring
+2380,4.65,66.89,-0.0774,Normal,,,Continue monitoring
+2381,4.55,67.06,-0.0239,Normal,,,Continue monitoring
+2382,4.6,67.15,-0.0129,Normal,,,Continue monitoring
+2383,4.52,67.22,-0.0871,Normal,,,Continue monitoring
+2384,4.43,67.15,-0.0061,Normal,,,Continue monitoring
+2385,4.51,67.35,0.0418,Normal,131.43,131.34,Continue monitoring
+2386,4.51,67.11,0.0264,Normal,207.72,207.95,Continue monitoring
+2387,4.56,67.11,-0.067,Normal,,,Continue monitoring
+2388,4.38,67.31,-0.0938,Normal,,,Continue monitoring
+2389,4.37,67.61,-0.0448,Normal,,,Continue monitoring
+2390,4.29,66.81,-0.0326,Normal,,,Continue monitoring
+2391,4.31,66.89,-0.0565,Normal,,,Continue monitoring
+2392,4.17,66.64,0.0426,Normal,136.84,136.85,Continue monitoring
+2393,4.39,66.57,0.1394,Normal,40.2,40.24,Continue monitoring
+2394,4.45,66.4,-0.0544,Normal,,,Continue monitoring
+2395,4.28,66.36,-0.0942,Normal,,,Continue monitoring
+2396,4.26,66.26,-0.0152,Normal,,,Continue monitoring
+2397,4.25,66.33,-0.0106,Normal,,,Continue monitoring
+2398,4.24,66.01,0.0134,Normal,428.3,429.85,Continue monitoring
+2399,4.28,65.52,-0.0626,Normal,,,Continue monitoring
+2400,4.12,65.71,-0.0617,Normal,,,Continue monitoring
+2401,4.16,65.69,-0.0355,Normal,,,Continue monitoring
+2402,4.05,65.52,-0.0663,Normal,,,Continue monitoring
+2403,4.03,65.12,-0.0401,Normal,,,Continue monitoring
+2404,3.97,65.28,0.0275,Normal,219.17,219.27,Continue monitoring
+2405,4.08,65.18,0.0874,Normal,67.77,67.73,Continue monitoring
+2406,4.14,64.7,0.0566,Normal,103.45,103.53,Continue monitoring
+2407,4.19,64.5,0.0387,Normal,150.15,150.13,Continue monitoring
+2408,4.22,64.44,0.0651,Normal,88.8,88.79,Continue monitoring
+2409,4.32,64.22,0.0779,Normal,72.85,72.91,Continue monitoring
+2410,4.37,64.15,0.0188,Normal,299.7,299.47,Continue monitoring
+2411,4.36,64.1,-0.0402,Normal,,,Continue monitoring
+2412,4.29,64.1,-0.0363,Normal,,,Continue monitoring
+2413,4.29,64.16,0.0009,Normal,6532.59,6344.44,Continue monitoring
+2414,4.3,64.36,0.0403,Normal,141.48,141.44,Continue monitoring
+2415,4.37,64.09,0.0717,Normal,78.54,78.52,Continue monitoring
+2416,4.44,63.8,0.0583,Normal,95.45,95.37,Continue monitoring
+2417,4.49,63.95,-0.0529,Normal,,,Continue monitoring
+2418,4.33,63.98,-0.0952,Normal,,,Continue monitoring
+2419,4.3,63.79,0.0353,Normal,161.63,161.47,Continue monitoring
+2420,4.4,63.62,0.0218,Normal,256.96,256.88,Continue monitoring
+2421,4.34,63.64,-0.0048,Normal,,,Continue monitoring
+2422,4.39,63.61,0.0741,Normal,75.68,75.71,Continue monitoring
+2423,4.49,63.74,-0.0405,Normal,,,Continue monitoring
+2424,4.31,63.61,-0.1096,Normal,,,Continue monitoring
+2425,4.27,63.73,-0.1275,Normal,,,Continue monitoring
+2426,4.06,64.36,-0.0838,Normal,,,Continue monitoring
+2427,4.1,64.4,0.0685,Normal,86.12,86.13,Continue monitoring
+2428,4.2,64.99,0.0821,Normal,70.71,70.65,Continue monitoring
+2429,4.26,65.22,0.0401,Normal,143.18,143.14,Continue monitoring
+2430,4.28,65.19,-0.0138,Normal,,,Continue monitoring
+2431,4.24,64.98,-0.0465,Normal,,,Continue monitoring
+2432,4.18,64.64,-0.0305,Normal,,,Continue monitoring
+2433,4.18,64.22,0.0046,Normal,1265.58,1265.22,Continue monitoring
+2434,4.19,64.21,0.0135,Normal,429.82,430.37,Continue monitoring
+2435,4.2,64.08,0.129,Normal,44.95,44.96,Continue monitoring
+2436,4.45,64.42,0.0733,Normal,75.73,75.72,Continue monitoring
+2437,4.35,64.48,-0.0741,Normal,,,Continue monitoring
+2438,4.3,64.23,-0.0779,Normal,,,Continue monitoring
+2439,4.19,64.34,-0.0809,Normal,,,Continue monitoring
+2440,4.14,64.58,0.0125,Normal,469.0,468.8,Continue monitoring
+2441,4.22,64.92,0.0057,Normal,1022.17,1014.04,Continue monitoring
+2442,4.15,65.04,-0.0088,Normal,,,Continue monitoring
+2443,4.2,64.92,-0.0056,Normal,,,Continue monitoring
+2444,4.14,65.32,-0.0218,Normal,,,Continue monitoring
+2445,4.16,65.48,-0.0238,Normal,,,Continue monitoring
+2446,4.09,65.18,-0.0557,Normal,,,Continue monitoring
+2447,4.05,65.15,-0.0653,Normal,,,Continue monitoring
+2448,3.96,65.15,-0.1101,Normal,,,Continue monitoring
+2449,3.83,64.87,-0.0407,Normal,,,Continue monitoring
+2450,3.88,65.02,0.0112,Normal,548.34,546.43,Continue monitoring
+2451,3.85,64.76,-0.0568,Normal,,,Continue monitoring
+2452,3.77,64.67,-0.0153,Normal,,,Continue monitoring
+2453,3.82,64.9,0.0059,Normal,1044.38,1047.46,Continue monitoring
+2454,3.78,64.61,-0.0091,Normal,,,Continue monitoring
+2455,3.8,64.41,-0.01,Normal,,,Continue monitoring
+2456,3.76,64.74,0.0124,Normal,505.24,503.23,Continue monitoring
+2457,3.82,64.78,-0.0178,Normal,,,Continue monitoring
+2458,3.72,64.83,-0.0084,Normal,,,Continue monitoring
+2459,3.81,64.74,0.0966,Normal,64.14,64.08,Continue monitoring
+2460,3.92,65.06,0.1206,Normal,50.45,50.41,Continue monitoring
+2461,4.05,65.14,0.09,Normal,66.09,66.11,Continue monitoring
+2462,4.1,65.49,0.0414,Normal,142.65,142.51,Continue monitoring
+2463,4.13,65.36,-0.0,Normal,,,Continue monitoring
+2464,4.1,65.42,-0.0696,Normal,,,Continue monitoring
+2465,3.99,65.39,-0.0078,Normal,,,Continue monitoring
+2466,4.08,64.84,0.1052,Normal,56.25,56.27,Continue monitoring
+2467,4.2,65.12,0.043,Normal,134.85,134.88,Continue monitoring
+2468,4.17,65.26,-0.0183,Normal,,,Continue monitoring
+2469,4.17,65.56,0.0394,Normal,147.94,147.97,Continue monitoring
+2470,4.24,65.21,0.0628,Normal,91.64,91.72,Continue monitoring
+2471,4.29,65.16,0.0268,Normal,212.96,213.06,Continue monitoring
+2472,4.3,64.98,0.0732,Normal,77.85,77.87,Continue monitoring
+2473,4.44,65.24,0.0403,Normal,137.89,137.97,Continue monitoring
+2474,4.38,64.91,-0.045,Normal,,,Continue monitoring
+2475,4.35,65.02,-0.0058,Normal,,,Continue monitoring
+2476,4.37,65.33,0.0412,Normal,136.69,136.65,Continue monitoring
+2477,4.43,65.57,0.0447,Normal,124.67,124.61,Continue monitoring
+2478,4.46,65.22,0.0052,Normal,1056.58,1065.38,Continue monitoring
+2479,4.44,65.49,-0.0099,Normal,,,Continue monitoring
+2480,4.44,65.61,-0.0148,Normal,,,Continue monitoring
+2481,4.41,65.36,-0.0177,Normal,,,Continue monitoring
+2482,4.4,65.43,-0.0312,Normal,,,Continue monitoring
+2483,4.35,65.38,-0.0638,Normal,,,Continue monitoring
+2484,4.27,65.66,-0.0494,Normal,,,Continue monitoring
+2485,4.25,66.02,0.0494,Normal,116.45,116.4,Continue monitoring
+2486,4.37,66.0,0.0208,Normal,270.38,270.67,Continue monitoring
+2487,4.29,65.48,-0.0992,Normal,,,Continue monitoring
+2488,4.17,65.13,-0.0037,Normal,,,Continue monitoring
+2489,4.28,65.16,0.0707,Normal,80.81,80.91,Continue monitoring
+2490,4.32,64.61,-0.0323,Normal,,,Continue monitoring
+2491,4.22,64.83,-0.0364,Normal,,,Continue monitoring
+2492,4.24,64.79,0.0341,Normal,169.0,168.91,Continue monitoring
+2493,4.29,65.2,0.0138,Normal,415.35,413.77,Continue monitoring
+2494,4.27,65.22,-0.0011,Normal,,,Continue monitoring
+2495,4.29,65.82,-0.0763,Normal,,,Continue monitoring
+2496,4.12,65.99,-0.0886,Normal,,,Continue monitoring
+2497,4.11,66.13,-0.0309,Normal,,,Continue monitoring
+2498,4.06,66.12,0.0022,Normal,2749.84,2700.0,Continue monitoring
+2499,4.11,66.89,0.0608,Normal,96.86,96.88,Continue monitoring
+2500,4.18,66.68,0.0154,Normal,378.78,377.92,Continue monitoring
+2501,4.14,66.57,-0.0888,Normal,,,Continue monitoring
+2502,4.0,66.49,-0.0425,Normal,,,Continue monitoring
+2503,4.06,66.17,0.0713,Normal,83.38,83.31,Continue monitoring
+2504,4.14,66.29,0.0126,Normal,465.98,465.08,Continue monitoring
+2505,4.08,66.25,0.0346,Normal,171.16,171.1,Continue monitoring
+2506,4.21,66.44,0.0643,Normal,90.04,90.05,Continue monitoring
+2507,4.21,66.38,0.0034,Normal,1694.38,1702.94,Continue monitoring
+2508,4.22,66.25,-0.0811,Normal,,,Continue monitoring
+2509,4.05,66.76,-0.078,Normal,,,Continue monitoring
+2510,4.06,66.86,0.0039,Normal,1523.68,1523.08,Continue monitoring
+2511,4.06,66.68,-0.0098,Normal,,,Continue monitoring
+2512,4.04,66.28,0.0836,Normal,71.21,71.29,Continue monitoring
+2513,4.23,65.97,0.0498,Normal,115.95,115.86,Continue monitoring
+2514,4.14,65.86,0.0102,Normal,571.75,574.51,Continue monitoring
+2515,4.25,65.86,0.0021,Normal,2769.63,2738.1,Continue monitoring
+2516,4.15,66.18,-0.0202,Normal,,,Continue monitoring
+2517,4.21,66.31,0.0579,Normal,100.13,100.0,Continue monitoring
+2518,4.26,66.91,0.116,Normal,49.45,49.48,Continue monitoring
+2519,4.44,66.74,0.1524,Normal,36.51,36.48,Continue monitoring
+2520,4.57,66.83,0.0849,Normal,63.97,63.96,Continue monitoring
+2521,4.61,66.41,0.0131,Normal,410.14,411.45,Continue monitoring
+2522,4.59,66.21,0.0263,Normal,205.51,205.7,Continue monitoring
+2523,4.66,66.47,-0.0499,Normal,,,Continue monitoring
+2524,4.49,66.47,-0.0381,Normal,,,Continue monitoring
+2525,4.58,66.42,0.074,Normal,73.16,73.24,Continue monitoring
+2526,4.64,66.51,0.0428,Normal,125.1,125.23,Continue monitoring
+2527,4.67,66.44,-0.035,Normal,,,Continue monitoring
+2528,4.57,66.16,-0.0203,Normal,,,Continue monitoring
+2529,4.63,66.17,0.0228,Normal,235.23,235.53,Continue monitoring
+2530,4.62,66.06,-0.0177,Normal,,,Continue monitoring
+2531,4.59,66.32,-0.0256,Normal,,,Continue monitoring
+2532,4.57,65.99,0.0163,Normal,332.6,333.13,Continue monitoring
+2533,4.63,65.94,0.031,Normal,173.34,173.23,Continue monitoring
+2534,4.63,66.34,0.0004,Normal,12393.52,13425.0,Continue monitoring
+2535,4.63,66.41,-0.048,Normal,,,Continue monitoring
+2536,4.53,66.36,-0.0228,Normal,,,Continue monitoring
+2537,4.58,65.97,0.0324,Normal,167.17,167.28,Continue monitoring
+2538,4.6,65.99,0.0097,Normal,557.82,556.7,Continue monitoring
+2539,4.6,66.25,0.015,Normal,359.26,360.0,Continue monitoring
+2540,4.63,66.62,-0.0264,Normal,,,Continue monitoring
+2541,4.55,66.65,-0.0364,Normal,,,Continue monitoring
+2542,4.55,66.39,0.0416,Normal,130.8,131.01,Continue monitoring
+2543,4.63,66.97,0.0376,Normal,142.9,142.82,Continue monitoring
+2544,4.63,67.09,0.0027,Normal,1988.58,1988.89,Continue monitoring
+2545,4.64,66.92,-0.0694,Normal,,,Continue monitoring
+2546,4.49,66.74,-0.1285,Normal,,,Continue monitoring
+2547,4.38,67.17,-0.0603,Normal,,,Continue monitoring
+2548,4.37,67.08,0.031,Normal,181.83,181.61,Continue monitoring
+2549,4.44,66.8,0.0049,Normal,1136.34,1134.69,Continue monitoring
+2550,4.38,66.82,0.0105,Normal,536.44,535.24,Continue monitoring
+2551,4.46,66.94,0.0511,Normal,108.4,108.41,Continue monitoring
+2552,4.48,66.96,0.0259,Normal,212.69,213.13,Continue monitoring
+2553,4.51,67.01,-0.0252,Normal,,,Continue monitoring
+2554,4.43,67.02,-0.0841,Normal,,,Continue monitoring
+2555,4.35,67.04,-0.0622,Normal,,,Continue monitoring
+2556,4.31,67.68,-0.0208,Normal,,,Continue monitoring
+2557,4.3,67.33,-0.007,Normal,,,Continue monitoring
+2558,4.29,67.46,0.0616,Normal,92.68,92.69,Continue monitoring
+2559,4.43,67.31,0.0036,Normal,1531.97,1547.22,Continue monitoring
+2560,4.3,67.51,-0.1185,Normal,,,Continue monitoring
+2561,4.19,67.4,-0.0655,Normal,,,Continue monitoring
+2562,4.17,67.39,0.0173,Normal,337.75,336.99,Continue monitoring
+2563,4.23,67.22,0.0166,Normal,347.53,347.59,Continue monitoring
+2564,4.2,67.21,-0.005,Normal,,,Continue monitoring
+2565,4.22,67.24,0.0234,Normal,246.96,247.01,Continue monitoring
+2566,4.25,67.45,0.0331,Normal,173.48,173.72,Continue monitoring
+2567,4.28,67.56,-0.0476,Normal,,,Continue monitoring
+2568,4.15,67.57,-0.0441,Normal,,,Continue monitoring
+2569,4.19,67.76,-0.0085,Normal,,,Continue monitoring
+2570,4.14,67.59,-0.0507,Normal,,,Continue monitoring
+2571,4.09,67.73,0.0184,Normal,321.25,321.2,Continue monitoring
+2572,4.17,67.62,0.0777,Normal,75.0,75.03,Continue monitoring
+2573,4.25,67.65,0.0313,Normal,183.52,183.71,Continue monitoring
+2574,4.24,67.6,0.0249,Normal,231.5,231.33,Continue monitoring
+2575,4.3,67.68,0.1209,Normal,47.17,47.15,Continue monitoring
+2576,4.48,67.47,0.1118,Normal,49.4,49.37,Continue monitoring
+2577,4.52,67.34,-0.014,Normal,,,Continue monitoring
+2578,4.45,67.34,-0.0293,Normal,,,Continue monitoring
+2579,4.46,68.06,-0.0019,Normal,,,Continue monitoring
+2580,4.45,67.78,0.0036,Normal,1562.14,1541.67,Continue monitoring
+2581,4.47,67.26,0.0072,Normal,763.72,768.06,Continue monitoring
+2582,4.46,67.27,0.0281,Normal,197.05,197.15,Continue monitoring
+2583,4.53,67.51,0.0116,Normal,470.29,471.55,Continue monitoring
+2584,4.48,67.47,-0.0508,Normal,,,Continue monitoring
+2585,4.42,67.19,-0.0182,Normal,,,Continue monitoring
+2586,4.45,66.87,-0.0042,Normal,,,Continue monitoring
+2587,4.42,66.62,0.0054,Normal,1033.77,1033.33,Continue monitoring
+2588,4.46,67.07,-0.0301,Normal,,,Continue monitoring
+2589,4.36,66.61,-0.0571,Normal,,,Continue monitoring
+2590,4.35,66.62,0.0038,Normal,1507.59,1486.84,Continue monitoring
+2591,4.36,66.5,0.0007,Normal,7820.94,8057.14,Continue monitoring
+2592,4.35,66.6,0.0336,Normal,168.3,168.15,Continue monitoring
+2593,4.43,66.11,0.0269,Normal,207.38,207.06,Continue monitoring
+2594,4.4,66.16,-0.0515,Normal,,,Continue monitoring
+2595,4.33,66.59,-0.0621,Normal,,,Continue monitoring
+2596,4.28,66.58,-0.0032,Normal,,,Continue monitoring
+2597,4.32,66.43,-0.0516,Normal,,,Continue monitoring
+2598,4.17,66.33,-0.0327,Normal,,,Continue monitoring
+2599,4.26,66.24,0.7334,Normal,7.83,7.83,Continue monitoring
+2600,5.64,62.34,0.6751,Normal,6.46,6.46,Continue monitoring
+2601,5.61,62.48,0.0036,Normal,1237.4,1219.44,Continue monitoring
+2602,5.65,61.1,0.0173,Normal,251.59,251.45,Continue monitoring
+2603,5.64,62.63,0.0144,Normal,303.58,302.78,Continue monitoring
+2604,5.68,62.11,0.0382,Normal,113.29,113.09,Continue monitoring
+2605,5.72,62.96,0.1596,Normal,26.85,26.82,Continue monitoring
+2606,5.99,61.95,0.1077,Normal,37.2,37.23,Continue monitoring
+2607,5.93,62.08,0.0173,Normal,234.64,235.26,Continue monitoring
+2608,6.03,62.6,0.0866,Normal,45.86,45.84,Continue monitoring
+2609,6.1,62.58,0.1528,Normal,25.49,25.52,Continue monitoring
+2610,6.33,62.09,-0.0409,Normal,,,Continue monitoring
+2611,6.02,62.39,-0.1201,Normal,,,Continue monitoring
+2612,6.09,62.0,0.0884,Normal,44.19,44.23,Continue monitoring
+2613,6.2,62.28,0.0845,Normal,44.95,44.97,Continue monitoring
+2614,6.26,62.91,0.0798,Normal,46.82,46.87,Continue monitoring
+2615,6.36,62.68,0.134,Normal,27.18,27.16,Continue monitoring
+2616,6.53,62.49,0.0697,Normal,49.79,49.78,Continue monitoring
+2617,6.5,63.0,-0.0534,Normal,,,Continue monitoring
+2618,6.42,61.95,0.0844,Normal,42.35,42.42,Continue monitoring
+2619,6.67,63.15,0.2202,Normal,15.13,15.12,Continue monitoring
+2620,6.87,63.06,0.0789,Normal,39.71,39.67,Continue monitoring
+2621,6.83,62.97,-0.0107,Normal,,,Continue monitoring
+2622,6.84,63.77,-0.0577,Normal,,,Continue monitoring
+2623,6.71,63.32,0.1335,Normal,24.64,24.64,Continue monitoring
+2624,7.11,63.31,0.211,Normal,13.69,13.7,Continue monitoring
+2625,7.13,63.0,-0.0267,Normal,,,Continue monitoring
+2626,7.06,63.31,-0.0947,Normal,,,Continue monitoring
+2627,6.94,62.88,0.0174,Normal,175.64,175.86,Continue monitoring
+2628,7.09,63.73,0.1836,Normal,15.84,15.85,Continue monitoring
+2629,7.31,63.58,0.1368,Normal,19.66,19.66,Continue monitoring
+2630,7.37,63.43,0.0732,Normal,35.99,35.93,Continue monitoring
+2631,7.46,63.55,0.0294,Normal,86.67,86.39,Continue monitoring
+2632,7.42,63.49,0.0393,Normal,65.53,65.65,Continue monitoring
+2633,7.53,63.48,0.0967,Normal,25.48,25.54,Continue monitoring
+2634,7.62,63.25,-0.0113,Normal,,,Continue monitoring
+2635,7.51,64.02,0.0174,Normal,142.98,143.1,Continue monitoring
+2636,7.65,63.62,0.1396,Normal,16.82,16.83,Continue monitoring
+2637,7.79,63.61,0.0555,Normal,39.77,39.82,Continue monitoring
+2638,7.76,64.46,0.086,Normal,26.01,26.05,Continue monitoring
+2639,7.96,64.58,0.0567,Normal,35.91,35.98,Continue monitoring
+2640,7.88,64.49,-0.0395,Normal,,,Continue monitoring
+2641,7.88,63.69,-0.0227,Normal,,,Continue monitoring
+2642,7.83,64.77,0.0634,Normal,34.2,34.23,Continue monitoring
+2643,8.01,64.1,0.1176,Warning,16.91,16.92,Check cooling system immediately
+2644,8.07,64.48,0.0795,Warning,24.3,24.28,Check cooling system immediately
+2645,8.17,63.73,0.1141,Warning,16.04,16.04,Check cooling system immediately
+2646,8.3,63.73,0.0415,Warning,41.05,40.96,Monitor temperature closely
+2647,8.25,63.51,-0.0146,Warning,,,Monitor temperature closely
+2648,8.27,64.47,0.0149,Warning,116.25,116.11,Monitor temperature closely
+2649,8.28,63.86,0.1169,Warning,14.69,14.71,Check cooling system immediately
+2650,8.5,64.28,0.2183,Warning,6.87,6.87,Check cooling system immediately
+2651,8.72,65.28,0.0254,Warning,50.46,50.39,Monitor temperature closely
+2652,8.55,64.82,0.0103,Warning,140.86,140.78,Monitor temperature closely
+2653,8.74,64.41,0.0349,Warning,36.11,36.1,Monitor temperature closely
+2654,8.62,64.7,0.0231,Warning,59.69,59.74,Monitor temperature closely
+2655,8.79,64.58,0.1375,Warning,8.83,8.8,Check cooling system immediately
+2656,8.9,64.5,0.0208,Warning,53.02,52.88,Monitor temperature closely
+2657,8.83,64.89,0.0577,Warning,20.3,20.28,Check cooling system immediately
+2658,9.01,64.43,0.1432,Warning,6.91,6.91,Check cooling system immediately
+2659,9.11,64.24,0.0214,Warning,41.32,41.59,Monitor temperature closely
+2660,9.05,64.9,-0.0026,Warning,,,Monitor temperature closely
+2661,9.11,64.82,0.158,Warning,5.64,5.63,Check cooling system immediately
+2662,9.37,64.76,0.1831,Warning,3.44,3.44,Check cooling system immediately
+2663,9.48,65.32,-0.0112,Warning,,,Monitor temperature closely
+2664,9.35,65.39,0.0635,Warning,10.27,10.24,Check cooling system immediately
+2665,9.6,64.85,0.0115,Warning,34.57,34.78,Monitor temperature closely
+2666,9.37,65.0,-0.0399,Warning,,,Monitor temperature closely
+2667,9.52,64.66,0.1057,Warning,4.52,4.54,Check cooling system immediately
+2668,9.58,66.08,0.0648,Warning,6.46,6.48,Check cooling system immediately
+2669,9.65,65.33,0.0344,Warning,10.12,10.17,Check cooling system immediately
+2670,9.65,65.86,0.0209,Warning,16.71,16.75,Check cooling system immediately
+2671,9.69,66.29,0.1621,Warning,1.89,1.91,Check cooling system immediately
+2672,9.97,65.7,0.0926,Warning,0.27,0.32,Check cooling system immediately
+2673,9.88,66.06,0.0265,Warning,4.57,4.53,Check cooling system immediately
+2674,10.03,65.38,0.0394,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2675,9.96,65.22,0.0326,Warning,1.29,1.23,Check cooling system immediately
+2676,10.09,66.07,0.0271,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2677,10.01,65.67,-0.0103,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2678,10.07,65.54,0.136,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2679,10.28,65.66,0.1019,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2680,10.28,65.35,0.0454,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2681,10.37,66.03,0.0429,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2682,10.36,66.02,0.0597,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2683,10.49,65.82,0.0301,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2684,10.42,66.92,0.0275,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2685,10.55,66.21,0.1595,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2686,10.74,67.71,0.0356,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2687,10.62,66.53,-0.0087,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2688,10.72,66.18,0.081,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2689,10.78,66.0,0.0867,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2690,10.9,65.91,0.1267,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2691,11.04,66.57,0.0785,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2692,11.05,66.41,0.0074,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2693,11.05,66.77,-0.0035,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2694,11.05,66.56,0.0403,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2695,11.13,66.39,0.0222,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2696,11.09,67.34,0.0669,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2697,11.27,67.32,0.1871,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2698,11.47,66.39,0.0439,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2699,11.35,67.97,0.0873,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2700,11.64,66.99,0.1138,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2701,11.58,66.8,0.0073,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2702,11.65,66.81,-0.0316,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2703,11.52,66.62,0.0435,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2704,11.74,66.75,0.1386,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2705,11.79,66.82,0.0279,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2706,11.8,67.64,0.0726,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2707,11.94,67.35,0.1265,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2708,12.05,67.59,0.108,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2709,12.16,67.27,0.0077,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2710,12.07,66.98,-0.015,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2711,12.13,67.94,0.1292,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2712,12.32,67.98,0.0054,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2713,12.14,68.08,-0.0655,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2714,12.19,68.06,0.1171,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2715,12.37,68.03,0.0802,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2716,12.35,68.27,0.0161,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2717,12.4,67.58,0.0734,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2718,12.5,67.2,0.1224,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2719,12.65,68.67,-4.6906,Critical,0.0,0.0,Restore cooling system and protect vaccine stock
+2720,3.12,65.78,-4.7884,Normal,,,Continue monitoring
+2721,3.07,65.62,-0.0581,Normal,,,Continue monitoring
+2722,3.0,65.49,-0.0038,Normal,,,Continue monitoring
+2723,3.06,65.43,-0.0238,Normal,,,Continue monitoring
+2724,2.96,65.88,-0.0412,Normal,,,Continue monitoring
+2725,2.98,65.52,-0.0049,Normal,,,Continue monitoring
+2726,2.95,65.55,0.0505,Normal,139.67,139.6,Continue monitoring
+2727,3.08,65.27,0.1072,Normal,64.52,64.55,Continue monitoring
+2728,3.16,65.62,0.0139,Normal,492.26,492.09,Continue monitoring
+2729,3.11,65.55,-0.0666,Normal,,,Continue monitoring
+2730,3.03,65.5,-0.0429,Normal,,,Continue monitoring
+2731,3.02,65.67,0.0421,Normal,165.54,165.8,Continue monitoring
+2732,3.11,65.48,-0.0351,Normal,,,Continue monitoring
+2733,2.95,65.48,-0.067,Normal,,,Continue monitoring
+2734,2.98,65.54,-0.0013,Normal,,,Continue monitoring
+2735,2.95,65.57,0.0476,Normal,148.24,148.11,Continue monitoring
+2736,3.07,65.67,0.0457,Normal,151.65,151.64,Continue monitoring
+2737,3.04,65.54,-0.0217,Normal,,,Continue monitoring
+2738,3.03,65.95,-0.0141,Normal,,,Continue monitoring
+2739,3.01,65.94,-0.0266,Normal,,,Continue monitoring
+2740,2.98,66.22,0.0591,Normal,118.86,118.78,Continue monitoring
+2741,3.13,66.33,0.0817,Normal,84.06,84.09,Continue monitoring
+2742,3.14,66.34,-0.0921,Normal,,,Continue monitoring
+2743,2.95,66.53,-0.09,Normal,,,Continue monitoring
+2744,2.96,66.63,-0.0231,Normal,,,Continue monitoring
+2745,2.9,66.54,-0.0449,Normal,,,Continue monitoring
+2746,2.87,66.79,-0.0316,Normal,,,Continue monitoring
+2747,2.84,67.31,0.0021,Normal,3436.15,3409.52,Continue monitoring
+2748,2.87,67.0,0.0121,Normal,589.35,589.26,Continue monitoring
+2749,2.86,66.83,-0.0929,Normal,,,Continue monitoring
+2750,2.69,67.23,-0.0596,Normal,,,Continue monitoring
+2751,2.74,67.37,0.0347,Normal,208.87,209.22,Continue monitoring
+2752,2.76,67.02,-0.0127,Normal,,,Continue monitoring
+2753,2.72,67.23,-0.0614,Normal,,,Continue monitoring
+2754,2.63,66.6,-0.0511,Normal,,,Continue monitoring
+2755,2.62,66.56,-0.0037,Normal,,,Continue monitoring
+2756,2.63,66.74,0.0309,Normal,238.41,238.51,Continue monitoring
+2757,2.68,66.81,0.0733,Normal,99.86,99.86,Continue monitoring
+2758,2.77,66.43,0.068,Normal,106.27,106.32,Continue monitoring
+2759,2.81,66.59,-0.0294,Normal,,,Continue monitoring
+2760,2.71,66.21,-0.0794,Normal,,,Continue monitoring
+2761,2.65,66.05,0.0003,Normal,24557.89,24500.0,Continue monitoring
+2762,2.72,65.89,-0.0041,Normal,,,Continue monitoring
+2763,2.65,65.74,0.0105,Normal,700.9,700.0,Continue monitoring
+2764,2.74,65.74,0.0376,Normal,193.31,193.09,Continue monitoring
+2765,2.72,65.71,0.0445,Normal,163.51,163.6,Continue monitoring
+2766,2.83,65.53,0.1043,Normal,68.79,68.74,Continue monitoring
+2767,2.93,65.58,0.0462,Normal,153.01,153.03,Continue monitoring
+2768,2.92,66.21,-0.0486,Normal,,,Continue monitoring
+2769,2.83,66.12,-0.0915,Normal,,,Continue monitoring
+2770,2.73,66.35,0.0183,Normal,397.67,397.27,Continue monitoring
+2771,2.87,66.77,0.1165,Normal,61.19,61.2,Continue monitoring
+2772,2.97,66.72,0.0343,Normal,204.74,204.96,Continue monitoring
+2773,2.94,66.3,0.0668,Normal,105.67,105.69,Continue monitoring
+2774,3.1,66.42,0.0618,Normal,111.71,111.65,Continue monitoring
+2775,3.06,66.75,-0.0586,Normal,,,Continue monitoring
+2776,2.98,66.86,-0.0458,Normal,,,Continue monitoring
+2777,2.97,67.02,-0.0094,Normal,,,Continue monitoring
+2778,2.97,66.65,0.0005,Normal,14652.45,14060.0,Continue monitoring
+2779,2.97,66.92,0.0019,Normal,3790.33,3700.0,Continue monitoring
+2780,2.97,67.11,-0.043,Normal,,,Continue monitoring
+2781,2.89,67.1,-0.0668,Normal,,,Continue monitoring
+2782,2.84,67.29,-0.0237,Normal,,,Continue monitoring
+2783,2.84,67.46,0.0448,Normal,159.98,159.82,Continue monitoring
+2784,2.92,67.63,0.0544,Normal,129.98,130.15,Continue monitoring
+2785,2.95,67.38,0.0108,Normal,652.28,652.78,Continue monitoring
+2786,2.95,67.25,-0.0139,Normal,,,Continue monitoring
+2787,2.92,67.16,-0.053,Normal,,,Continue monitoring
+2788,2.84,66.67,-0.0659,Normal,,,Continue monitoring
+2789,2.79,66.72,-0.0807,Normal,,,Continue monitoring
+2790,2.68,66.72,0.0221,Normal,331.5,331.22,Continue monitoring
+2791,2.83,66.98,0.1418,Normal,50.57,50.56,Continue monitoring
+2792,2.96,67.07,0.1124,Normal,62.59,62.63,Continue monitoring
+2793,3.06,66.89,0.0209,Normal,331.82,332.06,Continue monitoring
+2794,3.0,66.21,0.0217,Normal,322.78,322.58,Continue monitoring
+2795,3.1,66.59,0.0253,Normal,272.55,272.73,Continue monitoring
+2796,3.06,66.53,-0.0523,Normal,,,Continue monitoring
+2797,2.99,66.63,0.0148,Normal,471.95,473.65,Continue monitoring
+2798,3.08,66.19,0.0614,Normal,112.67,112.7,Continue monitoring
+2799,3.12,66.12,0.0209,Normal,329.09,329.19,Continue monitoring
+2800,3.13,66.24,-0.003,Normal,,,Continue monitoring
+2801,3.11,66.21,-0.0161,Normal,,,Continue monitoring
+2802,3.09,66.45,0.0082,Normal,842.6,842.68,Continue monitoring
+2803,3.13,66.51,-0.0341,Normal,,,Continue monitoring
+2804,3.03,66.41,-0.0149,Normal,,,Continue monitoring
+2805,3.1,66.42,0.0623,Normal,110.73,110.75,Continue monitoring
+2806,3.15,66.86,0.0679,Normal,100.83,100.88,Continue monitoring
+2807,3.23,66.89,0.0211,Normal,320.59,320.85,Continue monitoring
+2808,3.19,66.25,-0.0272,Normal,,,Continue monitoring
+2809,3.18,66.17,0.0089,Normal,768.11,766.29,Continue monitoring
+2810,3.21,66.13,0.0028,Normal,2425.3,2425.0,Continue monitoring
+2811,3.19,65.68,-0.0504,Normal,,,Continue monitoring
+2812,3.11,65.8,0.031,Normal,221.98,222.26,Continue monitoring
+2813,3.25,65.78,0.0817,Normal,82.6,82.62,Continue monitoring
+2814,3.27,66.02,-0.0193,Normal,,,Continue monitoring
+2815,3.21,66.11,-0.0621,Normal,,,Continue monitoring
+2816,3.15,66.32,-0.0236,Normal,,,Continue monitoring
+2817,3.16,66.4,-0.0252,Normal,,,Continue monitoring
+2818,3.1,66.58,0.0521,Normal,132.49,132.44,Continue monitoring
+2819,3.27,66.32,0.0698,Normal,96.48,96.42,Continue monitoring
+2820,3.24,66.38,0.0179,Normal,378.45,377.65,Continue monitoring
+2821,3.3,66.24,-0.0819,Normal,,,Continue monitoring
+2822,3.07,66.58,-0.0829,Normal,,,Continue monitoring
+2823,3.14,66.15,0.0061,Normal,1122.07,1124.59,Continue monitoring
+2824,3.09,66.54,0.0336,Normal,205.68,205.65,Continue monitoring
+2825,3.2,66.77,0.0509,Normal,133.62,133.6,Continue monitoring
+2826,3.19,66.79,-0.0123,Normal,,,Continue monitoring
+2827,3.18,67.08,-0.0403,Normal,,,Continue monitoring
+2828,3.11,66.87,0.0054,Normal,1281.62,1275.93,Continue monitoring
+2829,3.19,66.86,0.0955,Normal,71.28,71.31,Continue monitoring
+2830,3.3,66.7,0.0529,Normal,126.55,126.65,Continue monitoring
+2831,3.3,66.46,-0.0019,Normal,,,Continue monitoring
+2832,3.3,66.1,-0.0192,Normal,,,Continue monitoring
+2833,3.26,65.74,0.0083,Normal,817.22,812.05,Continue monitoring
+2834,3.31,65.92,-0.0415,Normal,,,Continue monitoring
+2835,3.17,66.25,0.0307,Normal,222.45,222.48,Continue monitoring
+2836,3.37,66.26,0.0743,Normal,89.24,89.23,Continue monitoring
+2837,3.32,66.97,-0.0784,Normal,,,Continue monitoring
+2838,3.22,66.97,-0.0456,Normal,,,Continue monitoring
+2839,3.23,67.31,0.0216,Normal,313.75,313.43,Continue monitoring
+2840,3.26,67.18,-0.0237,Normal,,,Continue monitoring
+2841,3.18,67.1,-0.0783,Normal,,,Continue monitoring
+2842,3.1,67.11,-0.0628,Normal,,,Continue monitoring
+2843,3.06,66.74,0.0276,Normal,251.17,251.45,Continue monitoring
+2844,3.16,66.61,-0.0005,Normal,,,Continue monitoring
+2845,3.06,66.57,-0.048,Normal,,,Continue monitoring
+2846,3.06,66.13,0.016,Normal,433.57,433.75,Continue monitoring
+2847,3.09,65.87,0.0817,Normal,84.58,84.58,Continue monitoring
+2848,3.23,66.0,0.0524,Normal,129.16,129.2,Continue monitoring
+2849,3.19,65.82,-0.0202,Normal,,,Continue monitoring
+2850,3.19,65.97,-0.0052,Normal,,,Continue monitoring
+2851,3.18,65.91,0.0013,Normal,5183.46,5246.15,Continue monitoring
+2852,3.19,65.76,-0.0114,Normal,,,Continue monitoring
+2853,3.16,65.24,0.0252,Normal,271.18,271.43,Continue monitoring
+2854,3.24,65.32,0.008,Normal,844.03,845.0,Continue monitoring
+2855,3.18,65.79,-0.0275,Normal,,,Continue monitoring
+2856,3.18,65.53,0.0378,Normal,180.56,180.42,Continue monitoring
+2857,3.25,65.63,0.0501,Normal,134.81,134.73,Continue monitoring
+2858,3.28,65.53,0.0338,Normal,198.69,198.82,Continue monitoring
+2859,3.32,65.46,0.0403,Normal,165.94,165.76,Continue monitoring
+2860,3.36,64.98,0.0049,Normal,1359.01,1355.1,Continue monitoring
+2861,3.33,65.41,-0.048,Normal,,,Continue monitoring
+2862,3.27,65.26,-0.0486,Normal,,,Continue monitoring
+2863,3.23,64.96,-0.1062,Normal,,,Continue monitoring
+2864,3.06,64.9,-0.0829,Normal,,,Continue monitoring
+2865,3.07,64.89,-0.0004,Normal,,,Continue monitoring
+2866,3.06,64.9,0.0351,Normal,197.76,197.72,Continue monitoring
+2867,3.14,64.85,0.018,Normal,382.34,381.11,Continue monitoring
+2868,3.09,64.78,0.0002,Normal,32811.68,34550.0,Continue monitoring
+2869,3.14,65.14,-0.002,Normal,,,Continue monitoring
+2870,3.09,65.16,-0.0116,Normal,,,Continue monitoring
+2871,3.11,64.91,0.0144,Normal,479.82,478.47,Continue monitoring
+2872,3.12,64.55,-0.0699,Normal,,,Continue monitoring
+2873,2.97,64.64,-0.0861,Normal,,,Continue monitoring
+2874,2.94,64.69,-0.0161,Normal,,,Continue monitoring
+2875,2.94,64.44,-0.0025,Normal,,,Continue monitoring
+2876,2.94,64.14,0.0538,Normal,131.19,131.23,Continue monitoring
+2877,3.05,63.8,0.0478,Normal,145.38,145.4,Continue monitoring
+2878,3.03,63.54,0.015,Normal,464.85,464.67,Continue monitoring
+2879,3.08,63.45,0.0021,Normal,3342.86,3295.24,Continue monitoring
+2880,3.04,63.67,-0.0196,Normal,,,Continue monitoring
+2881,3.04,63.8,-0.0381,Normal,,,Continue monitoring
+2882,2.96,63.44,-0.035,Normal,,,Continue monitoring
+2883,2.97,63.36,0.0293,Normal,239.54,239.93,Continue monitoring
+2884,3.02,63.34,0.0333,Normal,209.84,209.61,Continue monitoring
+2885,3.04,62.94,0.0837,Normal,83.15,83.15,Continue monitoring
+2886,3.19,62.9,0.1034,Normal,65.85,65.86,Continue monitoring
+2887,3.24,62.69,0.0402,Normal,167.96,168.16,Continue monitoring
+2888,3.27,62.36,0.0304,Normal,221.4,221.38,Continue monitoring
+2889,3.3,62.27,0.0193,Normal,347.79,347.15,Continue monitoring
+2890,3.31,62.45,-0.0481,Normal,,,Continue monitoring
+2891,3.21,62.28,-0.031,Normal,,,Continue monitoring
+2892,3.25,62.8,0.0128,Normal,528.98,527.34,Continue monitoring
+2893,3.23,62.95,-0.0098,Normal,,,Continue monitoring
+2894,3.23,63.43,-0.0742,Normal,,,Continue monitoring
+2895,3.09,63.46,-0.1349,Normal,,,Continue monitoring
+2896,2.96,62.83,-0.0531,Normal,,,Continue monitoring
+2897,2.98,62.87,0.0005,Normal,13901.81,14040.0,Continue monitoring
+2898,2.96,62.84,0.1125,Normal,62.59,62.58,Continue monitoring
+2899,3.2,62.78,0.1443,Normal,47.08,47.12,Continue monitoring
+2900,3.25,62.61,0.0322,Normal,209.68,209.63,Continue monitoring
+2901,3.27,62.55,-0.0046,Normal,,,Continue monitoring
+2902,3.24,63.01,0.0307,Normal,220.56,220.2,Continue monitoring
+2903,3.33,63.04,-0.0451,Normal,,,Continue monitoring
+2904,3.15,62.95,0.016,Normal,429.65,428.12,Continue monitoring
+2905,3.36,62.89,0.1522,Normal,43.6,43.63,Continue monitoring
+2906,3.45,63.26,0.0529,Normal,123.84,123.82,Continue monitoring
+2907,3.47,63.04,-0.0887,Normal,,,Continue monitoring
+2908,3.27,63.22,-0.13,Normal,,,Continue monitoring
+2909,3.21,63.26,-0.0826,Normal,,,Continue monitoring
+2910,3.11,63.19,-0.0486,Normal,,,Continue monitoring
+2911,3.11,63.26,-0.0432,Normal,,,Continue monitoring
+2912,3.02,63.56,-0.0685,Normal,,,Continue monitoring
+2913,2.97,63.14,-0.0282,Normal,,,Continue monitoring
+2914,2.97,63.15,0.0021,Normal,3410.63,3347.62,Continue monitoring
+2915,2.98,63.49,-0.003,Normal,,,Continue monitoring
+2916,2.96,63.46,-0.0536,Normal,,,Continue monitoring
+2917,2.87,63.67,-0.0368,Normal,,,Continue monitoring
+2918,2.89,63.56,-0.0688,Normal,,,Continue monitoring
+2919,2.73,63.92,-0.1253,Normal,,,Continue monitoring
+2920,2.63,63.77,-0.0348,Normal,,,Continue monitoring
+2921,2.66,63.47,-0.0454,Normal,,,Continue monitoring
+2922,2.54,62.94,-0.0309,Normal,,,Continue monitoring
+2923,2.6,62.81,0.1459,Normal,50.7,50.72,Continue monitoring
+2924,2.84,62.56,0.0802,Normal,89.29,89.28,Continue monitoring
+2925,2.76,62.42,-0.0271,Normal,,,Continue monitoring
+2926,2.78,62.3,0.0342,Normal,210.95,211.11,Continue monitoring
+2927,2.83,62.06,-0.0308,Normal,,,Continue monitoring
+2928,2.72,61.61,-0.1442,Normal,,,Continue monitoring
+2929,2.54,61.48,-0.101,Normal,,,Continue monitoring
+2930,2.52,61.32,0.0377,Normal,198.47,198.41,Continue monitoring
+2931,2.62,61.63,0.0363,Normal,203.12,203.31,Continue monitoring
+2932,2.59,61.18,-0.0361,Normal,,,Continue monitoring
+2933,2.55,61.03,-0.0454,Normal,,,Continue monitoring
+2934,2.5,60.85,-0.0228,Normal,,,Continue monitoring
+2935,2.5,60.76,0.0,Normal,,,Continue monitoring
+2936,2.5,60.81,0.0144,Normal,520.3,520.83,Continue monitoring
+2937,2.53,60.58,0.0653,Normal,114.49,114.4,Continue monitoring
+2938,2.63,60.34,-0.0139,Normal,,,Continue monitoring
+2939,2.5,60.43,-0.0653,Normal,,,Continue monitoring
+2940,2.5,60.51,-0.0005,Normal,,,Continue monitoring
+2941,2.5,60.86,0.0269,Normal,278.9,278.81,Continue monitoring
+2942,2.55,60.48,0.0,Normal,,,Continue monitoring
+2943,2.5,60.9,-0.0269,Normal,,,Continue monitoring
+2944,2.5,60.69,0.0,Normal,,,Continue monitoring
+2945,2.5,60.61,0.0,Normal,,,Continue monitoring
+2946,2.5,60.78,0.0,Normal,,,Continue monitoring
+2947,2.5,60.4,0.018,Normal,415.78,416.67,Continue monitoring
+2948,2.54,60.66,0.0,Normal,,,Continue monitoring
+2949,2.5,60.93,-0.0165,Normal,,,Continue monitoring
+2950,2.5,61.2,0.0,Normal,,,Continue monitoring
+2951,2.5,60.57,-0.0015,Normal,,,Continue monitoring
+2952,2.5,60.83,0.0,Normal,,,Continue monitoring
+2953,2.5,60.74,0.0,Normal,,,Continue monitoring
+2954,2.5,60.01,0.0669,Normal,112.18,112.11,Continue monitoring
+2955,2.63,59.79,0.0871,Normal,84.59,84.62,Continue monitoring
+2956,2.67,59.77,0.0705,Normal,103.86,103.97,Continue monitoring
+2957,2.77,59.87,0.0409,Normal,176.62,176.77,Continue monitoring
+2958,2.76,59.64,0.0225,Normal,321.71,321.78,Continue monitoring
+2959,2.82,59.17,0.0577,Normal,124.33,124.44,Continue monitoring
+2960,2.87,58.9,0.0759,Normal,93.89,93.94,Continue monitoring
+2961,2.97,58.94,0.0759,Normal,92.65,92.62,Continue monitoring
+2962,3.02,58.96,-0.0443,Normal,,,Continue monitoring
+2963,2.88,58.75,-0.0432,Normal,,,Continue monitoring
+2964,2.94,58.79,0.0741,Normal,95.27,95.28,Continue monitoring
+2965,3.03,58.89,0.0086,Normal,813.01,810.47,Continue monitoring
+2966,2.95,58.69,-0.0346,Normal,,,Continue monitoring
+2967,2.96,58.11,0.0711,Normal,99.05,99.02,Continue monitoring
+2968,3.1,58.22,0.116,Normal,59.51,59.48,Continue monitoring
+2969,3.19,57.83,0.0989,Normal,68.84,68.86,Continue monitoring
+2970,3.29,58.38,-0.0031,Normal,,,Continue monitoring
+2971,3.19,58.58,-0.0528,Normal,,,Continue monitoring
+2972,3.19,58.19,0.0198,Normal,344.73,343.94,Continue monitoring
+2973,3.23,58.4,-0.0043,Normal,,,Continue monitoring
+2974,3.18,58.69,-0.0907,Normal,,,Continue monitoring
+2975,3.05,58.32,-0.0612,Normal,,,Continue monitoring
+2976,3.06,58.32,-0.0232,Normal,,,Continue monitoring
+2977,3.0,58.53,-0.0074,Normal,,,Continue monitoring
+2978,3.04,58.74,0.0163,Normal,426.58,426.99,Continue monitoring
+2979,3.03,58.89,-0.0228,Normal,,,Continue monitoring
+2980,3.0,59.4,-0.0503,Normal,,,Continue monitoring
+2981,2.93,59.93,-0.0311,Normal,,,Continue monitoring
+2982,2.93,59.59,0.0561,Normal,125.9,126.02,Continue monitoring
+2983,3.04,59.62,0.0888,Normal,78.36,78.38,Continue monitoring
+2984,3.11,59.92,0.0476,Normal,144.82,144.75,Continue monitoring
+2985,3.14,59.78,0.0525,Normal,130.57,130.67,Continue monitoring
+2986,3.22,59.78,0.0665,Normal,102.05,101.95,Continue monitoring
+2987,3.27,59.24,0.0453,Normal,148.48,148.57,Continue monitoring
+2988,3.31,59.08,0.084,Normal,79.66,79.64,Continue monitoring
+2989,3.44,59.23,0.0757,Normal,86.63,86.66,Continue monitoring
+2990,3.46,59.36,-0.0303,Normal,,,Continue monitoring
+2991,3.38,59.76,0.0397,Normal,166.69,166.75,Continue monitoring
+2992,3.54,59.86,0.1433,Normal,45.1,45.08,Continue monitoring
+2993,3.67,59.72,0.0317,Normal,199.61,199.68,Continue monitoring
+2994,3.6,59.73,-0.0145,Normal,,,Continue monitoring
+2995,3.64,59.63,0.0389,Normal,163.54,163.5,Continue monitoring
+2996,3.68,59.71,-0.0184,Normal,,,Continue monitoring
+2997,3.6,59.84,-0.0054,Normal,,,Continue monitoring
+2998,3.67,59.88,0.0806,Normal,78.5,78.54,Continue monitoring
+2999,3.76,59.57,0.0922,Normal,67.66,67.68,Continue monitoring
