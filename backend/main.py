@@ -2,11 +2,20 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 import joblib
 
+import firebase_admin
+from firebase_admin import credentials, firestore
+
 app = FastAPI(
     title="AI Smart Vaccine Cold Chain API",
     description="Backend API for AI-based vaccine cold-chain monitoring",
     version="1.0.0"
 )
+
+# Initialize Firebase
+cred = credentials.Certificate("vaccine-cold-chain321-firebase-adminsdk-fbsvc-99f451deeb.json")
+firebase_admin.initialize_app(cred)
+
+db = firestore.client() 
 
 # Load trained AI model
 model = joblib.load("models/condition_model.joblib")
@@ -91,6 +100,17 @@ def process_sensor_data(sensor: SensorData):
         condition,
         time_remaining
     )
+
+        # Save sensor data and AI prediction to Firestore
+    db.collection("sensor_readings").add({
+        "temperature": sensor.temperature,
+        "humidity": sensor.humidity,
+        "temperature_rate": sensor.temperature_rate,
+        "condition": condition,
+        "time_to_critical": time_remaining,
+        "recommended_action": action,
+        "timestamp": firestore.SERVER_TIMESTAMP
+    })
 
     return {
         "temperature": sensor.temperature,
