@@ -20,6 +20,7 @@ The system continuously collects environmental data using an **SHT33 sensor conn
 
 ---
 
+
 ##  Objectives
 
 * Monitor vaccine storage temperature continuously.
