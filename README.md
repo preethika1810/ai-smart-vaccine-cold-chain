@@ -532,7 +532,7 @@ The project can be further enhanced with:
 ---
 
 
-## 📚Applications
+## Applications
 
 The system can be adapted for monitoring temperature-sensitive biological and pharmaceutical products, including:
 
