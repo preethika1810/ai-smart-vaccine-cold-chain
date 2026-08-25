@@ -233,7 +233,7 @@ The objective is to transform raw sensor data into actionable information.
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 The web dashboard provides a centralized view of the entire cold-chain monitoring system.
 
