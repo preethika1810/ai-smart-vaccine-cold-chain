@@ -41,7 +41,7 @@ The proposed system creates an intelligent monitoring pipeline  :
 
 The sensor collects environmental readings, while the Raspberry Pi acts as the edge device responsible for acquiring and transmitting the data.
 
-The backend receives and processes the telemetry data. Historical and current readings are analyzed by the AI prediction module to determine the current risk level and estimate the possibility of a future temperature-related failure.
+The backend receives and processes the telemetry data. Historical and current reading are analyzed by the AI prediction module to determine the current risk level and estimate the possibility of a future temperature-related failure.
 
 The dashboard provides users with real-time visibility into vaccine batches, sensor readings, risk predictions, alerts, devices, transportation status, and corrective actions.
 
