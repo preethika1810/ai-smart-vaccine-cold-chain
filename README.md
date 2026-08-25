@@ -201,7 +201,7 @@ The prediction system helps identify risks before the vaccine storage condition 
 
 ---
 
-## ⏱️ Time-to-Failure Prediction
+##  Time-to-Failure Prediction
 
 The system estimates how much time remains before the temperature reaches a predefined critical threshold.
 
