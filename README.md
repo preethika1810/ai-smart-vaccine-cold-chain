@@ -152,6 +152,7 @@ The system does more than simply detect whether the current temperature is safe.
 
 It analyzes temperature behavior over time to determine whether the system is moving toward a potentially unsafe condition.
 
+
 The prediction pipeline considers:
 
 * Current temperature
