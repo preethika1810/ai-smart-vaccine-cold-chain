@@ -145,6 +145,7 @@ The AI component analyzes telemetry and temperature trends to identify abnormal 
 
 ---
 
+
 ##  AI-Based Prediction
 
 The system does more than simply detect whether the current temperature is safe.
