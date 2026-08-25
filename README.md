@@ -151,11 +151,12 @@ The prediction pipeline considers:
 
 The system can estimate **Time to Failure (TTF)** based on the current temperature and temperature trend.
 
-### Example
+### Examp
 
 If the current temperature is moving toward a critical threshold:
 
-```text
+```example
+
 Current Temperature
         ↓
 Temperature Trend
@@ -642,7 +643,12 @@ Add an appropriate open-source license if the project is intended to be publicly
 ##  Acknowledgement
 
 This project was developed as an academic innovation project focusing on the application of **IoT, Artificial Intelligence, cloud technologies, and biotechnology** to improve vaccine cold-chain monitoring.
-
+More innovative and professional
+Suitable for a college innovation project
+Clearly explain IoT + AI + cloud + biotechnology
+Include Raspberry Pi, SHT33, FastAPI, and Firebase
+Mention failure backup/satellite communication if you want
+Keep it concise and technically credible.
 ---
 
 ##  Keywords
