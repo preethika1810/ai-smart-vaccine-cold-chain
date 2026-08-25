@@ -35,7 +35,7 @@ The system continuously collects environmental data using an **SHT33 sensor conn
 
 ##  Proposed Solution
 
-The proposed system creates an intelligent monitoring pipeline:
+The proposed system creates an intelligent monitoring pipeline  :
 
 **SHT33 Sensor → Raspberry Pi → Backend → Firebase/Cloud → AI Prediction → Web Dashboard → Alerts & Recommendations**
 
