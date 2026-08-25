@@ -6,7 +6,7 @@
 
 [4] Parthiban, K. & Sandhya, R. (2024). "Quality Control of Vaccine Cold Chain Transportation Under Intelligent System Monitoring – From China's Experience." #  AI Smart Vaccine Cold Chain Monitor
 
-An intelligent IoT and AI-based vaccine cold-chain monitoring system designed to continuously monitor vaccine storage conditions, detect temperature risks, predict potential cold-chain failures, and provide preventive alerts through a web-based dashboard.
+An intelligent IoT and AI-based vaccine cold-chain monitoring system designed to continuously monitor vaccine storage conditions, detect temperature risks, predict potential cold-chain failures, and   provide preventive alerts through a web-based dashboard.
 
 ---
 
