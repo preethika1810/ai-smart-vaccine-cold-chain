@@ -128,6 +128,7 @@ The web dashboard provides:
 * Corrective actions
 * Audit logs
 
+
 ### Backend
 
 The backend acts as the communication and processing layer between the IoT devices, AI module, database/cloud services, and dashboard.
