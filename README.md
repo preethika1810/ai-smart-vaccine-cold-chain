@@ -1,4 +1,10 @@
- #  AI Smart Vaccine Cold Chain Monitor
+[1] Mutambik, I. (2026). "Cold Chain Management of vaccines at pharmacy level: Breaking points and technological solutions."
+
+[2] Das, A. et al. (2025). "A Blockchain–IoT–ML Framework for Sustainable Vaccine Cold Chain Management in Pharmaceutical Supply Chains."
+
+[3] Li, X. et al. (2024). "IoT-Based Multi-Parameter Monitoring for Robust Vaccine Storage in Underserved Areas."
+
+[4] Parthiban, K. & Sandhya, R. (2024). "Quality Control of Vaccine Cold Chain Transportation Under Intelligent System Monitoring – From China's Experience." #  AI Smart Vaccine Cold Chain Monitor
 
 An intelligent IoT and AI-based vaccine cold-chain monitoring system designed to continuously monitor vaccine storage conditions, detect temperature risks, predict potential cold-chain failures, and provide preventive alerts through a web-based dashboard.
 
