@@ -163,7 +163,7 @@ The prediction pipeline considers:
 
 The system can estimate **Time to Failure (TTF)** based on the current temperature and temperature trend.
 
-### Examp
+### Example
 
 If the current temperature is moving toward a critical threshold:
 
